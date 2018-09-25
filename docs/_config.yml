@@ -1,0 +1,6 @@
+title: AWS Community Nordics
+highlighter: rouge
+url: https://awscommunitynordics.org/
+markdown: kramdown
+plugins:
+  - jekyll-redirect-from
