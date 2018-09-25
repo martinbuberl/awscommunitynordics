@@ -24,5 +24,5 @@ permalink: /slack/
     <li>Please keep the conversations in English as we have a lot of international community members</li>
 </ul>
 <p>Hope to see all of you in Slack!</p>
-<p>Cheers,</br>
+<p>Cheers,<br/>
 Martin Buberl</p>
