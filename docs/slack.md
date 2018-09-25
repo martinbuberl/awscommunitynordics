@@ -1,13 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-
-<meta charset="utf-8">
-<title>AWS Community Nordics - AWS Community Nordics Slack</title>
-<link rel="stylesheet" href="/basic.css" />
-
-</head>
-<body>
+---
+layout: default
+title:  "AWS Community Nordics Slack"
+permalink: /slack/
+---
 
 <h1>AWS Community Nordics Slack</h1>
 <p>For a lot of us, Slack is increasingly becoming the place where professional communication happens. It redefines how easy it can be to communicate and network today.</p>
@@ -31,6 +26,3 @@
 <p>Hope to see all of you in Slack!</p>
 <p>Cheers,</br>
 Martin Buberl</p>
-
-</body>
-</html>
