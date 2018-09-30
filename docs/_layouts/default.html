@@ -4,10 +4,21 @@
 
 <meta charset="utf-8">
 <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
-<link rel="stylesheet" href="/basic.css" />
+
+<link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+<link rel="stylesheet" href="/content/default.css" />
 
 </head>
 <body>
+
+<header>
+    <a href="/">AWS Community Nordics</a>
+    <ul>
+        <li>User Groups</li>
+        <li>Community Day</li>
+        <li>Slack</li>
+    </ul>
+</div>
 
 {{ content }}
 
