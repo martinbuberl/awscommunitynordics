@@ -14,7 +14,7 @@ html {
   font-family: 'Helvetica Neue', 'Myriad Pro', 'Segoe UI', Myriad, Helvetica, 'Lucida Grande', 'DejaVu Sans Condensed', 'Liberation Sans', 'Nimbus Sans L', Tahoma, Geneva, Arial, sans-serif;
 }
 body {
-  padding: 1em;
+  padding: 0;
   margin: 0 auto;
   max-width: 800px;
 }
@@ -58,4 +58,18 @@ h1, h2, h3, h4, h5, h6 {
     float: right;
     margin: 0 0 .5em 1em;
   }
+}
+
+/* header */
+
+header {
+  background-color: #cccccc;
+}
+header ul {
+  padding: 0;
+  margin: 0;
+  float: right;
+}
+header li {
+  display: inline-block;
 }
