@@ -19,16 +19,30 @@
   <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
 </head>
 <body>
+
   <header>
-    <a href="/">AWS Community Nordics</a>
-    <ul>
-      <li><a href="/usergroups/">User Groups</a></li>
-      <li><a href="/communityday/">Community Day</a></li>
-      <li><a href="/slack/">Slack</a></li>
-    </ul>
+    <nav class="navbar navbar-expand-sm navbar-dark fixed-top bg-dark">
+      <a class="navbar-brand" href="/">AWS Community Nordics</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item{% if page.navigation == "usergroups" %} active{% endif %}"><a class="nav-link" href="/usergroups/">User Groups{% if page.navigation == "usergroups" %} <span class="sr-only">(current)</span>{% endif %}</a></li>
+          <li class="nav-item{% if page.navigation == "communityday" %} active{% endif %}"><a class="nav-link" href="/communityday/">Community Day{% if page.navigation == "communityday" %} <span class="sr-only">(current)</span>{% endif %}</a></li>
+          <li class="nav-item{% if page.navigation == "slack" %} active{% endif %}"><a class="nav-link" href="/slack/">Slack{% if page.navigation == "slack" %} <span class="sr-only">(current)</span>{% endif %}</a></li>
+        </ul>
+      </div>
+    </nav>
   </header>
 
-  {{ content }}
+  <div class="container">
+    {{ content }}
+    <footer class="pt-4 my-md-5 pt-md-5 border-top">
+      <div class="row">Copyright</div>
+    </footer>
+  </div>
 
   <script src="/assets/jquery-3.3.1/jquery.slim.min.js"></script>
   <script src="/assets/popper-1.14.4/popper.min.js"></script>

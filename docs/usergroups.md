@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  "User Groups"
+navigation: "usergroups"
 permalink: /usergroups/
 ---
 

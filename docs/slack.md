@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  "AWS Community Nordics Slack"
+navigation: "slack"
 permalink: /slack/
 ---
 

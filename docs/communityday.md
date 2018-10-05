@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  "AWS Community Day"
+navigation: "communityday"
 permalink: /communityday/
 ---
 
