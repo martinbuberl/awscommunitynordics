@@ -15,34 +15,38 @@
   <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
   <link rel="icon" type="image/png" href="/content/img/favicon.png" />
   <link rel="stylesheet" href="/assets/bootstrap-4.1.3/css/bootstrap.min.css" />
-
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous" />
+  <style>
+  body > .container {
+  padding: 60px 15px 0;
+}
+</style>
   <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
 </head>
 <body>
 
-  <header>
-    <nav class="navbar navbar-expand-sm navbar-dark fixed-top bg-dark">
+  <nav class="navbar navbar-expand-lg navbar-dark fixed-top bg-dark">
+    <div class="container">
       <a class="navbar-brand" href="/">AWS Community Nordics</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-
-      <div class="collapse navbar-collapse" id="navbarCollapse">
-        <ul class="navbar-nav mr-auto">
+      <div class="d-flex ml-auto"><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#globalNavbar" aria-controls="globalNavbar" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button></div>
+      <div class="collapse navbar-collapse" id="globalNavbar">
+        <ul class="navbar-nav mr-auto order-1">
           <li class="nav-item{% if page.navigation == "usergroups" %} active{% endif %}"><a class="nav-link" href="/usergroups/">User Groups{% if page.navigation == "usergroups" %} <span class="sr-only">(current)</span>{% endif %}</a></li>
           <li class="nav-item{% if page.navigation == "communityday" %} active{% endif %}"><a class="nav-link" href="/communityday/">Community Day{% if page.navigation == "communityday" %} <span class="sr-only">(current)</span>{% endif %}</a></li>
-          <li class="nav-item{% if page.navigation == "slack" %} active{% endif %}"><a class="nav-link" href="/slack/">Slack{% if page.navigation == "slack" %} <span class="sr-only">(current)</span>{% endif %}</a></li>
+        </ul>
+        <ul class="navbar-nav order-2">
+          <!--
+          <li class="nav-item"><a class="nav-link" href="#"><i class="fab fa-twitter"></i></a></li>
+          -->
+          <li class="nav-item"><a class="nav-link" href="https://aws-community-nordics-slackin.herokuapp.com/" target="_blank"><i class="fab fa-slack"></i></a></li>
         </ul>
       </div>
-    </nav>
-  </header>
+    </div>
+  </nav>
 
-  <div class="container">
+  <main role="main" class="container">
     {{ content }}
-    <footer class="pt-4 my-md-5 pt-md-5 border-top">
-      <div class="row">Copyright</div>
-    </footer>
-  </div>
+  </main>
 
   <script src="/assets/jquery-3.3.1/jquery.slim.min.js"></script>
   <script src="/assets/popper-1.14.4/popper.min.js"></script>

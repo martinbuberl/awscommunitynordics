@@ -5,6 +5,5 @@ navigation: "usergroups"
 permalink: /usergroups/
 ---
 
-<h1>AWS Community Nordics</h1>
-<h2>User Groups</h2>
+<h1>User Groups</h1>
 <p>more info coming soon</p>
