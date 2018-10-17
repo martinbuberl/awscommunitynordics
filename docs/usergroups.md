@@ -22,6 +22,12 @@ permalink: /usergroups/
   <li><a href="https://www.meetup.com/AWS-User-Group-Trondheim">Trondheim</a></li>
   <li><a href="https://www.meetup.com/AWS-User-Group-Stavanger/">Stavanger</a></li>
 </ul>
+<h2>Finland</h2>
+<ul>
+  <li><a href="https://www.meetup.com/awsfin/">Helsinki</a></li>
+  <li><a href="https://www.meetup.com/AWS-User-Group-Tampere/">Tampere</a></li>
+  <li><a href="https://www.meetup.com/AWS-User-Group-Oulu/">Oulu</a></li>
+</ul>
 <h2>Denmark</h2>
 <ul>
   <li><a href="https://www.meetup.com/Copenhagen-AWS-User-Group/">Copenhagen</a></li>
@@ -31,3 +37,5 @@ permalink: /usergroups/
 <ul>
   <li><a href="https://www.meetup.com/AWS-User-Group-Reykjavik/">Reykjavik</a></li>
 </ul>
+
+<p><a href="http://nordics.aws-usergroups.com/">Start your own AWS User Group in the Nordics</a></p>
