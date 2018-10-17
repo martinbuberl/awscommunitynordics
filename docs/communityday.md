@@ -8,7 +8,7 @@ permalink: /communityday/
 <div class="jumbotron">
   <div class="container">
     <h1><img src="/content/img/awscommunityday-nordics.png" height="120" /></h1>
-    <h2 class="display-4 mt-5">Copenhagen | 19 February 2019</h2>
+    <h2 class="display-4 mt-5">Copenhagen | 2019</h2>
     <h3 class="display-5 mt-4">#AWSCommunity</h3>
   </div>
 </div>
