@@ -6,10 +6,10 @@ permalink: /communityday/
 ---
 
 <div class="jumbotron">
-  <div class="container">
+  <div class="container text-center">
     <h1><img src="/content/img/awscommunityday-nordics.png" height="120" /></h1>
-    <h2 class="display-4 mt-5">Copenhagen | 2019</h2>
-    <h3 class="display-5 mt-4">#AWSCommunity</h3>
+    <h2 class="display-5 mt-4">Copenhagen | 2019</h2>
+    <p class="font-weight-bold mt-3">#AWSCommunity</p>
   </div>
 </div>
 
@@ -19,7 +19,13 @@ permalink: /communityday/
   <!--
   <h2>Agenda</h2>
   <p>tbd</p>
+  <h2>Speakers</2>
+  <p>tbd</p>
   <h2>Sponsors</h2>
   <p>tbd</p>
+  <h2>Volunteers</h2>
+  <p>
   -->
+  <h2>Contact Us</h2>
+  <p>For sponsorship enquires, topic proposals, ticketing, feedback or any general question on AWS Community Day Copenhagen 2019, please drop an email to <a href="mailto:hello@martinbuberl.com">hello@martinbuberl.com</a>.</p>
 </div>
