@@ -25,6 +25,9 @@
     color: #ffffff;
     border-radius: 0;
   }
+  footer {
+    margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+  }
 }
 </style>
   <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
@@ -52,6 +55,10 @@
 
   <main role="main">
 {{ content }}
+    <footer class="container">
+      <p class="float-right"><a href="#">Back to top</a></p>
+      <p>Built with love by vikings. Get <a href="https://github.com/martinbuberl/awscommunitynordics">involved</a>.</p>
+    </footer>
   </main>
 
   <script src="/assets/jquery-3.3.1/jquery.slim.min.js"></script>
