@@ -6,7 +6,7 @@ permalink: /usergroups/
 ---
 
 <div class="container">
-  <h1>User Groups</h1>
+  <h1>User Groups in the Nordics</h1>
 
   <h2>Sweden</h2>
   <ul>
