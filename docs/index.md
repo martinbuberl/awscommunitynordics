@@ -10,7 +10,8 @@ permalink: /
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="first-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide">
+      <img class="first-slide" src="/content/img/aurora.jpg" alt="First slide">
+      <!-- https://unsplash.com/photos/62V7ntlKgL8 -->
       <div class="container">
         <div class="carousel-caption text-left">
           <h1>User Groups</h1>
