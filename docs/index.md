@@ -9,24 +9,25 @@ permalink: /
     <li data-target="#myCarousel" data-slide-to="1"></li>
   </ol>
   <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="first-slide" src="/content/img/aurora.jpg" alt="First slide">
+    <div class="carousel-item communityday active">
+      <img class="first-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide">
+      <div class="container">
+        <div class="carousel-caption text-center">
+          <h1><img src="/content/img/awscommunityday-nordics.png" height="100" /></h1>
+          <h2 class="mt-4">Calling all developers!</h2>
+          <p>Join us 19th February 2019 for a free, community-led event.</p>
+          <p class="mt-4"><a class="btn btn-lg btn-primary" href="/communityday/" role="button">Learn more</a></p>
+        </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="second-slide" src="/content/img/aurora.jpg" alt="Second slide">
       <!-- https://unsplash.com/photos/62V7ntlKgL8 -->
       <div class="container">
         <div class="carousel-caption text-left">
           <h1>User Groups</h1>
           <p>AWS User Groups are interactive communities that help answer questions, share ideas, and learn about new services and best practices. Today we have over 4,500 User Group members in the Nordics.</p>
           <p><a class="btn btn-lg btn-primary" href="/usergroups/" role="button">Learn more</a></p>
-        </div>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img class="second-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Second slide">
-      <div class="container">
-        <div class="carousel-caption text-left">
-          <h1>Community Day</h1>
-          <p>AWS Community Day is an event for AWS users organized by the communities themselves.</p>
-          <p><a class="btn btn-lg btn-primary" href="/communityday/" role="button">Learn more</a></p>
         </div>
       </div>
     </div>
