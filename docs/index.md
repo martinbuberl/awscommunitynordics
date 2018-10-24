@@ -10,7 +10,6 @@ permalink: /
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item communityday active">
-      <img class="first-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="First slide">
       <div class="container">
         <div class="carousel-caption text-center">
           <h1><img src="/content/img/awscommunityday-nordics.png" height="100" /></h1>
@@ -21,8 +20,6 @@ permalink: /
       </div>
     </div>
     <div class="carousel-item">
-      <img class="second-slide" src="/content/img/aurora.jpg" alt="Second slide">
-      <!-- https://unsplash.com/photos/62V7ntlKgL8 -->
       <div class="container">
         <div class="carousel-caption text-left">
           <h1>User Groups</h1>
