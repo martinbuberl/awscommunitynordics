@@ -23,7 +23,7 @@ permalink: /
       <div class="container">
         <div class="carousel-caption text-left">
           <h1>User Groups</h1>
-          <p>AWS User Groups are interactive communities that help answer questions, share ideas, and learn about new services and best practices. Today we have over 4,500 User Group members in the Nordics.</p>
+          <p>AWS User Groups are interactive communities that help answer questions, share ideas, and learn about new services and best practices. Today we have over 6,900 User Group members in the Nordics.</p>
           <p><a class="btn btn-lg btn-primary" href="/usergroups/" role="button">Learn more</a></p>
         </div>
       </div>
