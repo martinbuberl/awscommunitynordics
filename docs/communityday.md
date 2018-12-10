@@ -38,7 +38,7 @@ permalink: /communityday/
   <h2>What makes the AWS Community Day special?</h2>
   <p>Amazon is generously footing the bill for the event but the content is organized and presented by the community, instead of Amazon employees. At this conference, there will be no vendor talks, no partner talks, no sponsored talks. All speakers are expert AWS users from the Nordics - including AWS User Group leaders and AWS Heroes - with real life experience in the AWS topics they are presenting.</p>
   <h2>Venue</h2>
-  <p>This free event is being held at the Scandic Copenhagen on Tuesday, 19th February 2018.<br/>
+  <p>This free event is being held at the Scandic Copenhagen on Tuesday, 19th February 2019.<br/>
   Breakfast, lunch and snacks are provided to keep the community fueled for learning and networking.</p>
   <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2249.807371516021!2d12.55742131592752!3d55.67494978053265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4652530b9cac3615%3A0x5b367ee651f5cfc3!2sScandic+Copenhagen!5e0!3m2!1sen!2sdk!4v1540406635175" width="100%" height="400" frameborder="0" style="border:0"></iframe></p>
 
