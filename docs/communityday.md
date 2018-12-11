@@ -36,7 +36,7 @@ permalink: /communityday/
   <h2>What is the AWS Community Day?</h2>
   <p>The AWS Community Day is a full day event for AWS users organized by the communities themselves. Once a year all AWS users come together to network, learn from each other and get inspired by deep-tech sessions presented by expert AWS users and community leaders.</p>
   <h2>What makes the AWS Community Day special?</h2>
-  <p>Amazon is generously footing the bill for the event but the content is organized and presented by the community, instead of Amazon employees. At this conference, there will be no vendor talks, no partner talks, no sponsored talks. All speakers are expert AWS users from the Nordics - including AWS User Group leaders and AWS Heroes - with real life experience in the AWS topics they are presenting.</p>
+  <p>Amazon is generously supporting the event but the content is organized and presented by the community, instead of Amazon employees. At this conference, there will be no vendor talks, no partner talks, no sponsored talks. All speakers are expert AWS users from the Nordics - including AWS User Group leaders and AWS Heroes - with real life experience in the AWS topics they are presenting.</p>
   <h2>Venue</h2>
   <p>This free event is being held at the Scandic Copenhagen on Tuesday, 19th February 2019.<br/>
   Breakfast, lunch and snacks are provided to keep the community fueled for learning and networking.</p>
