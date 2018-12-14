@@ -45,7 +45,7 @@ permalink: /communityday/
   <p><a class="btn btn-lg btn-primary" href="https://www.eventbrite.com/e/aws-community-day-nordics-tickets-53715075236" role="button">Register</a></p>
   <h2>Agenda &amp; Speakers</h2>
   <p>Topics are chosen by the community and focus on cutting-edge AWS cloud technologies such as Serverless, Containers, Microservices, DevOps &amp; SRE, Machine Learning &amp; Artificial Intelligence, and best practices and real-world customer cases. We strive to cover all technical levels, so you can have an interesting day no matter if you're an AWS expert or just getting started in the cloud.</p>
-  <p><a class="btn btn-lg btn-primary" href="https://docs.google.com/forms/d/e/1FAIpQLScQGymuW6Ls7AC579fKLPtMQKB7p88UswDgsUL8yt6zt6zDnw/viewform" role="button">Call for Papers</a></p>
+  <p><a class="btn btn-lg btn-secondary" href="https://docs.google.com/forms/d/e/1FAIpQLScQGymuW6Ls7AC579fKLPtMQKB7p88UswDgsUL8yt6zt6zDnw/viewform" role="button">Call for Papers</a></p>
   <h2>Contact Us</h2>
   <p>For sponsorship enquires, topic proposals, ticketing, feedback or any general question, please send an email to <a href="mailto:info@awscommunitynordics.org">info@awscommunitynordics.org</a>.</p>
   <h2>Code of Conduct</h2>
