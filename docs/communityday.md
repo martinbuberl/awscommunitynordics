@@ -3,6 +3,7 @@ layout: default
 title:  "AWS Community Day"
 navigation: "communityday"
 permalink: /communityday/
+image: "og-communityday.jpg"
 ---
 
 <!-- TODO
