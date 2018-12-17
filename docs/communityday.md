@@ -51,11 +51,11 @@ image: "og-communityday.png"
   <p><a class="btn btn-lg btn-secondary" href="https://docs.google.com/forms/d/e/1FAIpQLScQGymuW6Ls7AC579fKLPtMQKB7p88UswDgsUL8yt6zt6zDnw/viewform" role="button">Call for Papers</a></p>
 
   <h2>Our Sponsors</h2>
-  <div class="row">
-    <div class="col-lg-4"><img src="/content/img/sponsor_trustpilot.png" width="300"></div>
+  <p class="row">
+    <div class="col-lg-4"><img src="/content/img/sponsor_trustpilot@2x.png" width="300"></div>
     <div class="col-lg-4"></div>
     <div class="col-lg-4"></div>
-  </div>
+  </p>
 
   <h2>Contact Us</h2>
   <p>For sponsorship enquires, topic proposals, ticketing, feedback or any general question, please send an email to <a href="mailto:info@awscommunitynordics.org">info@awscommunitynordics.org</a>.</p>
