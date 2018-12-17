@@ -52,7 +52,7 @@ image: "og-communityday.png"
 
   <h2>Our Sponsors</h2>
   <p class="row">
-    <div class="col-lg-4"><a href="https://www.trustpilot.com/"><img src="/content/img/sponsor_trustpilot.png" width="250"></a></div>
+    <div class="col-lg-4"><a href="https://www.trustpilot.com/"><img src="/content/img/sponsor_trustpilot.png" width="250" height="62"></a></div>
     <div class="col-lg-4"></div>
     <div class="col-lg-4"></div>
   </p>
