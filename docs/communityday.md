@@ -57,7 +57,4 @@ image: "og-communityday.png"
 
   <h2 class="mt-5">Contact Us</h2>
   <p>For sponsorship enquires, feedback or any general question, please send an email to <a href="mailto:info@awscommunitynordics.org">info@awscommunitynordics.org</a>.</p>
-
-  <h2 class="mt-5">Code of Conduct</h2>
-  <p><a href="https://aws.amazon.com/codesofconduct/">AWS Community Codes of Conduct</a></p>
 </div>
