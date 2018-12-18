@@ -53,8 +53,11 @@ image: "og-communityday.png"
 
   <h2 class="mt-5">Agenda &amp; Speakers</h2>
   <p>Topics are chosen by the community and focus on cutting-edge AWS cloud technologies such as Serverless, Containers, Microservices, DevOps &amp; SRE, Machine Learning &amp; Artificial Intelligence, and best practices and real-world customer cases. We strive to cover all technical levels, so you can have an interesting day no matter if you're an AWS expert or just getting started in the cloud.</p>
-  <p>We're actively looking for more speakers. If you're interested, please fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScQGymuW6Ls7AC579fKLPtMQKB7p88UswDgsUL8yt6zt6zDnw/viewform">Call to Papers</a>.</p>
+  <p>We're actively looking for more speakers. If you're interested, please fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScQGymuW6Ls7AC579fKLPtMQKB7p88UswDgsUL8yt6zt6zDnw/viewform" target="_blank">Call to Papers</a>.</p>
 
   <h2 class="mt-5">Contact Us</h2>
   <p>For sponsorship enquires, feedback or any general question, please send an email to <a href="mailto:info@awscommunitynordics.org">info@awscommunitynordics.org</a>.</p>
+  <p><b>Organizers</b><br/>
+  Martin Buberl, AWS Community Hero <a href="https://twitter.com/martinbuberl" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/martinbuberl/" target="_blank"><i class="fab fa-linkedin"></i></a><br/>
+  Rolf Koski, AWS Community Lead Finland <a href="https://twitter.com/therolle" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rolle/" target="_blank"><i class="fab fa-linkedin"></i></a></p>
 </div>
