@@ -45,11 +45,9 @@ image: "og-communityday.png"
   <p class="text-center"><a class="btn btn-lg btn-primary" href="https://www.eventbrite.com/e/aws-community-day-nordics-tickets-53715075236" role="button">Register</a></p>
 
   <h2 class="mt-5">Sponsors</h2>
-  <p class="row">
-    <div class="col-lg-4"><a href="https://www.trustpilot.com/"><img src="/content/img/sponsor_trustpilot.png" width="250" height="62"></a></div>
-    <div class="col-lg-4"></div>
-    <div class="col-lg-4"></div>
-  </p>
+  <div class="row">
+    <div class="col text-center"><a href="https://www.trustpilot.com/"><img src="/content/img/sponsor_trustpilot.png" width="250" height="62"></a></div>
+  </div>
 
   <h2 class="mt-5">Agenda &amp; Speakers</h2>
   <p>Topics are chosen by the community and focus on cutting-edge AWS cloud technologies such as Serverless, Containers, Microservices, DevOps &amp; SRE, Machine Learning &amp; Artificial Intelligence, and best practices and real-world customer cases. We strive to cover all technical levels, so you can have an interesting day no matter if you're an AWS expert or just getting started in the cloud.</p>
