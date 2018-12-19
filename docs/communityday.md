@@ -45,9 +45,11 @@ image: "og-communityday.png"
   <p class="text-center"><a class="btn btn-lg btn-primary" href="https://www.eventbrite.com/e/aws-community-day-nordics-tickets-53715075236" role="button">Register</a></p>
 
   <h2 class="mt-5">Sponsors</h2>
+  <p> We would like to thank our sponsors, who make this event possible.</p>
   <div class="row">
-    <div class="col text-center"><a href="https://www.trustpilot.com/"><img src="/content/img/sponsor_trustpilot.png" width="250" height="62"></a></div>
-    <div class="col text-center"><a href="https://www.cybercom.com/"><img src="/content/img/sponsor_cybercom.png" width="148" height="135"></a></div>
+    <div class="col text-center"><a href="https://aws.amazon.com/"><img src="/content/img/sponsor_aws.png"></a></div>
+    <div class="col text-center"><a href="https://www.trustpilot.com/"><img src="/content/img/sponsor_trustpilot.png"></a></div>
+    <div class="col text-center"><a href="https://www.cybercom.com/"><img src="/content/img/sponsor_cybercom.png"></a></div>
   </div>
 
   <h2 class="mt-5">Agenda &amp; Speakers</h2>
