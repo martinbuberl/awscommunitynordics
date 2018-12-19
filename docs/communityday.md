@@ -58,7 +58,8 @@ image: "og-communityday.png"
 
   <h2 class="mt-5">Contact Us</h2>
   <p>For sponsorship enquires, feedback or any general question, please send an email to <a href="mailto:info@awscommunitynordics.org">info@awscommunitynordics.org</a>.</p>
-  <p><b>Organizers</b><br/>
-  Martin Buberl, AWS Community Hero <a href="https://twitter.com/martinbuberl" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/martinbuberl/" target="_blank"><i class="fab fa-linkedin"></i></a><br/>
-  Rolf Koski, AWS Community Lead Finland <a href="https://twitter.com/therolle" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rolle/" target="_blank"><i class="fab fa-linkedin"></i></a></p>
+  <h2 class="mt-5">Organizers</h2>
+  <p>
+  <b>Martin Buberl</b> - AWS Community Hero <a href="https://twitter.com/martinbuberl" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/martinbuberl/" target="_blank"><i class="fab fa-linkedin"></i></a><br/>
+  <b>Rolf Koski</b> - AWS Partner Ambassador <a href="https://twitter.com/therolle" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rolle/" target="_blank"><i class="fab fa-linkedin"></i></a></p>
 </div>
