@@ -47,6 +47,7 @@ image: "og-communityday.png"
   <h2 class="mt-5">Sponsors</h2>
   <div class="row">
     <div class="col text-center"><a href="https://www.trustpilot.com/"><img src="/content/img/sponsor_trustpilot.png" width="250" height="62"></a></div>
+    <div class="col text-center"><a href="https://www.trustpilot.com/"><img src="/content/img/sponsor_cybercom.png" width="148" height="135"></a></div>
   </div>
 
   <h2 class="mt-5">Agenda &amp; Speakers</h2>
