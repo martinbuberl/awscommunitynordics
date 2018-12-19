@@ -14,7 +14,7 @@ To preview the website locally:
 $ bundle install
 ```
 
-3. Run Jekyll using the following command:
+3. Run Jekyll using the following command in the `docs` directory:
 
 ```sh
 $ bundle exec jekyll serve
