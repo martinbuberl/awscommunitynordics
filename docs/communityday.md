@@ -44,10 +44,12 @@ image: "og-communityday.png"
 
   <h2 class="mt-5">Sponsors</h2>
   <p> We would like to thank our sponsors, who make this event possible.</p>
+
   <div class="row">
-    <div class="col text-center"><a href="https://aws.amazon.com/"><img src="/content/img/sponsor_aws.png"></a></div>
-    <div class="col text-center"><a href="https://www.trustpilot.com/"><img src="/content/img/sponsor_trustpilot.png"></a></div>
-    <div class="col text-center"><a href="https://www.cybercom.com/"><img src="/content/img/sponsor_cybercom.png"></a></div>
+    <div class="col text-center"><a href="https://aws.amazon.com/"><img src="/content/img/sponsor_aws.png" style="width: 250px"></a></div>
+    <div class="col text-center"><a href="https://www.trustpilot.com/"><img src="/content/img/sponsor_trustpilot.png" style="width: 250px"></a></div>
+    <div class="col text-center"><a href="https://www.cybercom.com/"><img src="/content/img/sponsor_cybercom.png" style="width: 250px"></a></div>
+    <div class="col text-center"><a href="https://queue-it.com/"><img src="/content/img/sponsor_queueit.png" style="width: 250px"></a></div>
   </div>
 
   <h2 class="mt-5">Agenda &amp; Speakers</h2>
