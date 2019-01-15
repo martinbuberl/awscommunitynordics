@@ -8,8 +8,6 @@ image: "og-communityday.png"
 
 <!-- TODO
 
-  https://aws.amazon.com/events/community-day/
-
   - Add agenda
   - Add speakers
   - Add sponsors
@@ -53,6 +51,33 @@ image: "og-communityday.png"
   </div>
 
   <h2 class="mt-5">Agenda &amp; Speakers</h2>
+  <p>
+    <b>Large legacy migrations to AWS</b><br/>
+    Juan Manuel Irigaray, Director at Equinix, AWS User Group Leader <a href="https://twitter.com/tranjuan" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/juan-manuel-irigaray-2aa7a38/" target="_blank"><i class="fab fa-linkedin"></i></a>
+  </p>
+  <p>
+    <b>Monitoring Serverless architectures on AWS Lambda</b><br/>
+    Serhat Can, Tech Advocate at Atlassian, AWS Community Hero <a href="https://twitter.com/srhtcn" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/serhatcan/" target="_blank"><i class="fab fa-linkedin"></i></a><br/>
+    Serkan &Ouml;zal, Founder &amp; CTO at Thundra <a href="https://twitter.com/serkan_ozal" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/serkanozal/" target="_blank"><i class="fab fa-linkedin"></i></a>
+  </p>
+  <p class="mt-1">
+    <b>Let's build a serverless data stream on AWS</b><br/>
+    Martin Larsen, Director of Product at Queue-it, AWS User Group Leader <a href="https://www.linkedin.com/in/realvaluetalks/" target="_blank"><i class="fab fa-linkedin"></i></a>
+  </p>
+  <p>
+    <b>AWS Databases: Which one should I use?</b><br/>
+    Angela Timofte, Tech Lead at Trustpilot <a href="https://www.linkedin.com/in/angela-timofte-69827667/" target="_blank"><i class="fab fa-linkedin"></i></a>
+  </p>
+  <p>
+    <b>Running Kubernetes on AWS</b><br/>
+    Rasheed Waraich, CEO &amp; Co-Founder at Rapid Startup Studio <a href="https://www.linkedin.com/in/rasheedwaraich/" target="_blank"><i class="fab fa-linkedin"></i></a>
+  </p>
+  <p>
+    <b>tbd</b><br/>
+    Rolf Koski, CTO at Cybercom, AWS User Group Leader <a href="https://twitter.com/therolle" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rolle/" target="_blank"><i class="fab fa-linkedin"></i></a><br/>
+  </p>
+
+
   <p>Topics are chosen by the community and focus on cutting-edge AWS cloud technologies such as Serverless, Containers, Microservices, DevOps &amp; SRE, Machine Learning &amp; Artificial Intelligence, and best practices and real-world customer cases. We strive to cover all technical levels, so you can have an interesting day no matter if you're an AWS expert or just getting started in the cloud.</p>
   <p>We're actively looking for more speakers. If you're interested, please fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScQGymuW6Ls7AC579fKLPtMQKB7p88UswDgsUL8yt6zt6zDnw/viewform" target="_blank">Call for Papers</a>.</p>
 
