@@ -93,6 +93,7 @@ image: "og-communityday.png"
     <b>SRE and Infrastructure as Code</b><br/>
     Morten Reinholdt Boelskifte, SRE Manager at Trustpilot <a href="https://twitter.com/reinholdt" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/mortenreinholdtboelskifte/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
+  <p class="mt-3">... and we'll be announcing a few more!</p>
 
   <h2 class="mt-5">Contact Us</h2>
   <p>For sponsorship enquires, feedback or any general question, please send an email to <a href="mailto:info@awscommunitynordics.org">info@awscommunitynordics.org</a>.</p>
