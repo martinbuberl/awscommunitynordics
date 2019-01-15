@@ -67,7 +67,7 @@ image: "og-communityday.png"
   </p>
   <p>
     <b>Bring ML awareness with DeepLens to the business by accessing the office with the face</b><br/>
-    Lezgin Bakircioglu, AWS User Group Leader <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a>
+    Lezgin Bakircioglu, Global Head of IT Operations at Daniel Wellington Technologies, AWS User Group Leader <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
   <p>
     <b>Automating security in AWS</b><br/>
