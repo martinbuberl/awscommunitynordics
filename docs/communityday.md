@@ -83,7 +83,7 @@ image: "og-communityday.png"
   </p>
   <p>
     <b>Efficiently exposing apps on Kubernetes at scale</b><br/>
-    Rasheed Waraich, CEO &amp; Co-Founder at Rapid Startup Studio <a href="https://www.linkedin.com/in/rasheedwaraich/" target="_blank"><i class="fab fa-linkedin"></i></a>
+    Rasheed Amir, CEO & Co-Founder at Rapid Startup Studio <a href="https://twitter.com/rasheedwaraich" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rasheedwaraich/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
   <p>
     <b>Continuous Delivery to AWS using Azure DevOps</b><br/>
