@@ -52,38 +52,47 @@ image: "og-communityday.png"
 
   <h2 class="mt-5">Agenda &amp; Speakers</h2>
   <p>
-    <b>Large legacy migrations to AWS</b><br/>
-    Juan Manuel Irigaray, Director at Equinix, AWS User Group Leader <a href="https://twitter.com/tranjuan" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/juan-manuel-irigaray-2aa7a38/" target="_blank"><i class="fab fa-linkedin"></i></a>
-  </p>
-  <p>
     <b>Monitoring Serverless architectures on AWS Lambda</b><br/>
     Serhat Can, Tech Advocate at Atlassian, AWS Community Hero <a href="https://twitter.com/srhtcn" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/serhatcan/" target="_blank"><i class="fab fa-linkedin"></i></a><br/>
     Serkan &Ouml;zal, Founder &amp; CTO at Thundra <a href="https://twitter.com/serkan_ozal" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/serkanozal/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
-  <p class="mt-1">
+  <p>
+    <b>Large legacy migrations to AWS</b><br/>
+    Juan Manuel Irigaray, Director at Equinix, AWS User Group Leader <a href="https://twitter.com/tranjuan" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/juan-manuel-irigaray-2aa7a38/" target="_blank"><i class="fab fa-linkedin"></i></a>
+  </p>
+  <p>
     <b>Let's build a serverless data stream on AWS</b><br/>
     Martin Larsen, Director of Product at Queue-it, AWS User Group Leader <a href="https://www.linkedin.com/in/realvaluetalks/" target="_blank"><i class="fab fa-linkedin"></i></a>
+  </p>
+  <p>
+    <b>Bring ML awareness with DeepLens to the business by accessing the office with the face</b><br/>
+    Lezgin Bakircioglu, AWS User Group Leader <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a>
+  </p>
+  <p>
+    <b>Automating security in AWS</b><br/>
+    Dennis Traub, Fellow at Codecentric <a href="https://twitter.com/dtraub" target="_blank"><i class="fab fa-twitter"></i></a>
   </p>
   <p>
     <b>AWS Databases: Which one should I use?</b><br/>
     Angela Timofte, Tech Lead at Trustpilot <a href="https://www.linkedin.com/in/angela-timofte-69827667/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
   <p>
-    <b>Multi-Account Access Control</b>
+    <b>Multi-Account Access Control</b><br/>
     Yihui Xu, Managing Security Architect / Delivery Architect at Capgemini <a href="https://twitter.com/yihui85586283" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/yihui-xu-267b596/" target="_blank"><i class="fab fa-linkedin"></i></a>
-  <p>
+  </p>
   <p>
     <b>Running Kubernetes on AWS</b><br/>
     Rasheed Waraich, CEO &amp; Co-Founder at Rapid Startup Studio <a href="https://www.linkedin.com/in/rasheedwaraich/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
-    <b>tbd</b><br/>
-    Rolf Koski, CTO at Cybercom, AWS User Group Leader <a href="https://twitter.com/therolle" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rolle/" target="_blank"><i class="fab fa-linkedin"></i></a>
+  <p>
+    <b>Continuous Delivery to AWS using Azure DevOps</b><br/>
+    Morten Brix Pedersen, Senior Software Developer at Queue-it <a href="https://www.linkedin.com/in/mbrix/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
   <p>
-    <b>tbd</b><br/>
+    <b>SRE and Infrastructure as Code</b><br/>
     Morten Reinholdt Boelskifte, SRE Manager at Trustpilot <a href="https://twitter.com/reinholdt" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/mortenreinholdtboelskifte/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
-  <p>Topics are chosen by the community and focus on cutting-edge AWS cloud technologies such as Serverless, Containers, Microservices, DevOps &amp; SRE, Machine Learning &amp; Artificial Intelligence, and best practices and real-world customer cases. We strive to cover all technical levels, so you can have an interesting day no matter if you're an AWS expert or just getting started in the cloud.</p>
+  <p class="mt-5">Topics are chosen by the community and focus on cutting-edge AWS cloud technologies such as Serverless, Containers, Microservices, DevOps &amp; SRE, Machine Learning &amp; Artificial Intelligence, and best practices and real-world customer cases. We strive to cover all technical levels, so you can have an interesting day no matter if you're an AWS expert or just getting started in the cloud.</p>
   <p>We're actively looking for more speakers. If you're interested, please fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScQGymuW6Ls7AC579fKLPtMQKB7p88UswDgsUL8yt6zt6zDnw/viewform" target="_blank">Call for Papers</a>.</p>
 
   <h2 class="mt-5">Contact Us</h2>
