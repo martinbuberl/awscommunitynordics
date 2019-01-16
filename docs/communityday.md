@@ -72,7 +72,7 @@ image: "og-communityday.png"
     Lezgin Bakircioglu, Global Head of IT Operations at Daniel Wellington Technologies, AWS User Group Leader <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
   <p>
-    <b>Automating security in AWS</b><br/>
+    <b>Serverless Security Automation Patterns on AWS</b><br/>
     Dennis Traub, Fellow at Codecentric <a href="https://twitter.com/dtraub" target="_blank"><i class="fab fa-twitter"></i></a>
   </p>
   <p>
