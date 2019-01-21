@@ -95,6 +95,10 @@ image: "og-communityday.png"
     <b>SRE and Infrastructure as Code</b><br/>
     Morten Reinholdt Boelskifte, SRE Manager at Trustpilot <a href="https://twitter.com/reinholdt" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/mortenreinholdtboelskifte/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
+  <p>
+    <b>Business driven availability - why SLAs are not an excuse for poor architectures</b><br/>
+    Rolf Koski, CTO at Cybercom, AWS Partner Ambassador <a href="https://twitter.com/therolle" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rolle/" target="_blank"><i class="fab fa-linkedin"></i></a>
+  </p>
   <p class="mt-3">... and we'll be announcing a few more!</p>
 
   <h2 class="mt-5">Contact Us</h2>
