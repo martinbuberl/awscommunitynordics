@@ -105,7 +105,7 @@ image: "og-communityday.png"
   </p>
   <p>
     <b>Functional Lambdas</b><br/>
-    Steen Larsen, Senior Solution Architect at KeyCore <a href="http://www.linkedin.com/in/steen-larsen-898a502" target="_blank"><i class="fab fa-linkedin"></i></a>
+    Steen Larsen, Senior Solution Architect at KeyCore <a href="https://www.linkedin.com/in/steen-larsen-898a502" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
   <p class="mt-3">... and we'll be announcing a few more!</p>
 
