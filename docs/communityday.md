@@ -99,6 +99,10 @@ image: "og-communityday.png"
     <b>Business driven availability - why SLAs are not an excuse for poor architectures</b><br/>
     Rolf Koski, CTO at Cybercom, AWS Partner Ambassador <a href="https://twitter.com/therolle" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rolle/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
+  <p>
+    <b>Alexa Skill Development</b><br/>
+    Goran Vuksic, Solution Architect at Agnitio <a href="https://twitter.com/gvuksic" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/goranvuksic/" target="_blank"><i class="fab fa-linkedin"></i></a>
+  </p>
   <p class="mt-3">... and we'll be announcing a few more!</p>
 
   <h2 class="mt-5">Contact Us</h2>
