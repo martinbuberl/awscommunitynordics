@@ -22,25 +22,9 @@ image: "og-communityday.png"
   - https://alestic.com/2017/05/aws-community-day-san-francisco/
 -->
 
-<style>
-  #jumbotron-logo {
-    height: 70px;
-  }
-  @media (min-width: 359px) {
-    #jumbotron-logo {
-      height: 80px;
-    }
-  }
-  @media (min-width: 576px) {
-    #jumbotron-logo {
-      height: 120px;
-    }
-  }
-</style>
-
 <div class="jumbotron">
   <div class="container text-center">
-    <h1><img src="/content/img/awscommunityday-nordics.png" id="jumbotron-logo" /></h1>
+    <h1><img src="/content/img/awscommunityday-nordics.png" id="jumbotron-awscommunityday-nordics" /></h1>
     <h2 class="display-5 mt-4">Copenhagen | 19th February 2019</h2>
     <p class="mt-4"><a class="btn btn-lg btn-primary" href="https://www.eventbrite.com/e/aws-community-day-nordics-tickets-53715075236" role="button">Register</a></p>
     <!--p class="font-weight-bold mt-3">#AWSCommunity</p-->

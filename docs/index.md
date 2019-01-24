@@ -12,7 +12,7 @@ permalink: /
     <div class="carousel-item communityday active">
       <div class="container">
         <div class="carousel-caption text-center">
-          <h1><img src="/content/img/awscommunityday-nordics.png" height="100" /></h1>
+          <h1><img src="/content/img/awscommunityday-nordics.png" id="carousel-awscommunityday-nordics" /></h1>
           <h2 class="mt-4">Calling all developers!</h2>
           <p>Join us 19th February 2019 for a free, community-led event.</p>
           <p class="mt-4"><a class="btn btn-lg btn-primary" href="/communityday/" role="button">Learn more</a></p>
