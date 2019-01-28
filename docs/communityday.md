@@ -106,6 +106,10 @@ image: "og-communityday.png"
     <b>Functional Lambdas</b><br/>
     Steen Larsen, Senior Solution Architect at KeyCore <a href="https://www.linkedin.com/in/steen-larsen-898a502" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
+  <p>
+    <b>Making Machine Learning social with SageMaker, Meeshkan and Slack</b><br/>
+    Mike Solomon, CEO at Meeshkan <a href="https://www.linkedin.com/in/michael-thomas-solomon/" target="_blank"><i class="fab fa-linkedin"></i></a>
+  </p>
   <p class="mt-3">... and we'll be announcing a few more!</p>
 
   <h2 class="mt-5">Contact Us</h2>
