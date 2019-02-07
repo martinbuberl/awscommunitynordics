@@ -113,12 +113,15 @@ image: "og-communityday.png"
     <b>Making Machine Learning social with SageMaker, Meeshkan and Slack</b><br/>
     Mike Solomon, CEO at Meeshkan <a href="https://www.linkedin.com/in/michael-thomas-solomon/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
-  <p class="mt-3">... and we'll be announcing a few more!</p>
+  <p>
+    <b>Running Devops at the Tradeshift rocketship</b><br/>
+    Jesper Terkelsen, VP Global Platform Operations at Tradeshift <a href="https://www.linkedin.com/in/jesperterkelsen/" target="_blank"><i class="fab fa-linkedin"></i></a>
+  </p>
 
   <h2 class="mt-5">Contact Us</h2>
   <p>For sponsorship enquires, feedback or any general question, please send an email to <a href="mailto:info@awscommunitynordics.org">info@awscommunitynordics.org</a>.</p>
   <h2 class="mt-5">Organizers</h2>
   <p>
-  <b>Martin Buberl</b> - AWS Community Hero <a href="https://twitter.com/martinbuberl" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/martinbuberl/" target="_blank"><i class="fab fa-linkedin"></i></a><br/>
-  <b>Rolf Koski</b> - AWS Partner Ambassador <a href="https://twitter.com/therolle" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rolle/" target="_blank"><i class="fab fa-linkedin"></i></a></p>
+  <b>Martin Buberl</b> - VP Engineering at Trustpilot, AWS Community Hero <a href="https://twitter.com/martinbuberl" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/martinbuberl/" target="_blank"><i class="fab fa-linkedin"></i></a><br/>
+  <b>Rolf Koski</b> - CTO at Cybercom, AWS Partner Ambassador <a href="https://twitter.com/therolle" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rolle/" target="_blank"><i class="fab fa-linkedin"></i></a></p>
 </div>
