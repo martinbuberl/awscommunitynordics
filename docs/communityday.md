@@ -122,6 +122,9 @@ image: "og-communityday.png"
   <p>For sponsorship enquires, feedback or any general question, please send an email to <a href="mailto:info@awscommunitynordics.org">info@awscommunitynordics.org</a>.</p>
   <h2 class="mt-5">Organizers</h2>
   <p>
-  <b>Martin Buberl</b> - VP Engineering at Trustpilot, AWS Community Hero <a href="https://twitter.com/martinbuberl" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/martinbuberl/" target="_blank"><i class="fab fa-linkedin"></i></a><br/>
-  <b>Rolf Koski</b> - CTO at Cybercom, AWS Partner Ambassador <a href="https://twitter.com/therolle" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rolle/" target="_blank"><i class="fab fa-linkedin"></i></a></p>
+    <b>Martin Buberl</b> - VP Engineering at Trustpilot, AWS Community Hero <a href="https://twitter.com/martinbuberl" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/martinbuberl/" target="_blank"><i class="fab fa-linkedin"></i></a>
+  </p>
+  <p>
+    <b>Rolf Koski</b> - CTO at Cybercom, AWS Partner Ambassador <a href="https://twitter.com/therolle" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rolle/" target="_blank"><i class="fab fa-linkedin"></i></a>
+  </p>
 </div>
