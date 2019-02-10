@@ -120,7 +120,7 @@ image: "og-communityday.png"
   </p>
   -->
  
-  <p>
+  <p class="mt-5">
     <table class="table table-bordered table-striped">
 	  	<thead>
 		  	<tr>
@@ -137,7 +137,7 @@ image: "og-communityday.png"
 	  		<tr>
 		  		<th scope="row">9:00 to 9:10</th>
 			  	<td><b>Opening Words</b><br/>
-              Martin Buberl</td>
+              Martin Buberl, VP Engineering at Trustpilot, AWS Community Hero <a href="https://twitter.com/martinbuberl" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/martinbuberl/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
           <td>&nbsp;</td>
 			  </tr>
   			<tr>
@@ -176,8 +176,8 @@ image: "og-communityday.png"
 				  <th scope="row">13:45 to 14:15</th>
 				  <td><b>Making Machine Learning social with SageMaker, Meeshkan and Slack</b><br/>
               Mike Solomon, CEO at Meeshkan <a href="https://www.linkedin.com/in/michael-thomas-solomon/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
-          <td><b>Continuous Delivery to AWS using Azure DevOps</b><br/>
-              Morten Brix Pedersen, Senior Software Developer at Queue-it <a href="https://www.linkedin.com/in/mbrix/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
+          <td><b>SRE and Infrastructure as Code</b><br/>
+    Morten Reinholdt Boelskifte, SRE Manager at Trustpilot <a href="https://twitter.com/reinholdt" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/mortenreinholdtboelskifte/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
 			  </tr>
 			  <tr>
 				  <th scope="row">14:30 to 15:00</th>
@@ -208,11 +208,10 @@ image: "og-communityday.png"
 		  </tbody>
 	  </table>
   </p>
-
-  <h2 class="mt-5">Contact Us</h2>
+  
+  <h2 class="mt-5">Contact &amp; Organizers</h2>
   <p>For sponsorship enquires, feedback or any general question, please send an email to <a href="mailto:info@awscommunitynordics.org">info@awscommunitynordics.org</a>.</p>
-  <h2 class="mt-5">Organizers</h2>
-  <p>
+  <p class="mt-5">
     <b>Martin Buberl</b> - VP Engineering at Trustpilot, AWS Community Hero <a href="https://twitter.com/martinbuberl" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/martinbuberl/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
   <p>
