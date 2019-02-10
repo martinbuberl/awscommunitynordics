@@ -56,6 +56,7 @@ image: "og-communityday.png"
 
   <h2 class="mt-5">Agenda &amp; Speakers</h2>
   <p>Topics are chosen by the community and focus on cutting-edge AWS cloud technologies such as Serverless, Containers, Microservices, DevOps &amp; SRE, Machine Learning &amp; Artificial Intelligence, and best practices and real-world customer cases. We strive to cover all technical levels, so you can have an interesting day no matter if you're an AWS expert or just getting started in the cloud.</p>
+  <!--
   <p class="mt-5">
     <b>Monitoring Serverless architectures on AWS Lambda</b><br/>
     Serhat Can, Tech Advocate at Atlassian, AWS Community Hero <a href="https://twitter.com/srhtcn" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/serhatcan/" target="_blank"><i class="fab fa-linkedin"></i></a><br/>
@@ -116,6 +117,96 @@ image: "og-communityday.png"
   <p>
     <b>Running Devops at the Tradeshift rocketship</b><br/>
     Jesper Terkelsen, VP Global Platform Operations at Tradeshift <a href="https://www.linkedin.com/in/jesperterkelsen/" target="_blank"><i class="fab fa-linkedin"></i></a>
+  </p>
+  -->
+ 
+  <p>
+    <table class="table table-bordered table-striped">
+	  	<thead>
+		  	<tr>
+			  	<th scope="col" width="10%">Time</th>
+				  <th scope="col">Track 1</th>
+          <th scope="col">Track 2</th>
+        </tr>
+      </thead>
+	  	<tbody>
+        <tr>
+			  	<th scope="row">8:00 to 9:00</th>
+  				<td colspan="2"><b>Registration and Breakfast</b></td>
+  			</tr>
+	  		<tr>
+		  		<th scope="row">9:00 to 9:10</th>
+			  	<td><b>Opening Words</b><br/>
+              Martin Buberl</td>
+          <td>&nbsp;</td>
+			  </tr>
+  			<tr>
+	  			<th scope="row">9:15 to 10:00</th>
+		  		<td><b>Monitoring Serverless architectures on AWS Lambda</b><br/>
+              Serhat Can, Tech Advocate at Atlassian, AWS Community Hero <a href="https://twitter.com/srhtcn" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/serhatcan/" target="_blank"><i class="fab fa-linkedin"></i></a><br/>
+              Serkan &Ouml;zal, Founder &amp; CTO at Thundra <a href="https://twitter.com/serkan_ozal" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/serkanozal/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
+          <td>&nbsp;</td>
+			  </tr>
+			  <tr>
+				  <th scope="row">10:15 to 11:00</th>
+				  <td><b>Serverless Security Automation Patterns on AWS</b><br/>
+              Dennis Traub, Fellow at Codecentric <a href="https://twitter.com/dtraub" target="_blank"><i class="fab fa-twitter"></i></a></td>
+          <td><b>Efficiently exposing apps on Kubernetes at scale</b><br/>
+              Rasheed Amir, CTO at Stakater <a href="https://twitter.com/rasheedwaraich" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rasheedwaraich/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
+			  </tr>
+			  <tr>
+				  <th scope="row">11:15 to 12:00</th>
+				  <td><b>Business driven availability - why SLAs are not an excuse for poor architectures</b><br/>
+              Rolf Koski, CTO at Cybercom, AWS Partner Ambassador <a href="https://twitter.com/therolle" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rolle/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
+          <td><b>Continuous Delivery to AWS using Azure DevOps</b><br/>
+              Morten Brix Pedersen, Senior Software Developer at Queue-it <a href="https://www.linkedin.com/in/mbrix/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
+			  </tr>
+        <tr>
+				  <th scope="row">12:00 to 13:00</th>
+				  <td colspan="2"><b>Lunch and Networking</b></td>
+			  </tr>
+			  <tr>
+				  <th scope="row">13:00 to 13:30</th>
+				  <td><b>AWS Databases: Which one should I use?</b><br/>
+              Angela Timofte, Tech Lead at Trustpilot <a href="https://www.linkedin.com/in/angela-timofte-69827667/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
+          <td><b>Running Devops at the Tradeshift rocketship</b><br/>
+              Jesper Terkelsen, VP Global Platform Operations at Tradeshift <a href="https://www.linkedin.com/in/jesperterkelsen/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
+			  </tr>
+			  <tr>
+				  <th scope="row">13:45 to 14:15</th>
+				  <td><b>Making Machine Learning social with SageMaker, Meeshkan and Slack</b><br/>
+              Mike Solomon, CEO at Meeshkan <a href="https://www.linkedin.com/in/michael-thomas-solomon/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
+          <td><b>Continuous Delivery to AWS using Azure DevOps</b><br/>
+              Morten Brix Pedersen, Senior Software Developer at Queue-it <a href="https://www.linkedin.com/in/mbrix/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
+			  </tr>
+			  <tr>
+				  <th scope="row">14:30 to 15:00</th>
+				  <td><b>Bring ML awareness with DeepLens to the business by accessing the office with the face</b><br/>
+              Lezgin Bakircioglu, Global Head of IT Operations at Daniel Wellington, AWS User Group Leader <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
+          <td><b>Functional Lambdas</b><br/>
+              Steen Larsen, Senior Solution Architect at KeyCore <a href="https://www.linkedin.com/in/steen-larsen-898a502" target="_blank"><i class="fab fa-linkedin"></i></a></td>
+			  </tr>
+			  <tr>
+				  <th scope="row">15:15 to 15:45</th>
+				  <td><b>Let's build a serverless data stream on AWS</b><br/>
+              Martin Larsen, Director of Product at Queue-it, AWS User Group Leader <a href="https://www.linkedin.com/in/realvaluetalks/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
+          <td><b>Multi-Account Access Control</b><br/>
+              Yihui Xu, Managing Security Architect / Delivery Architect at Capgemini <a href="https://twitter.com/yihui85586283" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/yihui-xu-267b596/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
+			  </tr>
+			  <tr>
+				  <th scope="row">16:00 to 16:30</th>
+				  <td><b>Alexa Skill Development</b><br/>
+              Goran Vuksic, Solution Architect at Agnitio <a href="https://twitter.com/gvuksic" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/goranvuksic/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
+          <td><b>Large legacy migrations to AWS</b><br/>
+              Juan Manuel Irigaray, Director at Equinix, AWS User Group Leader <a href="https://twitter.com/tranjuan" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/juan-manuel-irigaray-2aa7a38/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
+			  </tr>
+			  <tr>
+				  <th scope="row">16:45 to 17:00</th>
+				  <td><b>Community Donations Raffle</b></td>
+          <td>&nbsp;</td>
+			  </tr>
+		  </tbody>
+	  </table>
   </p>
 
   <h2 class="mt-5">Contact Us</h2>
