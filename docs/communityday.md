@@ -62,8 +62,8 @@ image: "og-communityday.png"
 	  	<thead>
 		  	<tr>
 			  	<th scope="col" width="10%">Time</th>
-				  <th scope="col">Track 1</th>
-          <th scope="col">Track 2</th>
+				  <th scope="col" width="45%">Track 1</th>
+          <th scope="col" width="45%">Track 2</th>
         </tr>
       </thead>
 	  	<tbody>
