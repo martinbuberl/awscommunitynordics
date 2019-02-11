@@ -126,7 +126,7 @@ image: "og-communityday.png"
 			  <tr>
 				  <th scope="row" class="time">15:15 - 15:45</th>
 				  <td><b>Continuous Delivery to AWS using Azure DevOps</b><br/>
-              Morten Brix Pedersen, Senior Software Developer at Queue-it <a href="https://www.linkedin.com/in/mbrix/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
+              Morten Brix Pedersen, Senior Software Developer at Queue-it <a href="https://twitter.com/mbrix" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/mbrix/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
           <td><b>Multi-Account Access Control</b><br/>
               Yihui Xu, Managing Security Architect / Delivery Architect at Capgemini <a href="https://twitter.com/yihui85586283" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/yihui-xu-267b596/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
 			  </tr>
