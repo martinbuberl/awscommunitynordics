@@ -95,8 +95,8 @@ image: "og-communityday.png"
 				  <th scope="row" class="time">11:15 - 12:00</th>
 				  <td><b>Business driven availability - why SLAs are not an excuse for poor architectures</b><br/>
               Rolf Koski, CTO at Cybercom, AWS Partner Ambassador <a href="https://twitter.com/therolle" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rolle/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
-          <td><b>Continuous Delivery to AWS using Azure DevOps</b><br/>
-              Morten Brix Pedersen, Senior Software Developer at Queue-it <a href="https://www.linkedin.com/in/mbrix/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
+          <td><b>Let's build a serverless data stream on AWS</b><br/>
+              Martin Larsen, Director of Product at Queue-it, AWS User Group Leader <a href="https://www.linkedin.com/in/realvaluetalks/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
 			  </tr>
         <tr>
 				  <th scope="row" class="time">12:00 - 13:00</th>
@@ -125,8 +125,8 @@ image: "og-communityday.png"
 			  </tr>
 			  <tr>
 				  <th scope="row" class="time">15:15 - 15:45</th>
-				  <td><b>Let's build a serverless data stream on AWS</b><br/>
-              Martin Larsen, Director of Product at Queue-it, AWS User Group Leader <a href="https://www.linkedin.com/in/realvaluetalks/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
+				  <td><b>Continuous Delivery to AWS using Azure DevOps</b><br/>
+              Morten Brix Pedersen, Senior Software Developer at Queue-it <a href="https://www.linkedin.com/in/mbrix/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
           <td><b>Multi-Account Access Control</b><br/>
               Yihui Xu, Managing Security Architect / Delivery Architect at Capgemini <a href="https://twitter.com/yihui85586283" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/yihui-xu-267b596/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
 			  </tr>
