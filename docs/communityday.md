@@ -56,7 +56,7 @@ image: "og-communityday.png"
 
   <h2 class="mt-5">Agenda &amp; Speakers</h2>
   <p>Topics are chosen by the community and focus on cutting-edge AWS cloud technologies such as Serverless, Containers, Microservices, DevOps &amp; SRE, Machine Learning &amp; Artificial Intelligence, and best practices and real-world customer cases. We strive to cover all technical levels, so you can have an interesting day no matter if you're an AWS expert or just getting started in the cloud.</p>
- 
+
   <p class="mt-5">
     <table class="table table-striped" id="table-awscommunityday-agenda">
 	  	<thead>
@@ -120,15 +120,15 @@ image: "og-communityday.png"
 				  <th scope="row" class="time">14:30 - 15:00</th>
 				  <td><b>Bring ML awareness with DeepLens to the business by accessing the office with the face</b><br/>
               Lezgin Bakircioglu, Global Head of IT Operations at Daniel Wellington, AWS User Group Leader <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
-          <td><b>Functional Lambdas</b><br/>
-              Steen Larsen, Senior Solution Architect at KeyCore <a href="https://www.linkedin.com/in/steen-larsen-898a502" target="_blank"><i class="fab fa-linkedin"></i></a></td>
+          <td><b>Multi-Account Access Control</b><br/>
+              Yihui Xu, Managing Security Architect / Delivery Architect at Capgemini <a href="https://twitter.com/yihui85586283" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/yihui-xu-267b596/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
 			  </tr>
 			  <tr>
 				  <th scope="row" class="time">15:15 - 15:45</th>
 				  <td><b>Continuous Delivery to AWS using Azure DevOps</b><br/>
               Morten Brix Pedersen, Senior Software Developer at Queue-it <a href="https://twitter.com/mbrix" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/mbrix/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
-          <td><b>Multi-Account Access Control</b><br/>
-              Yihui Xu, Managing Security Architect / Delivery Architect at Capgemini <a href="https://twitter.com/yihui85586283" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/yihui-xu-267b596/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
+          <td><b>Functional Lambdas</b><br/>
+              Steen Larsen, Senior Solution Architect at KeyCore <a href="https://www.linkedin.com/in/steen-larsen-898a502" target="_blank"><i class="fab fa-linkedin"></i></a></td>
 			  </tr>
 			  <tr>
 				  <th scope="row" class="time">16:00 - 16:30</th>
@@ -145,7 +145,7 @@ image: "og-communityday.png"
 		  </tbody>
 	  </table>
   </p>
-  
+
   <h2 class="mt-5">Contact &amp; Organizers</h2>
   <p>For sponsorship enquires, feedback or any general question, please send an email to <a href="mailto:info@awscommunitynordics.org">info@awscommunitynordics.org</a>.</p>
   <p class="mt-5">
