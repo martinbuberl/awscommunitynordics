@@ -19,12 +19,12 @@ permalink: /
         </div>
       </div>
     </div>
-    <div class="carousel-item">
+    <div class="carousel-item usergroups">
       <div class="container">
         <div class="carousel-caption text-center">
-          <h1>Join our community</h1>
-          <p>AWS User Groups are interactive communities that help answer questions, share ideas, and learn about new services and best practices. Today we have over 6,900 User Group members in the Nordics.</p>
-          <p><a class="btn btn-lg btn-primary" href="/usergroups/" role="button">Learn more</a></p>
+          <h1><img src="/content/img/usergroups-members.png" id="carousel-usergroups-members" /></h1>
+          <p><div style="max-width: 480px; margin-left: auto; margin-right: auto;">AWS User Groups are communities that help answer questions, share ideas, and learn about new services and best practices.</div></p>
+          <p><a class="btn btn-lg btn-primary" href="/usergroups/" role="button">Join our community</a></p>
         </div>
       </div>
     </div>
