@@ -52,6 +52,7 @@ image: "og-communityday.png"
   </div>
   <div class="row pt-5">
     <div class="col text-center"><a href="https://tradeshift.com/"><img src="/content/img/sponsor_tradeshift.png" style="width: 150px"></a></div>
+    <!-- remove cache -->
   </div>
 
   <h2 class="mt-5">Agenda &amp; Speakers</h2>
