@@ -52,6 +52,7 @@ image: "og-communityday.png"
   </div>
   <div class="row pt-5">
     <div class="col text-center"><a href="https://tradeshift.com/"><img src="/content/img/sponsor_tradeshift.png" style="width: 150px"></a></div>
+    <div class="col text-center"><a href="https://tradeshift.com/"><img src="/content/img/sponsor_n2ws.png" style="width: 150px"></a></div>
   </div>
 
   <h2 class="mt-5">Agenda &amp; Speakers</h2>
@@ -62,8 +63,8 @@ image: "og-communityday.png"
 	  	<thead>
 		  	<tr>
 			  	<th scope="col" width="10%">Time</th>
-				  <th scope="col" width="45%">Track 1 &ldquo;Plenary Hall&rdquo;</th>
-          <th scope="col" width="45%">Track 2 &ldquo;Break Out Room&rdquo;</th>
+				  <th scope="col" width="45%">Track 1 &ldquo;Amalienborg&rdquo;</th>
+          <th scope="col" width="45%">Track 2 &ldquo;Christiansborg&rdquo;</th>
         </tr>
       </thead>
 	  	<tbody>
