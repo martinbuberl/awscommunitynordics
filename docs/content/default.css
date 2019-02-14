@@ -1,6 +1,9 @@
 body > main {
   padding-top: 3.5rem;
 }
+footer {
+  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+}
 
 /* Navigation */
 
@@ -9,6 +12,45 @@ body > main {
 }
 .navbar-brand {
   margin-right: 0.5em;
+}
+
+/* Index */
+
+.carousel {
+  margin-bottom: 4rem;
+}
+.carousel-item {
+  height: 24rem;
+  background-color: #777;
+}
+.carousel-item.communityday {
+  background-image: url("/content/img/awscommunityday-cubes.png");
+  background-size: 187px 300px;
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-color: #232f3e;
+}
+.carousel-item.usergroups {
+  background-color: #232f3e;
+}
+
+#carousel-awscommunityday-nordics {
+  height: 60px;
+}
+#carousel-usergroups-members {
+  height: 140px;
+}
+
+
+@media (min-width: 359px) {
+  #carousel-awscommunityday-nordics {
+    height: 70px;
+  }
+}
+@media (min-width: 576px) {
+  #carousel-awscommunityday-nordics {
+    height: 100px;
+  }
 }
 
 /* Community Day */
@@ -36,49 +78,16 @@ body > main {
     height: 120px;
   }
 }
-
-.carousel {
-  margin-bottom: 4rem;
+img.communityday-sponsor-large {
+  width: 250px;
 }
-.carousel-item {
-  height: 24rem;
-  background-color: #777;
+img.communityday-sponsor-small {
+  width: 150px;
 }
-.carousel-item.communityday {
-  background-image: url("/content/img/awscommunityday-cubes.png");
-  background-size: 187px 300px;
-  background-repeat: no-repeat;
-  background-position: left center;
-  background-color: #232f3e;
-}
-.carousel-item.usergroups {
-  background-color: #232f3e;
-}
-footer {
-  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
-}
-
-#carousel-awscommunityday-nordics {
-  height: 60px;
-}
-#carousel-usergroups-members {
-  height: 140px;
-}
-#table-awscommunityday-agenda {
+.table#communityday-agenda {
   font-size: .8rem;
 }
-#table-awscommunityday-agenda .time {
+.table#communityday-agenda .time {
   font-weight: normal;
   white-space: nowrap;
-}
-
-@media (min-width: 359px) {
-  #carousel-awscommunityday-nordics {
-    height: 70px;
-  }
-}
-@media (min-width: 576px) {
-  #carousel-awscommunityday-nordics {
-    height: 100px;
-  }
 }

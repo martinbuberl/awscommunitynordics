@@ -21,28 +21,28 @@ image: "og-communityday.png"
   <h2 class="mt-5">Date &amp; Venue</h2>
   <p>This event is being held on <b>Tuesday, 19th February 2019</b> at the <b>Scandic Copenhagen</b>.<br/>
   Breakfast, lunch and snacks are provided to keep the community fueled for learning and networking.</p>
-  <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2249.807371516021!2d12.55742131592752!3d55.67494978053265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4652530b9cac3615%3A0x5b367ee651f5cfc3!2sScandic+Copenhagen!5e0!3m2!1sen!2sdk!4v1540406635175" width="100%" height="400" frameborder="0" style="border:0"></iframe></p>
+  <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2249.807371516021!2d12.55742131592752!3d55.67494978053265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4652530b9cac3615%3A0x5b367ee651f5cfc3!2sScandic+Copenhagen!5e0!3m2!1sen!2sdk!4v1540406635175" width="100%" height="400" frameborder="0" style="border: 0;"></iframe></p>
   <p class="text-center"><a class="btn btn-lg btn-primary" href="https://www.eventbrite.com/e/aws-community-day-nordics-tickets-53715075236" role="button">Register</a></p>
 
   <h2 class="mt-5">Sponsors</h2>
   <p> We would like to thank our sponsors, who make this event possible.</p>
 
   <div class="row pt-5">
-    <div class="col text-center"><a href="https://aws.amazon.com/"><img src="/content/img/sponsor_aws.png" style="width: 250px"></a></div>
-    <div class="col text-center"><a href="https://www.trustpilot.com/"><img src="/content/img/sponsor_trustpilot.png" style="width: 250px"></a></div>
-    <div class="col text-center"><a href="https://www.cybercom.com/"><img src="/content/img/sponsor_cybercom.png" style="width: 250px"></a></div>
-    <div class="col text-center"><a href="https://queue-it.com/"><img src="/content/img/sponsor_queueit.png" style="width: 250px"></a></div>
+    <div class="col text-center"><a href="https://aws.amazon.com/"><img src="/content/img/sponsor_aws.png" class="communityday-sponsor-large"></a></div>
+    <div class="col text-center"><a href="https://www.trustpilot.com/"><img src="/content/img/sponsor_trustpilot.png" class="communityday-sponsor-large"></a></div>
+    <div class="col text-center"><a href="https://www.cybercom.com/"><img src="/content/img/sponsor_cybercom.png" class="communityday-sponsor-large"></a></div>
+    <div class="col text-center"><a href="https://queue-it.com/"><img src="/content/img/sponsor_queueit.png" class="communityday-sponsor-large"></a></div>
   </div>
   <div class="row pt-5">
-    <div class="col text-center"><a href="https://tradeshift.com/"><img src="/content/img/sponsor_tradeshift.png" style="width: 150px"></a></div>
-    <div class="col text-center"><a href="https://n2ws.com/"><img src="/content/img/sponsor_n2ws.png" style="width: 150px"></a></div>
+    <div class="col text-center"><a href="https://tradeshift.com/"><img src="/content/img/sponsor_tradeshift.png" class="communityday-sponsor-small"></a></div>
+    <div class="col text-center"><a href="https://n2ws.com/"><img src="/content/img/sponsor_n2ws.png" class="communityday-sponsor-small"></a></div>
   </div>
 
   <h2 class="mt-5">Agenda &amp; Speakers</h2>
   <p>Topics are chosen by the community and focus on cutting-edge AWS cloud technologies such as Serverless, Containers, Microservices, DevOps &amp; SRE, Machine Learning &amp; Artificial Intelligence, and best practices and real-world customer cases. We strive to cover all technical levels, so you can have an interesting day no matter if you're an AWS expert or just getting started in the cloud.</p>
 
   <p class="mt-5">
-    <table class="table table-striped" id="table-awscommunityday-agenda">
+    <table class="table table-striped" id="communityday-agenda">
 	  	<thead>
 		  	<tr>
 			  	<th scope="col" width="10%">Time</th>
