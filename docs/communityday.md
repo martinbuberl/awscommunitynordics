@@ -6,22 +6,6 @@ permalink: /communityday/
 image: "og-communityday.png"
 ---
 
-<!-- TODO
-
-  - Add agenda
-  - Add speakers
-  - Add sponsors
-  - Add volunteers
-
-  Examples:
-  - https://communityday.awsugblr.in/
-  - https://aws.amazon.com/de/events/aws-community-days/
-  - https://awsfin.org/communityday/
-
-  Inspiration:
-  - https://alestic.com/2017/05/aws-community-day-san-francisco/
--->
-
 <div class="jumbotron communityday">
   <div class="container text-center">
     <h1><img src="/content/img/awscommunityday-nordics.png" id="communityday-logo" /></h1>
