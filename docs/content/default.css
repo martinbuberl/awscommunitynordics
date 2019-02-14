@@ -84,3 +84,23 @@ img.communityday-sponsor-small {
   font-weight: normal;
   white-space: nowrap;
 }
+
+/* cookiealert.js */
+
+.cookiealert {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  margin: 0 !important;
+  z-index: 999;
+  border-radius: 0;
+}
+.cookiealert.show {
+  display: block;
+}
+.cookiealert .acceptcookies {
+    margin-left: 10px;
+    vertical-align: baseline;
+}
