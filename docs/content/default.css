@@ -16,41 +16,34 @@ footer {
 
 /* Index */
 
-.carousel {
+#carousel-index {
   margin-bottom: 4rem;
 }
-.carousel-item {
+#carousel-index .carousel-item {
   height: 24rem;
-  background-color: #777;
+  background-color: #232f3e;
 }
 .carousel-item.communityday {
   background-image: url("/content/img/awscommunityday-cubes.png");
   background-size: 187px 300px;
   background-repeat: no-repeat;
   background-position: left center;
-  background-color: #232f3e;
 }
-.carousel-item.usergroups {
-  background-color: #232f3e;
-}
-
-#carousel-awscommunityday-nordics {
+.carousel-item.communityday #communityday-logo {
   height: 60px;
 }
-#carousel-usergroups-members {
-  height: 140px;
-}
-
-
 @media (min-width: 359px) {
-  #carousel-awscommunityday-nordics {
+  .carousel-item.communityday #communityday-logo {
     height: 70px;
   }
 }
 @media (min-width: 576px) {
-  #carousel-awscommunityday-nordics {
+  .carousel-item.communityday #communityday-logo {
     height: 100px;
   }
+}
+.carousel-item.usergroups #usergroups-members {
+  height: 140px;
 }
 
 /* Community Day */
