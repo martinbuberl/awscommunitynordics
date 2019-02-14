@@ -16,86 +16,13 @@
   <link rel="icon" type="image/png" href="/content/img/favicon.png" />
   <link rel="stylesheet" href="/assets/bootstrap-4.1.3/css/bootstrap.min.css" />
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous" />
+  <link rel="stylesheet" href="/content/default.css" />
 
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
   {% if page.description %}<meta property="og:description" content="{{ page.description }}" />{% endif %}
   <meta property="og:image" content="{{ site.url }}/content/img/{% if page.image %}{{ page.image }}{% else %}og-default.jpg{% endif %}" />
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 
-  <style>
-  body > main {
-    padding-top: 3.5rem;
-  }
-  .navbar {
-    background-color: #232f3e;
-  }
-  .navbar-brand {
-    margin-right: 0.5em;
-  }
-  .jumbotron {
-    height: 24rem;
-    background-image: url("/content/img/awscommunityday-cubes.png");
-    background-size: 187px 300px;
-    background-repeat: no-repeat;
-    background-position: left center;
-    background-color: #232f3e;
-    color: #ffffff;
-    border-radius: 0;
-  }
-  .carousel {
-    margin-bottom: 4rem;
-  }
-  .carousel-item {
-    height: 24rem;
-    background-color: #777;
-  }
-  .carousel-item.communityday {
-    background-image: url("/content/img/awscommunityday-cubes.png");
-    background-size: 187px 300px;
-    background-repeat: no-repeat;
-    background-position: left center;
-    background-color: #232f3e;
-  }
-  .carousel-item.usergroups {
-    background-color: #232f3e;
-  }
-  footer {
-    margin: 5rem 0; /* Space out the Bootstrap <hr> more */
-  }
-  #jumbotron-awscommunityday-nordics {
-    height: 70px;
-  }
-  #carousel-awscommunityday-nordics {
-    height: 60px;
-  }
-  #carousel-usergroups-members {
-    height: 140px;
-  }
-  #table-awscommunityday-agenda {
-    font-size: .8rem;
-  }
-  #table-awscommunityday-agenda .time {
-    font-weight: normal;
-    white-space: nowrap;
-  }
-  @media (min-width: 359px) {
-    #jumbotron-awscommunityday-nordics {
-      height: 80px;
-    }
-    #carousel-awscommunityday-nordics {
-      height: 70px;
-    }
-  }
-  @media (min-width: 576px) {
-    #jumbotron-awscommunityday-nordics {
-      height: 120px;
-    }
-    #carousel-awscommunityday-nordics {
-      height: 100px;
-    }
-  }
-}
-</style>
   <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
 </head>
 <body>
@@ -110,9 +37,6 @@
           <li class="nav-item{% if page.navigation == "communityday" %} active{% endif %}"><a class="nav-link" href="/communityday/">Community Day{% if page.navigation == "communityday" %} <span class="sr-only">(current)</span>{% endif %}</a></li>
         </ul>
         <ul class="navbar-nav order-2">
-          <!--
-          <li class="nav-item"><a class="nav-link" href="#"><i class="fab fa-twitter"></i></a></li>
-          -->
           <li class="nav-item"><a class="nav-link" href="https://aws-community-nordics-slackin.herokuapp.com/" target="_blank"><i class="fab fa-slack"></i></a></li>
         </ul>
       </div>
