@@ -64,8 +64,7 @@ image: "og-communityday.png"
   			<tr>
 	  			<th scope="row" class="time">9:15 - 10:00</th>
 		  		<td><b>Monitoring Serverless architectures on AWS Lambda</b><br/>
-              Serhat Can, Tech Advocate at Atlassian, AWS Community Hero <a href="https://twitter.com/srhtcn" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/serhatcan/" target="_blank"><i class="fab fa-linkedin"></i></a><br/>
-              Serkan &Ouml;zal, Founder &amp; CTO at Thundra <a href="https://twitter.com/serkan_ozal" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/serkanozal/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
+              Serhat Can, Tech Advocate at Atlassian, AWS Community Hero <a href="https://twitter.com/srhtcn" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/serhatcan/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
           <td>&nbsp;</td>
 			  </tr>
 			  <tr>
