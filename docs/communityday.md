@@ -102,7 +102,7 @@ image: "og-communityday.png"
 			  <tr>
 				  <th scope="row" class="time">14:30 - 15:00</th>
 				  <td><b>Bring ML awareness with DeepLens to the business by accessing the office with the face</b><br/>
-              Lezgin Bakircioglu, Global Head of IT Operations at Daniel Wellington, AWS User Group Leader <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
+              Lezgin Bakircioglu, Global Head of IT Operations at Daniel Wellington, AWS User Group Leader <a href="https://twitter.com/lerra82" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
           <td><b>Multi-Account Access Control</b><br/>
               Yihui Xu, Managing Security Architect / Delivery Architect at Capgemini <a href="https://twitter.com/yihui85586283" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/yihui-xu-267b596/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
 			  </tr>
