@@ -89,7 +89,7 @@ image: "og-communityday.png"
 				  <th scope="row" class="time">13:00 - 13:30</th>
 				  <td><b><a href="https://docs.google.com/presentation/d/1Ntnq8Vb4KruwrEfiHR3NtLoUdv_29t0AmLMAbf9rcKE/edit#slide=id.g4f25efe001_0_1">AWS Databases: Which one should I use?</a></b><br/>
               Angela Timofte, Tech Lead at Trustpilot <a href="https://www.linkedin.com/in/angela-timofte-69827667/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
-          <td><b>Running Devops at the Tradeshift rocketship</b><br/>
+          <td><b><a href="https://docs.google.com/presentation/d/19VtOnasb59eztSGomok2a94E2bVUCFKj8iN9pCutVkU/edit#slide=id.g4cd78906ad_0_0">Running Devops at the Tradeshift rocketship</a></b><br/>
               Jesper Terkelsen, VP Global Platform Operations at Tradeshift <a href="https://www.linkedin.com/in/jesperterkelsen/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
 			  </tr>
 			  <tr>
