@@ -78,7 +78,7 @@ image: "og-communityday.png"
 				  <th scope="row" class="time">11:15 - 12:00</th>
 				  <td><b>Business driven availability - why SLAs are not an excuse for poor architectures</b><br/>
               Rolf Koski, CTO at Cybercom, AWS Partner Ambassador <a href="https://twitter.com/therolle" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rolle/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
-          <td><b>Let's build a serverless data stream on AWS</b><br/>
+          <td><b><a href="https://prezi.com/view/mJ3uwyqV4gIPxTN6Hm78/">Let's build a serverless data stream on AWS</a></b><br/>
               Martin Larsen, Director of Product at Queue-it, AWS User Group Leader <a href="https://www.linkedin.com/in/realvaluetalks/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
 			  </tr>
         <tr>
