@@ -63,7 +63,7 @@ image: "og-communityday.png"
 			  </tr>
   			<tr>
 	  			<th scope="row" class="time">9:15 - 10:00</th>
-		  		<td><b>Monitoring Serverless architectures on AWS Lambda</b><br/>
+		  		<td><b><a href="https://speakerdeck.com/serhat/monitoring-serverless-architectures-on-aws-lambda-nordics-lego-themed">Monitoring Serverless architectures on AWS Lambda</a></b><br/>
               Serhat Can, Tech Advocate at Atlassian, AWS Community Hero <a href="https://twitter.com/srhtcn" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/serhatcan/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
           <td>&nbsp;</td>
 			  </tr>
