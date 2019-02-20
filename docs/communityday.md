@@ -115,7 +115,7 @@ image: "og-communityday.png"
 			  </tr>
 			  <tr>
 				  <th scope="row" class="time">16:00 - 16:30</th>
-				  <td><b>Alexa Skill Development</b><br/>
+				  <td><b><a href="https://www.slideshare.net/GoranVuksic/alexa-skill-development">Alexa Skill Development</a></b><br/>
               Goran Vuksic, Solution Architect at Agnitio <a href="https://twitter.com/gvuksic" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/goranvuksic/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
           <td><b><a href="https://www.slideshare.net/JuanManuelIrigaray/cloud-monster-legacy-migrations-to-aws-security-automation-on-aws-aws-community-day-nordics-1922019">Large legacy migrations to AWS</a></b><br/>
               Juan Manuel Irigaray, Director at Equinix, AWS User Group Leader <a href="https://twitter.com/tranjuan" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/juan-manuel-irigaray-2aa7a38/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
