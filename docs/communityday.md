@@ -71,7 +71,7 @@ image: "og-communityday.png"
 				  <th scope="row" class="time">10:15 - 11:00</th>
 				  <td><b><a href="https://www.slideshare.net/Dennis_Traub/security-automation-on-aws-aws-community-day-nordics-20190219">Serverless Security Automation Patterns on AWS</a></b><br/>
               Dennis Traub, Fellow at Codecentric <a href="https://twitter.com/dtraub" target="_blank"><i class="fab fa-twitter"></i></a></td>
-          <td><b>Efficiently exposing apps on Kubernetes at scale</b><br/>
+          <td><b><a href="/content/download/Efficiently Expose apps on Kubernetes.pdf">Efficiently exposing apps on Kubernetes at scale</a></b><br/>
               Rasheed Amir, CTO at Stakater <a href="https://twitter.com/rasheedwaraich" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rasheedwaraich/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
 			  </tr>
 			  <tr>
