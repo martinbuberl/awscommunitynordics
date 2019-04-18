@@ -1,8 +1,8 @@
 ---
 layout: default
 title:  "AWS Community Day"
-navigation: "communityday"
-permalink: /communityday/
+navigation: "communityday-cph2019"
+permalink: /communityday-cph2019/
 image: "og-communityday.png"
 ---
 
