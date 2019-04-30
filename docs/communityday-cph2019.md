@@ -10,7 +10,7 @@ image: "og-communityday.png"
   <div class="container text-center">
     <h1><img src="/content/img/awscommunityday-nordics.png" id="communityday-logo" /></h1>
     <h2 class="display-5 mt-4">Copenhagen | 19th February 2019</h2>
-    <p class="mt-4"><a class="btn btn-lg btn-primary" href="https://www.eventbrite.com/e/aws-community-day-nordics-tickets-53715075236" role="button">Register</a></p>
+    <p class="mt-4"><button class="btn btn-lg btn-secondary" type="button" disabled>Event Ended</button></p>
   </div>
 </div>
 
@@ -22,7 +22,7 @@ image: "og-communityday.png"
   <p>This event is being held on <b>Tuesday, 19th February 2019</b> at the <b>Scandic Copenhagen</b>.<br/>
   Breakfast, lunch and snacks are provided to keep the community fueled for learning and networking.</p>
   <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2249.807371516021!2d12.55742131592752!3d55.67494978053265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4652530b9cac3615%3A0x5b367ee651f5cfc3!2sScandic+Copenhagen!5e0!3m2!1sen!2sdk!4v1540406635175" width="100%" height="400" frameborder="0" style="border: 0;"></iframe></p>
-  <p class="text-center"><a class="btn btn-lg btn-primary" href="https://www.eventbrite.com/e/aws-community-day-nordics-tickets-53715075236" role="button">Register</a></p>
+  <p class="text-center"><button class="btn btn-lg btn-secondary" type="button" disabled>Event Ended</button></p>
 
   <h2 class="mt-5">Sponsors</h2>
   <p> We would like to thank our sponsors, who make this event possible.</p>
