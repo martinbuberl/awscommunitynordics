@@ -36,6 +36,6 @@ image: "og-communityday.png"
     <b>Lezgin Bakircioglu</b> - Head of Global IT Operations at Daniel Wellington <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
   <p>
-    Read about AWS Community Day Nordics 2019 in Copenhagen <a href="/communityday-cph2019/">here</a>
+    Read about AWS Community Day Nordics 2019 in Copenhagen <a href="/communityday/2019/">here</a>
   </p>
 </div>
