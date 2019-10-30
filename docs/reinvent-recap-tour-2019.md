@@ -30,6 +30,9 @@ image: "og-reinventrecaptour2019.png"
       <a href="#" target="_blank">More details and RSVP</a></p></td>
     </tr>
   </table>
+  <p>
+  Please note, that the Tour events are free, but you are <b>required to RSVP</b> at the event pages, as the space is limited and we anticipate on having a full house on each event.
+  </p>
   <h2 class="mt-5">Speakers</h2>
   <p>
     <b>Gunnar Grosch</b> - Cloud Evangelist at Opsio
