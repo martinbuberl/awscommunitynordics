@@ -24,7 +24,7 @@ image: "og-reinventrecaptour2019.png"
       <a href="#" target="_blank">More details and RSVP</a></p></td>
       <td><h4>Helsinki</h4>
       <p>Thursday, 12 December, 2019<br />
-      <a href="#" target="_blank">More details and RSVP</a></p></td>
+      <a href="https://www.meetup.com/awsfin/events/266078485/" target="_blank">More details and RSVP</a></p></td>
       <td><h4>Copenhagen</h4>
       <p>Monday, 16 December, 2019<br />
       <a href="#" target="_blank">More details and RSVP</a></p></td>
