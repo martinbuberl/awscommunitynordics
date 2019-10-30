@@ -50,7 +50,14 @@ image: "og-communityday.png"
   <!--End mc_embed_signup-->
   
   <h2 class="mt-5">Sponsors</h2>
-  <p>We are actively looking for sponsors. Please contact the organizers if you are interested in supporting the community and getting a chance to gain visibility amongst AWS users in the Nordics.</p>
+  <p> We would like to thank our sponsors, who make this event possible. We are actively looking for sponsors. Please contact the organizers if you are interested in supporting the community and getting a chance to gain visibility amongst AWS users in the Nordics.</p>
+
+  <div class="row pt-5">
+    <div class="col text-center"><a href="https://aws.amazon.com/"><img src="/content/img/sponsor_aws.png" class="communityday-sponsor-large"></a></div>
+    <div class="col text-center"><a href="https://www.trustpilot.com/"><img src="/content/img/dw_logo.png" class="communityday-sponsor-large"></a></div>
+    <div class="col text-center"><a href="https://www.cybercom.com/"><img src="/content/img/sponsor_cybercom.png" class="communityday-sponsor-large"></a></div>
+  </div>
+
 
   <h2 class="mt-5">Agenda &amp; Speakers</h2>
   <p>Topics are chosen by the community and focus on cutting-edge AWS cloud technologies such as Serverless, Containers, Microservices, DevOps &amp; SRE, Machine Learning &amp; Artificial Intelligence, and best practices and real-world customer cases. We strive to cover all technical levels, so you can have an interesting day no matter if you're an AWS expert or just getting started in the cloud.</p>
