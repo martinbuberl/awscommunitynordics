@@ -72,16 +72,16 @@ footer {
   }
 }
 .jumbotron.communityday #reinventrecaptour2019-logo {
-  height: 140px;
+  height: 90px;
 }
 @media (min-width: 359px) {
   .jumbotron.communityday #reinventrecaptour2019-logo {
-    height: 160px;
+    height: 110px;
   }
 }
 @media (min-width: 576px) {
   .jumbotron.communityday #reinventrecaptour2019-logo {
-    height: 240px;
+    height: 200px;
   }
 }
 img.communityday-sponsor-large {
