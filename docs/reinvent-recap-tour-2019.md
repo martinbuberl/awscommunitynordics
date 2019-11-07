@@ -27,7 +27,7 @@ image: "og-reinventrecaptour2019.png"
       <a href="https://www.meetup.com/awsfin/events/266078485/" target="_blank">More details and RSVP</a></p></td>
       <td><h4>Copenhagen</h4>
       <p>Monday, 16 December, 2019<br />
-      <a href="#" target="_blank">More details and RSVP</a></p></td>
+      Event will be published soon</p></td>
     </tr>
   </table>
   <p>
@@ -51,5 +51,9 @@ image: "og-reinventrecaptour2019.png"
   </p>
   
   <h2 class="mt-5">Sponsors</h2>
-  <p>Place for sponsors.</p>
+  <div class="row pt-5">
+    <div class="col text-center"><a href="https://www.schibsted.com/"><img src="/content/img/schibsted_logo.png" class="communityday-sponsor-large"></a></div>
+    <div class="col text-center"><a href="https://www.cybercom.com/"><img src="/content/img/sponsor_cybercom.png" class="communityday-sponsor-large"></a></div>
+    <div class="col text-center"><a href="https://www.opsio.se/"><img src="/content/img/opsio_logo.png" class="communityday-sponsor-large"></a></div>
+  </div>
 </div>
