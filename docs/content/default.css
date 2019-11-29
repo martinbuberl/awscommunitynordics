@@ -14,6 +14,17 @@ footer {
   margin-right: 0.5em;
 }
 
+.nav-item.slack {
+  font-size: 1.5rem;
+  padding: 0 !important;
+}
+.nav-item.slack .nav-link {
+  padding: 0 !important;
+}
+.nav-link.slack .fa-slack {
+  padding: 0 !important;
+}
+
 /* Index */
 
 #carousel-index {
