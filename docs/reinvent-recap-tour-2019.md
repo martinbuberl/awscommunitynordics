@@ -52,8 +52,9 @@ image: "og-reinventrecaptour2019.png"
 
   <h2 class="mt-5">Sponsors</h2>
   <div class="row pt-5">
-    <div class="col text-center"><a href="https://www.schibsted.com/"><img src="/content/img/schibsted_logo.png" class="communityday-sponsor-large"></a></div>
-    <div class="col text-center"><a href="https://www.cybercom.com/"><img src="/content/img/sponsor_cybercom.png" class="communityday-sponsor-large"></a></div>
-    <div class="col text-center"><a href="https://www.opsio.se/"><img src="/content/img/opsio_logo.png" class="communityday-sponsor-large"></a></div>
+    <div class="col text-center"><a href="https://www.schibsted.com/" target="_blank"><img src="/content/img/schibsted_logo.png" class="communityday-sponsor-large"></a></div>
+    <div class="col text-center"><a href="https://www.cybercom.com/" target="_blank"><img src="/content/img/sponsor_cybercom.png" class="communityday-sponsor-large"></a></div>
+    <div class="col text-center"><a href="https://www.tretton37.com/" target="_blank"><img src="/content/img/tretton37_logo.png" class="communityday-sponsor-large"></a></div>
+    <div class="col text-center"><a href="https://www.opsio.se/" target="_blank"><img src="/content/img/opsio_logo.png" class="communityday-sponsor-large"></a></div>
   </div>
 </div>
