@@ -10,6 +10,7 @@ image: "og-communityday.png"
   <div class="container text-center">
     <h1><img src="/content/img/awscommunityday-nordics.png" id="communityday-logo" /></h1>
     <h2 class="display-5 mt-4">Stockholm | Friday, 31 January 2020</h2>
+    <h2 class="display-5 mt-4"><button class="btn btn-lg btn-primary" type="button" onClick="parent.open('https://www.eventbrite.com/e/aws-community-day-31st-of-jan-2020-stockholm-tickets-78032973725')">Get your ticket</button></h2>
     <h2 class="display-5 mt-4"><button class="btn btn-lg btn-primary" type="button" onClick="parent.open('https://www.papercall.io/awsnordics2020')">Submit your talk</button></h2>
   </div>
 </div>
