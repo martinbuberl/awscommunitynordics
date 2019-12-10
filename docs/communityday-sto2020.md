@@ -10,7 +10,7 @@ image: "og-communityday.png"
   <div class="container text-center">
     <h1><img src="/content/img/awscommunityday-nordics.png" id="communityday-logo" /></h1>
     <h2 class="display-5 mt-4">Stockholm | Friday, 31 January 2020</h2>
-    <h2 class="display-5 mt-4"><button class="btn btn-lg btn-primary" type="button" onClick="parent.open('https://www.papercall.io/awsnordics2020')">Submit your talk</button></h2>
+    <h2 class="display-5 mt-4"><button class="btn btn-lg btn-primary" type="button" onClick="parent.open('https://www.eventbrite.com/e/aws-community-day-31st-of-jan-2020-stockholm-tickets-78032973725')">Get your free ticket now</button></h2>
   </div>
 </div>
 
@@ -21,6 +21,10 @@ image: "og-communityday.png"
   <h2 class="mt-5">Date &amp; Venue</h2>
   <p>This event is being held <b>Friday, 31 January 2020</b> at the charming and classic location <a href="https://www.nalen.com/english/" target="_blank">Nalen</a> in Stockholm.</p>
   <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2034.7491261483115!2d18.06549851636592!3d59.337142181661534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465f9d5d3e1359f5%3A0xbb175cb427e51869!2sNalen!5e0!3m2!1sen!2sse!4v1567588563257!5m2!1sen!2sse" width="100%" height="400" frameborder="0" style="border: 0;"></iframe></p>
+
+  <h2 class="mt-5">Tickets and registration</h2>
+  <p>Tickets for AWS Community Day in Stockholm are free. That's right, free! Register on the link below to get your ticket before they run out.</p>
+  <p><a href="https://www.eventbrite.com/e/aws-community-day-31st-of-jan-2020-stockholm-tickets-78032973725" target="_blank">Get your free ticket now</a></p>
 
   <h2 class="mt-5">Call for Papers</h2>
   <p>Our CFP is open! We are interested in talks from all members of the AWS user community - whether you’re a seasoned pro at presenting or it’ll be your first time out we’d love you to submit a talk. As long as your talk is AWS related it will get properly considered.</p>
@@ -54,8 +58,11 @@ image: "og-communityday.png"
 
   <div class="row pt-5">
     <div class="col text-center"><a href="https://aws.amazon.com/"><img src="/content/img/sponsor_aws.png" class="communityday-sponsor-large"></a></div>
-    <div class="col text-center"><a href="https://www.trustpilot.com/"><img src="/content/img/dw_logo.png" class="communityday-sponsor-large"></a></div>
     <div class="col text-center"><a href="https://www.cybercom.com/"><img src="/content/img/sponsor_cybercom.png" class="communityday-sponsor-large"></a></div>
+  </div>
+  <div class="row pt-5">
+    <div class="col text-center"><a href="https://www.trustpilot.com/"><img src="/content/img/dw_logo.png" class="communityday-sponsor-large"></a></div>
+    <div class="col text-center"><a href="https://www.opsio.se/"><img src="/content/img/opsio_logo.png" class="communityday-sponsor-large"></a></div>
   </div>
 
 
