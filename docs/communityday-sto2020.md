@@ -21,7 +21,6 @@ image: "og-communityday-2020.png"
     <div class="col text-center"><h5><a href="#agenda">Agenda</a></h5></div>
     <div class="col text-center"><h5><a href="#workshops">Workshops</a></h5></div>
     <div class="col text-center"><h5><a href="#sponsors">Sponsors</a></h5></div>
-    <div class="col text-center"><h5><a href="#contact">Contact</a></h5></div>
   </div>
 
   <p class="mt-4">The AWS Community Day is a free full day event for AWS users organized by the community. Once a year all AWS users come together to network, learn from each other and get inspired. At this event, there will be no vendor talks, no partner talks, no sponsored talks. All speakers are expert AWS users from the community - including AWS User Group leaders and AWS Heroes - with real life experience in the AWS topics they are presenting.</p>
