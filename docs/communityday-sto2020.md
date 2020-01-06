@@ -79,7 +79,7 @@ image: "og-communityday-2020.png"
   <div class="row pt-5">
     <div class="col text-center"><a href="https://aws.amazon.com/" target="_blank"><img src="/content/img/sponsor_aws.png" class="communityday-sponsor-large"></a></div>
     <div class="col text-center"><a href="https://www.cybercom.com/" target="_blank"><img src="/content/img/sponsor_cybercom.png" class="communityday-sponsor-large"></a></div>
-    <div class="col text-center"><a href="https://www.spotinst.com/" target="_blank"><img src="/content/img/spotinst_logo.png" class="communityday-sponsor-large"></a></div>
+    <div class="col text-center"><a href="https://www.spotinst.com/" target="_blank"><img src="/content/img/sponsor_spotinst.png" class="communityday-sponsor-large"></a></div>
   </div>
   <div class="row pt-5">
     <div class="col text-center"><a href="https://www.danielwellington.com/" target="_blank"><img src="/content/img/dw_logo.png" class="communityday-sponsor-small"></a></div>
