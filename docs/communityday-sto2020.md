@@ -16,7 +16,7 @@ image: "og-communityday-2020.png"
 
 <div class="container">
 
-  <div class="row pt-3">
+  <div class="row pt-4">
     <div class="col text-center"><h5><a href="#tickets">Tickets</a></h5></div>
     <div class="col text-center"><h5><a href="#agenda">Agenda</a></h5></div>
     <div class="col text-center"><h5><a href="#speakers">Talks &amp; Speakers</a></h5></div>
@@ -145,52 +145,55 @@ image: "og-communityday-2020.png"
   </p>
   <a name="speakers"></a>
   <h2 class="mt-4">Talks &amp; Speakers</h2>
-  <p>Topics are chosen by the community and focus on cutting-edge AWS cloud technologies such as Serverless, Containers, Microservices, DevOps &amp; SRE, Machine Learning &amp; Artificial Intelligence, and best practices and real-world customer cases. We strive to cover all technical levels, so you can have an interesting day no matter if you're an AWS expert or just getting started in the cloud.</p>
-  <div class="row pt-3">
+  <p>We strive to cover all technical levels, so you can have an interesting day no matter if you're an AWS expert or just getting started in the cloud.</p>
+  <div class="row pt-4">
     <div class="col text-left"><b>No more AWS keys for you</b><br />
     Nicole Yip <a href="https://twitter.com/Pelicanpie88" target="_blank"><i class="fab fa-twitter"></i></a><br />
-    </div>
+    An intro to AWS account security and and how we are moving our team at The LEGO Group towards security best practices by giving them one less thing to worry about and taking away their personal AWS keys (and making the process of acquiring temporary AWS keys as easy as running a command).</div>
     <div class="col text-left"><b>Serverless Data Streaming at Scale</b><br />
     Anahit Pogosova <a href="https://twitter.com/anahit_fi" target="_blank"><i class="fab fa-twitter"></i></a><br />
-    </div>
+    Everything fails, all the time. This is what Dr. Vogels likes to say. This is what we have learned over and over again while implementing serverless data streaming at scale. I’ll take the example of my customer, Yle, and talk about the services we used, issues we faced and lessons we learned.</div>
   </div>
-  <div class="row pt-3">
+  <div class="row pt-4">
     <div class="col text-left"><b>GitOps in action, powered by Alexa</b><br />
     Jimmy Dahlqvist <a href="https://twitter.com/jimmydahlqvist" target="_blank"><i class="fab fa-twitter"></i></a><br />
-    </div>
+    GitOps in action will be a talk about GitOps with focus on demonstration. We build a CI/CD pipeline, using AWS Code products, then we integrate everything with an Alexa skill to be able to trigger builds, get status, deploy using voice.</div>
     <div class="col text-left"><b>Integration testing a cloud-native application with JavaScript</b><br />
     Markus Tacker <a href="https://twitter.com/coderbyheart" target="_blank"><i class="fab fa-twitter"></i></a><br />
-    </div>
+    In this talk I will take you through the challenge of testing a cloud-native application. I will cover the challenges when developing solutions on top of serverless components which you cannot run on your own machine and how I designed a BDD driven approach to run the integration tests.</div>
   </div>
-  <div class="row pt-3">
+  <div class="row pt-4">
     <div class="col text-left"><b>The Art of Microservices Communication with AWS EventBridge</b><br />
     Sheen Brisals <a href="https://twitter.com/sheenbrisals" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/sheen-brisals/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
-    </div>
+    Streamlining microservices communication has always been a challenge. This caused confusion and proved challenging for engineers. AWS EventBridge alleviates these concerns and offers a unified approach to employ even driven computing. This talk will guide you to achieve this with real use cases!</div>
     <div class="col text-left"><b>Experiences of transitioning from monolithic architectures for large scale mission critical real time communication services towards Serverless</b><br />
     Jorgen Bjorkner <a href="https://www.linkedin.com/in/jorgen-bjorkner-36985/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
-    </div>
+    Telecom providers still debates how to embrace virtulization to modernise their data centers and are stuck with monolithic applications… This presentation share experiences building a platform providing serverless functions for real time communications.</div>
   </div>
-  <div class="row pt-3">
+  <div class="row pt-4">
     <div class="col text-left"><b>Essential open source tools for a serverless developer</b><br />
     Yan Cui <a href="https://twitter.com/theburningmonk" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/theburningmonk/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
-    </div>
+    In this session, AWS Serverless Hero Yan Cui will share the open-source tools and frameworks that he has found so useful in his journey with serverless. The list features libraries, deployment frameworks, plugins, middlewares, Lambda layers and much more!</div>
     <div class="col text-left"><b>Infrastructure as code for multi-account & multi-environment architectures with AWS Cloud Development Kit</b><br />
     Ari Palo <a href="https://twitter.com/aripalo" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/aripalo/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
-    </div>
+    I’ve been running CDK in production almost a year now in a big media company; This talk focuses on the best practices I’ve found working with CDK: How to simplify complex architectures, how to manage multi-account & multi-environments and how to refactor shared functionality into components.</div>
   </div>
-  <div class="row pt-3">
+  <div class="row pt-4">
     <div class="col text-left"><b>Practical FinOps in Practice</b><br />
     Petri Kallberg<br />
-    </div>
+    Learn what happens when you task group of engineers to manage and optimize AWS capacity worth of several millions euros in a month. What are the easy wins you absolutely must do and how to drive non-trivial optimizations.</div>
+    <div class="col text-left"><b>&nbsp;</b><br />
+    &nbsp;<br />
+    &nbsp;</div>
   </div>
-  <div class="row pt-3">
+  <div class="row pt-4">
     <div class="col text-left"><b>More talks and speakers to be announced</b><br />
     <br /></div>
   </div>
   <a name="workshops"></a>
   <h2 class="mt-4">Workshops</h2>
   <p>There will be held four workshops during the AWS Community Day. These will have limited number of seats and reserved seating. Information about when reservations open will be sent to everyone with a registered ticket for the community day.</p>
-  <div class="row pt-3">
+  <div class="row pt-4">
     <div class="col text-left"><b>Serverless Monitoring and Troubleshooting</b><br />
     Yan Cui <a href="https://twitter.com/theburningmonk" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/theburningmonk/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
     </div>
@@ -198,7 +201,7 @@ image: "og-communityday-2020.png"
     Goran Vuksic <a href="https://twitter.com/gvuksic" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/goranvuksic/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
     In this workshop I’ll give an introduction to Amazon Alexa and its ecosystem. Attendees will learn how to build Alexa skill from scratch by programming AWS Lambda function in Node.js, data will be stored in DynamoDB database, and I’ll show how to use SSML (Speech Synthesis Markup Language).</div>
   </div>
-  <div class="row pt-3">
+  <div class="row pt-4">
     <div class="col text-left"><b>Get the most from Terraform AWS modules</b><br />
     Anton Babenko <a href="https://twitter.com/antonbabenko" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/antonbabenko/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
     Let me explain and demonstrate how Terraform AWS modules (<a href="https://github.com/terraform-aws-modules" target="_blank">https://github.com/terraform-aws-modules</a>) which are used by hundreds of companies worldwide can help you to build your AWS infrastructure in minutes.</div>
