@@ -197,7 +197,7 @@ image: "og-communityday-2020.png"
   <div class="row pt-4">
     <div class="col text-left"><b>Serverless Monitoring and Troubleshooting</b><br />
     Yan Cui <a href="https://twitter.com/theburningmonk" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/theburningmonk/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
-    </div>
+    In this workshop you will learn how to troubleshoot issues in your serverless application, including log aggregation, monitoring & alerting, capturing and forwarding correlation IDs and tracing executions through both synchronous and asynchronous micro-service communications. You will learn about AWS services such as CloudWatch, CloudWatch Logs and X-Ray, how they work and where they fall short, and how tools such as Lumigo can help you go further.</div>
     <div class="col text-left"><b>Alexa Skill Development</b><br />
     Goran Vuksic <a href="https://twitter.com/gvuksic" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/goranvuksic/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
     In this workshop I’ll give an introduction to Amazon Alexa and its ecosystem. Attendees will learn how to build Alexa skill from scratch by programming AWS Lambda function in Node.js, data will be stored in DynamoDB database, and I’ll show how to use SSML (Speech Synthesis Markup Language).</div>
