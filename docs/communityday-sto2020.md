@@ -56,7 +56,7 @@ image: "og-communityday-2020.png"
 		  		<th scope="row" class="time">9:00 - 9:10</th>
 			  	<td colspan="4"><b>Opening Remarks</b><br />
           Gunnar Grosch <a href="https://twitter.com/gunnargrosch" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/gunnargrosch/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
-          Lezgin Bakircioglu <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
+          Lezgin Bakircioglu <a href="https://twitter.com/lerra82" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
 			  </tr>
   			<tr>
 	  			<th scope="row" class="time">9:10 - 09.50</th>
@@ -133,7 +133,7 @@ image: "og-communityday-2020.png"
 				  <th scope="row" class="time">16:15 - 16:30</th>
 				  <td colspan="4"><b>Closing Remarks and Community Raffle</b><br />
           Gunnar Grosch <a href="https://twitter.com/gunnargrosch" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/gunnargrosch/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
-          Lezgin Bakircioglu <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
+          Lezgin Bakircioglu <a href="https://twitter.com/lerra82" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
 			  </tr>
 			  <tr>
 				  <th scope="row" class="time">16:30 - 18:30</th>
@@ -251,7 +251,7 @@ image: "og-communityday-2020.png"
     <b>Gunnar Grosch</b> - Cloud Evangelist at Opsio <a href="https://twitter.com/gunnargrosch" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/gunnargrosch/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
   <p>
-    <b>Lezgin Bakircioglu</b> - Head of Global IT Operations at Daniel Wellington <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a>
+    <b>Lezgin Bakircioglu</b> - Innovation manager at Daniel Wellington <a href="https://twitter.com/lerra82" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
   <p>
     Read about AWS Community Day Nordics 2019 in Copenhagen <a href="/communityday/2019/">here</a>
