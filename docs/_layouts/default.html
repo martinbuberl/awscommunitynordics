@@ -22,6 +22,12 @@
   {% if page.description %}<meta property="og:description" content="{{ page.description }}" />{% endif %}
   <meta property="og:image" content="{{ site.url }}/content/img/{% if page.image %}{{ page.image }}{% else %}og-default.jpg{% endif %}" />
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  {% if page.description %}<meta name="twitter:description" content="{{ page.description }}" />{% endif %}
+  <meta name="twitter:site" content="@awsnordics" />
+  <meta name="twitter:creator" content="@awsnordics" />
+  <meta name="twitter:image" content="{{ site.url }}/content/img/{% if page.image %}{{ page.image }}{% else %}og-default.jpg{% endif %}">
 
   <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
 </head>
