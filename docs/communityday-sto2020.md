@@ -182,6 +182,7 @@ image: "og-communityday-2020.png"
   <div class="row pt-4">
     <div class="col text-left"><b>Practical FinOps in Practice</b><br />
     Petri Kallberg<br />
+    Michal Czerwinski<br />
     Learn what happens when you task group of engineers to manage and optimize AWS capacity worth of several millions euros in a month. What are the easy wins you absolutely must do and how to drive non-trivial optimizations.</div>
     <div class="col text-left"><b>DynamoDB: Untold stories</b><br />
     Angela Timofte <a href="https://twitter.com/AngelaTimofte" target="_blank"><i class="fab fa-twitter"></i></a><br />
