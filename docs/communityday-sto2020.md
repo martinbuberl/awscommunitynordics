@@ -61,7 +61,7 @@ image: "og-communityday-2020.png"
 			  </tr>
   			<tr>
 	  			<th scope="row" class="time">9:10 - 09.50</th>
-		  		<td colspan="4"><b>Keynote</b></td>
+		  		<td colspan="4"><b>Talk</b></td>
 			  </tr>
 			  <tr>
 				  <th scope="row" class="time">10:00 - 10:40</th>
@@ -97,7 +97,7 @@ image: "og-communityday-2020.png"
 				  <td colspan="4"><b>Lunch and Networking</b></td>
 			  </tr>
 			  <tr>
-				  <th scope="row" class="time">13:30 - 14:00</th>
+				  <th scope="row" class="time">13:30 - 14:10</th>
 				  <td><b>Talk</b></td>
 				  <td><b>Talk</b></td>
 				  <td><b>Get the most from Terraform AWS modules</b><br />
@@ -106,32 +106,25 @@ image: "og-communityday-2020.png"
           Bruno Amaro Almeida <a href="https://twitter.com/bruno_amaro" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/brunoamaroalmeida/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
 			  </tr>
 			  <tr>
-				  <th scope="row" class="time">14:05 - 14:35</th>
+				  <th scope="row" class="time">14:15 - 14:55</th>
 				  <td><b>Talk</b></td>
 				  <td><b>Talk</b></td>
 				  <td>&nbsp;</td>
 				  <td>&nbsp;</td>
 			  </tr>
         <tr>
-				  <th scope="row" class="time">14:35 - 14:55</th>
+				  <th scope="row" class="time">14:55 - 15:20</th>
 				  <td colspan="4"><b>Coffee Break</b></td>
 			  </tr>
 			  <tr>
-				  <th scope="row" class="time">14:55 - 15:35</th>
+				  <th scope="row" class="time">15:20 - 16:00</th>
 				  <td><b>Talk</b></td>
 				  <td><b>Talk</b></td>
 				  <td>&nbsp;</td>
 				  <td>&nbsp;</td>
 			  </tr>
 			  <tr>
-				  <th scope="row" class="time">15:40 - 16:10</th>
-				  <td><b>Talk</b></td>
-				  <td><b>Talk</b></td>
-				  <td><b>&nbsp;</b></td>
-				  <td><b>&nbsp;</b></td>
-			  </tr>
-			  <tr>
-				  <th scope="row" class="time">16:15 - 16:30</th>
+				  <th scope="row" class="time">16:10 - 16:30</th>
 				  <td colspan="4"><b>Closing Remarks and Community Raffle</b><br />
           Gunnar Grosch <a href="https://twitter.com/gunnargrosch" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/gunnargrosch/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
           Lezgin Bakircioglu <a href="https://twitter.com/lerra82" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
@@ -187,6 +180,14 @@ image: "og-communityday-2020.png"
     <div class="col text-left"><b>DynamoDB: Untold stories</b><br />
     Angela Timofte <a href="https://twitter.com/AngelaTimofte" target="_blank"><i class="fab fa-twitter"></i></a><br />
     The favorite database at Trustpilot is DynamoDB, but this wasn’t always the case. In this talk you’ll hear talk about what we’ve learned from working with DynamoDB, misconceptions and mistakes. We’ll look at some real life examples of how to model your data in DynamoDB and how to use of its features.</div>
+  </div>
+  <div class="row pt-4">
+    <div class="col text-left"><b>Machine learning methods for shopping cart data</b><br />
+    Markus Eriksson <a href="https://www.linkedin.com/in/markus-eriksson-825a2136/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
+    Having an attractive assortment is important for any retail company in the grocery industry. This talk describes machine learning methods that analyze large sets of shopping cart data and automatically identifies relationships between products, which can be very helpful for assortment planners.</div>
+    <div class="col text-left"><b>&nbsp;</b><br />
+    &nbsp;<br />
+    &nbsp;</div>
   </div>
   <div class="row pt-4">
     <div class="col text-left"><b>More talks and speakers to be announced</b><br />
