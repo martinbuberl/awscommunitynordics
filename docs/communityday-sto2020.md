@@ -185,9 +185,9 @@ image: "og-communityday-2020.png"
     <div class="col text-left"><b>Machine learning methods for shopping cart data</b><br />
     Markus Eriksson <a href="https://www.linkedin.com/in/markus-eriksson-825a2136/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
     Having an attractive assortment is important for any retail company in the grocery industry. This talk describes machine learning methods that analyze large sets of shopping cart data and automatically identifies relationships between products, which can be very helpful for assortment planners.</div>
-    <div class="col text-left"><b>&nbsp;</b><br />
-    &nbsp;<br />
-    &nbsp;</div>
+    <div class="col text-left"><b>An overview of purpose built databases in AWS</b><br />
+    Anurag Kale <a href="https://twitter.com/iAnuragKale" target="_blank"><i class="fab fa-twitter"></i></a><br />
+    Building a new application? Which database should you choose? Should it be relational/NoSQL/both? How much re-skilling my team would need? Is there a simpler way? Sure there is. I plan to cover all the DB offerings in AWS portfolio. This will help people to choose the right DB for their next app.</div>
   </div>
   <div class="row pt-4">
     <div class="col text-left"><b>More talks and speakers to be announced</b><br />
