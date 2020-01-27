@@ -190,8 +190,12 @@ image: "og-communityday-2020.png"
     Building a new application? Which database should you choose? Should it be relational/NoSQL/both? How much re-skilling my team would need? Is there a simpler way? Sure there is. I plan to cover all the DB offerings in AWS portfolio. This will help people to choose the right DB for their next app.</div>
   </div>
   <div class="row pt-4">
-    <div class="col text-left"><b>More talks and speakers to be announced</b><br />
-    <br /></div>
+    <div class="col text-left"><b>Kubernetes from Zero to Hero!</b><br />
+    Amit Bar Oz<br />
+    During this session, we will discuss why using K8s: The core concepts, architecture, real-life scenarios and what are the difference of using vanilla K8s vs Amazon EKS. In addition, we will discuss how to scale your K8s infrastructure while saving 80% of your cloud costs by using EC2 Spot Instances.</div>
+    <div class="col text-left"><b>&nbsp;</b><br />
+    &nbsp;<br />
+    &nbsp;</div>
   </div>
   <a name="workshops"></a>
   <h2 class="mt-4">Workshops</h2>
