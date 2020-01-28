@@ -61,7 +61,10 @@ image: "og-communityday-2020.png"
 			  </tr>
   			<tr>
 	  			<th scope="row" class="time">9:10 - 09.50</th>
-		  		<td colspan="4"><b>Talk</b></td>
+				  <td><b>Talk</b></td>
+				  <td><b>Talk</b></td>
+				  <td><b>&nbsp;</b></td>
+				  <td><b>&nbsp;</b></td>
 			  </tr>
 			  <tr>
 				  <th scope="row" class="time">10:00 - 10:40</th>
@@ -173,10 +176,9 @@ image: "og-communityday-2020.png"
     I’ve been running CDK in production almost a year now in a big media company; This talk focuses on the best practices I’ve found working with CDK: How to simplify complex architectures, how to manage multi-account & multi-environments and how to refactor shared functionality into components.</div>
   </div>
   <div class="row pt-4">
-    <div class="col text-left"><b>Practical FinOps in Practice</b><br />
-    Petri Kallberg<br />
-    Michal Czerwinski<br />
-    Learn what happens when you task group of engineers to manage and optimize AWS capacity worth of several millions euros in a month. What are the easy wins you absolutely must do and how to drive non-trivial optimizations.</div>
+    <div class="col text-left"><b>Alexa Skill Development</b><br />
+    Goran Vuksic <a href="https://twitter.com/gvuksic" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/goranvuksic/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
+    In this talk I’ll give an introduction to Amazon Alexa and its ecosystem. Attendees will see how to build Alexa skill from scratch by programming AWS Lambda function in Node.js, data will be stored in DynamoDB database, and I’ll show how to use SSML (Speech Synthesis Markup Language).</div>
     <div class="col text-left"><b>DynamoDB: Untold stories</b><br />
     Angela Timofte <a href="https://twitter.com/AngelaTimofte" target="_blank"><i class="fab fa-twitter"></i></a><br />
     The favorite database at Trustpilot is DynamoDB, but this wasn’t always the case. In this talk you’ll hear talk about what we’ve learned from working with DynamoDB, misconceptions and mistakes. We’ll look at some real life examples of how to model your data in DynamoDB and how to use of its features.</div>
@@ -193,9 +195,10 @@ image: "og-communityday-2020.png"
     <div class="col text-left"><b>Kubernetes from Zero to Hero!</b><br />
     Amit Bar Oz<br />
     During this session, we will discuss why using K8s: The core concepts, architecture, real-life scenarios and what are the difference of using vanilla K8s vs Amazon EKS. In addition, we will discuss how to scale your K8s infrastructure while saving 80% of your cloud costs by using EC2 Spot Instances.</div>
-    <div class="col text-left"><b>&nbsp;</b><br />
-    &nbsp;<br />
-    &nbsp;</div>
+    <div class="col text-left"><b>Practical FinOps in Practice</b><br />
+    Petri Kallberg<br />
+    Michal Czerwinski<br />
+    Learn what happens when you task group of engineers to manage and optimize AWS capacity worth of several millions euros in a month. What are the easy wins you absolutely must do and how to drive non-trivial optimizations.</div>
   </div>
   <a name="workshops"></a>
   <h2 class="mt-4">Workshops</h2>
