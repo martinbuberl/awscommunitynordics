@@ -36,7 +36,7 @@ image: "og-communityday-2020.png"
   <h2 class="display-5 mt-4"><button class="btn btn-lg btn-primary" type="button" onClick="parent.open('https://www.eventbrite.com/e/aws-community-day-31st-of-jan-2020-stockholm-tickets-78032973725')">Get your free ticket now</button></h2>
   <a name="agenda"></a>
   <h2 class="mt-4">Agenda</h2>
-  <p class="mt-4">The agenda is preliminary and is subject to change. Talks and speakers will be added during January.
+  <p class="mt-4">Please note that the agenda is subject to change. Always check back here for the latest version of the agenda.
   <div style="overflow-x:auto;">
     <table class="table table-striped" id="communityday-agenda">
 	  	<thead>
@@ -60,16 +60,20 @@ image: "og-communityday-2020.png"
           Lezgin Bakircioglu <a href="https://twitter.com/lerra82" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
 			  </tr>
   			<tr>
-	  			<th scope="row" class="time">9:10 - 09.50</th>
-				  <td><b>Talk</b></td>
-				  <td><b>Talk</b></td>
+	  			<th scope="row" class="time">9:10 - 09.50<br />(9:20 Track 2)</th>
+				  <td><b>An overview of purpose built databases in AWS</b><br />
+          Anurag Kale <a href="https://twitter.com/iAnuragKale" target="_blank"><i class="fab fa-twitter"></i></a></td>
+				  <td><b>GitOps in action, powered by Alexa</b><br />
+          Jimmy Dahlqvist <a href="https://twitter.com/jimmydahlqvist" target="_blank"><i class="fab fa-twitter"></i></a></td>
 				  <td><b>&nbsp;</b></td>
 				  <td><b>&nbsp;</b></td>
 			  </tr>
 			  <tr>
 				  <th scope="row" class="time">10:00 - 10:40</th>
-				  <td><b>Talk</b></td>
-				  <td><b>Talk</b></td>
+				  <td><b>No more AWS keys for you</b><br />
+          Nicole Yip <a href="https://twitter.com/Pelicanpie88" target="_blank"><i class="fab fa-twitter"></i></a></td>
+				  <td><b>Integration testing a cloud-native application with JavaScript</b><br />
+          Markus Tacker <a href="https://twitter.com/coderbyheart" target="_blank"><i class="fab fa-twitter"></i></a></td>
 				  <td><b>Serverless Monitoring and Troubleshooting</b><br />
           Yan Cui <a href="https://twitter.com/theburningmonk" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/theburningmonk/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
 				  <td><b>Alexa Skill Development</b><br />
@@ -83,15 +87,20 @@ image: "og-communityday-2020.png"
 			  </tr>
 			  <tr>
 				  <th scope="row" class="time">11:05 - 11:45</th>
-				  <td><b>Talk</b></td>
-				  <td><b>Talk</b></td>
+				  <td><b>Kubernetes from Zero to Hero!</b><br />
+          Amit Bar Oz<br /></td>
+				  <td><b>Machine learning methods for shopping cart data</b><br />
+          Markus Eriksson <a href="https://www.linkedin.com/in/markus-eriksson-825a2136/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
 				  <td><b>&nbsp;</b></td>
 				  <td><b>&nbsp;</b></td>
 			  </tr>
 			  <tr>
 				  <th scope="row" class="time">11:50 - 12:30</th>
-				  <td><b>Talk</b></td>
-				  <td><b>Talk</b></td>
+				  <td><b>Infrastructure as code for multi-account & multi-environment architectures with AWS Cloud Development Kit</b><br />
+          Ari Palo <a href="https://twitter.com/aripalo" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/aripalo/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
+				  <td><b>Practical FinOps in Practice</b><br />
+          Petri Kallberg<br />
+          Michal Czerwinski<br /></td>
 				  <td><b>&nbsp;</b></td>
 				  <td><b>&nbsp;</b></td>
 			  </tr>
@@ -101,33 +110,39 @@ image: "og-communityday-2020.png"
 			  </tr>
 			  <tr>
 				  <th scope="row" class="time">13:30 - 14:10</th>
-				  <td><b>Talk</b></td>
-				  <td><b>Talk</b></td>
+				  <td><b>Serverless Data Streaming at Scale</b><br />
+          Anahit Pogosova <a href="https://twitter.com/anahit_fi" target="_blank"><i class="fab fa-twitter"></i></a></td>
+				  <td><b>Experiences of transitioning from monolithic architectures for large scale mission critical real time communication services towards Serverless</b><br />
+          Jorgen Bjorkner <a href="https://www.linkedin.com/in/jorgen-bjorkner-36985/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
 				  <td><b>Get the most from Terraform AWS modules</b><br />
           Anton Babenko <a href="https://twitter.com/antonbabenko" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/antonbabenko/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
 				  <td><b>The Hitchhiker's Guide to AI & ML in AWS</b><br />
           Bruno Amaro Almeida <a href="https://twitter.com/bruno_amaro" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/brunoamaroalmeida/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
 			  </tr>
 			  <tr>
-				  <th scope="row" class="time">14:15 - 14:55</th>
-				  <td><b>Talk</b></td>
-				  <td><b>Talk</b></td>
+				  <th scope="row" class="time">14:20 - 15:00</th>
+				  <td><b>The Art of Microservices Communication with AWS EventBridge</b><br />
+          Sheen Brisals <a href="https://twitter.com/sheenbrisals" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/sheen-brisals/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
+				  <td><b>DynamoDB: Untold stories</b><br />
+          Angela Timofte <a href="https://twitter.com/AngelaTimofte" target="_blank"><i class="fab fa-twitter"></i></a></td>
 				  <td>&nbsp;</td>
 				  <td>&nbsp;</td>
 			  </tr>
         <tr>
-				  <th scope="row" class="time">14:55 - 15:20</th>
+				  <th scope="row" class="time">15:00 - 15:25</th>
 				  <td colspan="4"><b>Coffee Break</b></td>
 			  </tr>
 			  <tr>
-				  <th scope="row" class="time">15:20 - 16:00</th>
-				  <td><b>Talk</b></td>
-				  <td><b>Talk</b></td>
+				  <th scope="row" class="time">15:25 - 16:05</th>
+				  <td><b>Essential open source tools for a serverless developer</b><br />
+          Yan Cui <a href="https://twitter.com/theburningmonk" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/theburningmonk/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
+				  <td><b>Alexa Skill Development</b><br />
+          Goran Vuksic <a href="https://twitter.com/gvuksic" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/goranvuksic/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
 				  <td>&nbsp;</td>
 				  <td>&nbsp;</td>
 			  </tr>
 			  <tr>
-				  <th scope="row" class="time">16:10 - 16:30</th>
+				  <th scope="row" class="time">16:15 - 16:30</th>
 				  <td colspan="4"><b>Closing Remarks and Community Raffle</b><br />
           Gunnar Grosch <a href="https://twitter.com/gunnargrosch" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/gunnargrosch/" target="_blank"><i class="fab fa-linkedin"></i></a><br />
           Lezgin Bakircioglu <a href="https://twitter.com/lerra82" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a></td>
