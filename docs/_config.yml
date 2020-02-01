@@ -1,6 +1,6 @@
-title: AWS Community Nordics
+title: AWS MENA Community
 highlighter: rouge
-url: https://awscommunitynordics.org
+url: https://awsmena.community
 markdown: kramdown
 plugins:
-  - jekyll-redirect-from
+    - jekyll-redirect-from
