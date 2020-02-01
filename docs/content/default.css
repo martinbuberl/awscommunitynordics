@@ -41,16 +41,16 @@ footer {
     background-position: left center;
 }
 .carousel-item.communityday #communityday-logo {
-    height: 60px;
+    height: 100px;
 }
 @media (min-width: 359px) {
     .carousel-item.communityday #communityday-logo {
-        height: 70px;
+        height: 100px;
     }
 }
 @media (min-width: 576px) {
     .carousel-item.communityday #communityday-logo {
-        height: 100px;
+        height: 150;
     }
 }
 .carousel-item.usergroups #usergroups-members {
