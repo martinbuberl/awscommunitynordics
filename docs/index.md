@@ -16,7 +16,7 @@ permalink: /
             <h1><img src="/content/img/aws-mena-community-day.png" id="communityday-logo" /></h1>	
             <h2 class="mt-4">AWS MENA Community Day 2020 !</h2>	
             <p>The annual community-led event will be held in Dubai, 25 March 2020.</p>	
-            <p class="mt-4"><a class="btn btn-lg btn-primary" href="/communityday/" role="button">Learn more</a></p>	
+            <p class="mt-4"><a class="btn btn-lg btn-primary" href="/" role="button">Learn more</a></p>	
           </div>	
         </div>	
       </div>	
@@ -25,7 +25,7 @@ permalink: /
         <div class="carousel-caption text-center">
           <h1><img src="/content/img/usergroups-members.png" id="usergroups-members" /></h1>
           <p><div style="max-width: 480px; margin-left: auto; margin-right: auto;">AWS User Groups are communities that help answer questions, share ideas, and learn about new services and best practices.</div></p>
-          <p><a class="btn btn-lg btn-primary" href="/usergroups/" role="button">Join our community</a></p>
+          <p><a class="btn btn-lg btn-primary" href="/" role="button">Join our community</a></p>
         </div>
       </div>
     </div>
