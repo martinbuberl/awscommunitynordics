@@ -3,7 +3,8 @@ layout: default
 permalink: /
 ---
 
-<div id="carousel-index" class="carousel slide" data-ride="carousel">
+<!-- <div id="carousel-index" class="carousel slide" data-ride="carousel"> -->
+<div id="carousel-index" class="carousel slide">
   <ol class="carousel-indicators">
     <li data-target="#carousel-index" data-slide-to="0" class="active"></li>
     <li data-target="#carousel-index" data-slide-to="1"></li>
