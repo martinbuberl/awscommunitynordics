@@ -50,7 +50,7 @@ footer {
 }
 @media (min-width: 576px) {
     .carousel-item.communityday #communityday-logo {
-        height: 150;
+        height: 150px;
     }
 }
 .carousel-item.usergroups #usergroups-members {
