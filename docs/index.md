@@ -42,5 +42,5 @@ permalink: /
 
 <div class="container">
   <h1>AWS MENA Community</h1>
-  <p><a href="https://aws.amazon.com/usergroups/">AWS in Mena</a></p>
+  <p><a href="https://aws.amazon.com/developer/community/usergroups/middle-east/">AWS in Mena</a></p>
 </div>
