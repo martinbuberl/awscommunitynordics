@@ -9,17 +9,7 @@ permalink: /
     <li data-target="#carousel-index" data-slide-to="1"></li>
   </ol>
   <div class="carousel-inner">
-    <div class="carousel-item communityday active">
-      <div class="container">
-        <div class="carousel-caption text-center">
-          <h1><img src="/content/img/awscommunityday-nordics.png" id="communityday-logo" /></h1>
-          <h2 class="mt-4">AWS Community Day 2020!</h2>
-          <p>The annual community-led event will be held in Stockholm Friday, 31 January 2020.</p>
-          <p class="mt-4"><a class="btn btn-lg btn-primary" href="/communityday/" role="button">Learn more</a></p>
-        </div>
-      </div>
-    </div>
-    <div class="carousel-item usergroups">
+    <div class="carousel-item usergroups active">
       <div class="container">
         <div class="carousel-caption text-center">
           <h1><img src="/content/img/usergroups-members.png" id="usergroups-members" /></h1>
@@ -40,6 +30,6 @@ permalink: /
 </div>
 
 <div class="container">
-  <h1>AWS Community Nordics</h1>
-  <p><a href="https://aws.amazon.com/nordics/">AWS in the Nordics</a></p>
+  <h1>AWS MENA Community</h1>
+  <p><a href="https://aws.amazon.com/usergroups/">AWS in Mena</a></p>
 </div>
