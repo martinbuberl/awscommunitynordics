@@ -1,6 +1,6 @@
-# awscommunitynordics
+# AWS Mena Community
 
-This is the repository of the website [awscommunitynordics.org](https://awscommunitynordics.org/). It is hosted directly from the repository as a [GitHub Pages](https://pages.github.com/) website.
+This is the repository of the website [awsmena.community](https://awsmena.community). It is hosted directly from the repository as a [GitHub Pages](https://pages.github.com/) website.
 
 ## Local Setup
 
@@ -27,3 +27,13 @@ $ bundle exec jekyll serve --drafts
 ```
 
 Then, load [http://localhost:4000/](http://localhost:4000/) in your browser.
+
+## Contributions
+
+Issues and PRs are welcome and appreciated.
+
+## Credits
+
+This website was originally forked from [martinbuberl/awscommunitynordics](https://github.com/martinbuberl/awscommunitynordics). 
+
+Big thanks to [AWS Community Nordics](https://awscommunitynordics.org/).
