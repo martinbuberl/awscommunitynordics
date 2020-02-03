@@ -11,7 +11,7 @@ image: "og-communityday-2020.png"
   <div class="container text-center">
     <h1><img src="/content/img/awscommunityday-nordics.png" id="communityday-logo" /></h1>
     <h2 class="display-5 mt-4">Stockholm | Friday, 31 January 2020</h2>
-    <h2 class="display-5 mt-4"><button class="btn btn-lg btn-primary" type="button" onClick="parent.open('https://www.eventbrite.com/e/aws-community-day-31st-of-jan-2020-stockholm-tickets-78032973725')">Get your free ticket now</button></h2>
+    <h2 class="display-5 mt-4"><button class="btn btn-lg btn-primary" type="button" disabled>Event Ended</button></h2>
   </div>
 </div>
 
@@ -33,7 +33,7 @@ image: "og-communityday-2020.png"
   <a name="tickets"></a>
   <h2 class="mt-4">Tickets and registration</h2>
   <p>Tickets for AWS Community Day in Stockholm are free. That's right, free! Register on the link below to get your ticket before they run out.</p>
-  <h2 class="display-5 mt-4"><button class="btn btn-lg btn-primary" type="button" onClick="parent.open('https://www.eventbrite.com/e/aws-community-day-31st-of-jan-2020-stockholm-tickets-78032973725')">Get your free ticket now</button></h2>
+  <h2 class="display-5 mt-4"><button class="btn btn-lg btn-primary" type="button" disabled>Event Ended</button></h2>
   <a name="agenda"></a>
   <h2 class="mt-4">Agenda</h2>
   <p class="mt-4">Please note that the agenda is subject to change. Always check back here for the latest version of the agenda.
