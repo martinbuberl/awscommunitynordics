@@ -25,7 +25,7 @@ permalink: /
         <div class="carousel-caption text-center">
           <h1><img src="/content/img/usergroups-members.png" id="usergroups-members" /></h1>
           <p><div style="max-width: 480px; margin-left: auto; margin-right: auto;">AWS User Groups are communities that help answer questions, share ideas, and learn about new services and best practices.</div></p>
-          <p><a class="btn btn-lg btn-primary" href="/" role="button">Join our community</a></p>
+          <p><a class="btn btn-lg btn-primary" href="https://aws.amazon.com/developer/community/usergroups/middle-east/" role="button">Join our community</a></p>
         </div>
       </div>
     </div>
