@@ -81,7 +81,7 @@ Tunisia – I don’t think this group is active, but feel free to reach out and
     >
   </p>
   <p>
-    <a href="https://aws.amazon.com/developer/community/usergroups/"
+    <a href="https://aws.amazon.com/developer/community/usergroups/middle-east/"
       >Learn more about AWS User Groups</a
     >
   </p>
