@@ -6,7 +6,7 @@ permalink: /usergroups/
 ---
 
 <div class="container">
-  <h1>User Groups in the MENA Region</h1>
+  <h1 class="mt-4 mb-4 ml-3">User Groups in the MENA Region</h1>
   <div class="row">
     <div class="col-sm-4">
       <h2>Bahrain 🇧🇭</h2>
