@@ -5,14 +5,6 @@ navigation: "usergroups"
 permalink: /usergroups/
 ---
 
-Manama (Bahrain) – Fatema is the UG leader, and I can introduce you to our Nicolas David as well (who is very happy to help)
-Dubai (UAE) – the leadership team of this UG needs some cleanup, but the AWS team in Dubai is still quite involved and can help with communications
-Cairo (Egypt) - Ahmed Elposhi from Forte Cloud is the UG leader here – very young group but I’m quite sure they’ll be happy to participate
-Riyadh (Saudi) - Ahmed Samir is your guy here – who also joined us in Las Vegas at re:Invent a couple of months ago
-Jeddah (Saudi) – Alawi Albar is leading this group – he works for AWS now but another person will join the leadership team soon
-Dammam (Saudi) - Walid Shaari is your guy here – he’s also supported by Ahmed Samir
-Tunisia – I don’t think this group is active, but feel free to reach out and double-check yourself
-
 <div class="container">
   <h1>User Groups in the MENA Region</h1>
   <div class="row">
