@@ -20,7 +20,7 @@ image: "aws-mena-community-day.png"
       <button
         class="btn btn-lg btn-primary"
         type="button"
-        onClick="alert('Link to get event page')"
+        onClick="https://forms.gle/yqwJSLmxaQ7y64Ds7"
       >
         Get your free ticket now
       </button>
@@ -63,10 +63,10 @@ image: "aws-mena-community-day.png"
   ">
     <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdrzxHrZixz8EtQ97c-Hmni0TuebuVn6eZh9w6KwqppvsXrHQ/viewform?embedded=true" width="640" height="855" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
   </div>
+  
   <h2 class="mt-4">Date &amp; Venue</h2>
   <p>
-    This event is being held <b>Friday, 30 March 2020</b> at the charming and
-    classic location <a href="/TBD" target="_blank">Name TBD</a>, Address TBD.
+    This event is being held <b>Friday, 30 March 2020</b> at AWS offices in Al Falak St - Dubai - United Arab Emirates
   </p>
   <!-- <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2034.7491261483115!2d18.06549851636592!3d59.337142181661534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465f9d5d3e1359f5%3A0xbb175cb427e51869!2sNalen!5e0!3m2!1sen!2sse!4v1567588563257!5m2!1sen!2sse" width="100%" height="400" frameborder="0" style="border: 0;"></iframe></p> -->
   <a name="tickets"></a>

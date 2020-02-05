@@ -39,11 +39,23 @@
       <div class="d-flex ml-auto"><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#globalNavbar" aria-controls="globalNavbar" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button></div>
       <div class="collapse navbar-collapse" id="globalNavbar">
         <ul class="navbar-nav mr-auto order-1">
-          <li class="nav-item{% if page.navigation == "usergroups" %} active{% endif %}"><a class="nav-link" href="/usergroups">User Groups{% if page.navigation == "usergroups" %} <span class="sr-only">(current)</span>{% endif %}</a></li>
-          <li class="nav-item{% if page.navigation == "community-day-2020" %} active{% endif %}"><a class="nav-link" href="/community-day-2020">Community Day{% if page.navigation == "communityday" %} <span class="sr-only">(current)</span>{% endif %}</a></li>
+          <li class="nav-item{% if page.navigation == "usergroups" %} active{% endif %}">
+            <a class="nav-link" href="/usergroups">
+              User Groups{% if page.navigation == "usergroups" %} <span class="sr-only">(current)</span>{% endif %}
+            </a>
+          </li>
+          <li class="nav-item{% if page.navigation == "community-day-2020" %} active{% endif %}">
+            <a class="nav-link" href="/community-day-2020">
+              Community Day{% if page.navigation == "communityday" %} <span class="sr-only">(current)</span>{% endif %}
+            </a>
+          </li>
         </ul>
         <ul class="navbar-nav order-2">
-          <li class="nav-item slack"><a class="nav-link" href="https://discord.gg/YgkNk3H" target="_blank"><i class="fab fa-discord"></i></a></li>
+          <li class="nav-item slack">
+            <a class="nav-link" href="https://discord.gg/YgkNk3H" target="_blank">
+              <i class="fab fa-discord"></i>
+            </a>
+          </li>
         </ul>
       </div>
     </div>
@@ -53,7 +65,7 @@
 {{ content }}
     <footer class="container">
       <p class="float-right"><a href="#">Back to top</a></p>
-      <p><a href="https://aws.amazon.com/codesofconduct/">AWS Community Codes of Conduct</a> | <a href="https://github.com/aws-mena-community">Built with love by arabs</a></p>
+      <p><a href="https://aws.amazon.com/codesofconduct/">AWS Community Codes of Conduct</a> | <a href="https://github.com/aws-mena-community">Built with love by Arabs</a></p>
     </footer>
   </main>
 
