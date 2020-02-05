@@ -17,13 +17,13 @@ image: "aws-mena-community-day.png"
     </h1>
     <h2 class="display-5 mt-4">Dubai | Wednesday, 25 March 2020</h2>
     <h2 class="display-5 mt-4">
-      <button
+      <a
         class="btn btn-lg btn-primary"
-        type="button"
-        onClick="https://forms.gle/yqwJSLmxaQ7y64Ds7"
+        href="https://forms.gle/yqwJSLmxaQ7y64Ds7"
+        target="_blank"
       >
         Get your free ticket now
-      </button>
+      </a>
     </h2>
   </div>
 </div>
