@@ -53,7 +53,7 @@ permalink: /usergroups/
       <h2>Tunisia 🇹🇳</h2>
       <ul>
         <li>
-          <a href="https://www.meetup.com/AWS-User-Group-Reykjavik/">Tunis</a>
+          <a href="https://www.facebook.com/groups/384571371989509/">Tunis</a>
         </li>
       </ul>
     </div>
@@ -68,7 +68,7 @@ permalink: /usergroups/
   </div>
   <p>
     <a
-      href="https://github.com/aws-mena-community/awsmena.community/edit/master/docs/usergroups.md"
+      href="https://forms.gle/5NYByK37KrTpeCcJ6"
       >Add your AWS User Group in MENA</a
     >
   </p>
