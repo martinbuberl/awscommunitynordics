@@ -76,7 +76,7 @@ image: "aws-mena-community-day.png"
     Register on the link below to get your ticket before they run out.
   </p>
   <h2 class="display-5 mt-4">
-    <a class="btn btn-lg btn-primary" href="https://forms.gle/auFePS5u4gCn8jC38">
+    <a class="btn btn-lg btn-primary" href="https://forms.gle/auFePS5u4gCn8jC38" target="_blank">
       Get your free ticket now
     </a>
   </h2>
