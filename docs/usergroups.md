@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "User Groups"
+title: "User Groups"
 navigation: "usergroups"
 permalink: /usergroups/
 ---
@@ -50,7 +50,7 @@ permalink: /usergroups/
       </ul>
     </div>
     <div class="col-sm-4">
-      <h2>Tunisia 🇮🇸</h2>
+      <h2>Tunisia 🇹🇳</h2>
       <ul>
         <li>
           <a href="https://www.meetup.com/AWS-User-Group-Reykjavik/">Tunis</a>
