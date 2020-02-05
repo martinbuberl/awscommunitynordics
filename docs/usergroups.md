@@ -26,7 +26,6 @@ permalink: /usergroups/
       <h2>Lebanon 🇱🇧</h2>
       <ul>
         <li><a href="https://www.meetup.com/AWS-Lebanon/">Beirut</a></li>
-        <li><a href="https://www.meetup.com/AWS-Lebanon/">Tripoli</a></li>
       </ul>
     </div>
   </div>
