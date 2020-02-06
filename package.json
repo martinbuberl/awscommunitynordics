@@ -1,0 +1,13 @@
+{
+    "name": "awsmena.community",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "git@github.com:aws-mena-community/awsmena.community.git",
+    "author": "rakannimer <rakannimer@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "setup": "cd docs && bundle install",
+        "start": "cd docs && bundle exec jekyll serve",
+        "start:drafts": "cd docs && bundle exec jekyll serve --drafts"
+    }
+}
