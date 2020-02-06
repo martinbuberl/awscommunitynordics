@@ -34,7 +34,7 @@ permalink: /usergroups/
       <h2>Palestine 🇵🇸</h2>
       <ul>
         <li>
-          <a href="https://www.facebook.com/awspalestine/">Ramallah</a>
+          <a href="https://www.facebook.com/groups/AWSPalestine/">Ramallah</a>
         </li>
       </ul>
       <h2>Saudi Arabia 🇸🇦</h2>
