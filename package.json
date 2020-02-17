@@ -6,8 +6,8 @@
     "author": "rakannimer <rakannimer@gmail.com>",
     "license": "MIT",
     "scripts": {
-        "setup": "cd docs && bundle install",
-        "start": "cd docs && bundle exec jekyll serve",
-        "start:drafts": "cd docs && bundle exec jekyll serve --drafts"
+        "setup": "rvm use 2.5 && cd docs && bundle install",
+        "start": "rvm use 2.5 && cd docs && bundle exec jekyll serve",
+        "start:drafts": "rvm use 2.5 && cd docs && bundle exec jekyll serve --drafts"
     }
 }
