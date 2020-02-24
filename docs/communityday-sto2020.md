@@ -58,12 +58,6 @@ image: "aws-mena-community-day.png"
   
   {% include call-for-proposals-2020.html %}
 
-  <div id="cfp-form-container" style="
-    text-align: center;
-  ">
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdrzxHrZixz8EtQ97c-Hmni0TuebuVn6eZh9w6KwqppvsXrHQ/viewform?embedded=true" width="640" height="855" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-  </div>
-  
   <h2 class="mt-4">Date &amp; Venue</h2>
   <p>
     This event is being held <b>Wednesday, 25 March 2020</b> at AWS offices in Al Falak St - Dubai - United Arab Emirates
