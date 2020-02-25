@@ -18,7 +18,7 @@ image: "aws-mena-community-day.png"
     <h2 class="display-5 mt-4">Dubai | Wednesday, 25 March 2020</h2>
     <h2 class="display-5 mt-4">
       <a
-        class="btn btn-lg btn-primary"
+        class="btn btn-lg btn-primary" style="text-align: center"
         href="https://awscommunitymena.splashthat.com/"
         target="_blank"
       >
