@@ -19,7 +19,7 @@ image: "aws-mena-community-day.png"
     <h2 class="display-5 mt-4">
       <a
         class="btn btn-lg btn-primary"
-        href="https://forms.gle/auFePS5u4gCn8jC38"
+        href="https://awscommunitymena.splashthat.com/"
         target="_blank"
       >
         Get your free ticket now
