@@ -60,7 +60,7 @@ image: "aws-mena-community-day.png"
 
   <h2 class="mt-4">Date &amp; Venue</h2>
   <p>
-    This event is being held <b>Wednesday, 25 March 2020</b> at AWS offices in Al Falak St - Dubai - United Arab Emirates
+    This event is being held <b>Wednesday, 25th March 2020</b> at in5 Tech, Dubai Internet City, Dubai, United Arab Emirates
   </p>
   
   <a name="tickets"></a>
@@ -76,9 +76,5 @@ image: "aws-mena-community-day.png"
   </h2>
   
 {% include community-day-2020-agenda.html %}
-
-{% include community-day-2020-talks-and-speakers.html %}
-
-{% include community-day-2020-sponsors.html %}
 
 {% include community-day-2020-contact.html %}
