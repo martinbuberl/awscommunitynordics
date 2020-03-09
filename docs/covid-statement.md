@@ -50,7 +50,7 @@ image: "og-reinventrecaptour2019.png"
   Thank you for your understanding.
   </p>
   <p class="mt-5">
-  On behalf of AWS Community Nordics, </br>
+  On behalf of AWS Community Nordics, <br>
   Community leads and meetup organizers
   </p>
 
