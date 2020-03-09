@@ -19,4 +19,26 @@ image: "og-reinventrecaptour2019.png"
 
   <p class="mt-5">AWS Community Nordics is a community that organizes public events, so we feel that it is in order to make a statement concerning meetup events and other public community gatherings.</p>
 
+  <p class="mt-5">This document was last updated on <b>March 9th, 2020</b></p>
+
+  <h2 class="mt-5">General conduct</h2>
+
+
+  <p class="mt-5">As a member of AWS Community Nordics and attendee to the events which we organize, we expect you to take these precautions and follow these rules when attending events organized by AWS Community Nordics meetup groups.
+  <ol>
+
+  <li>If you have a fever of feel sick; or have anyone in your immediate family who has a fever, do not attend a meetup</li>
+  <li>Wash your hands regularly and avoid touching your face</li>
+  <li>If you need to cough, use your sleeve or napkin</li>
+  <li>Do not greet other people with handshakes</li>
+  <li>We are moving towards single portion food items for now, where possible. Please understand, that food and drinks are complimentary, not mandatory in our events. </li>
+  <li>Be considerate and mindful of health and concerns of others, as well as yourself</li>
+  </ol>
+
+  </p>
+
+  <p class="mt-5"></p>
+
+
+
 </div>
