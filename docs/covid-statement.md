@@ -68,5 +68,6 @@ permalink: /covid-statement/
   <li>Folkehelseinstituttet (Norwegian Institute of Public Health) - Norwegian https://www.fhi.no/sv/smittsomme-sykdommer/corona/</li>
   <li>Folkehelseinstituttet (Norwegian Institute of Public Health) - English https://www.fhi.no/en/id/infectious-diseases/coronavirus/</li>
   </ul>
+  </p>
 
 </div>
