@@ -7,7 +7,7 @@ permalink: /covid-statement/
 
 <div class="jumbotron communityday">
   <div class="container text-center">
-    <h2><img src="/content/img/reinventrecaptour2019.png" id="reinventrecaptour2019-logo" /></h2>
+    <h2><img src="/content/img/og-default.jpg" id="og-default" /></h2>
   </div>
 </div>
 
