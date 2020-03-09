@@ -37,6 +37,25 @@ image: "og-reinventrecaptour2019.png"
 
   </p>
 
+  <h2 class="mt-5">Cancellations</h2>
+
+  <p class="mt-5">
+  As a general rule, we are not currently canceling any events as per current instructions from health authorities in the Nordics.
+  </p>
+  <p class="mt-5">
+  In any case, the following exceptions are in effect:
+  <ul>
+  <li>Each meetup holds full autonomy either to have or cancel a meetup at their own discretion</li>
+  <li>Each sponsor and/or venue has full autonomy not to sponsor an event during an outbreak. In case of sponsor or venue cancellation, either a new sponsor or venue is secured or an event is canceled.</li>
+  </ul>
+  Thank you for your understanding.
+  </p>
+  <p class="mt-5">
+  On behalf of AWS Community Nordics, 
+  Community leads and meetup organizers
+  </p>
+
+
   <p class="mt-5"></p>
 
 
