@@ -41,8 +41,7 @@ image: "og-reinventrecaptour2019.png"
 
   <p class="mt-5">
   As a general rule, we are not currently canceling any events as per current instructions from health authorities in the Nordics.
-  </p>
-  <p class="mt-5">
+ 
   In any case, the following exceptions are in effect:
   <ul>
   <li>Each meetup holds full autonomy either to have or cancel a meetup at their own discretion</li>
@@ -51,7 +50,7 @@ image: "og-reinventrecaptour2019.png"
   Thank you for your understanding.
   </p>
   <p class="mt-5">
-  On behalf of AWS Community Nordics, 
+  On behalf of AWS Community Nordics, </br>
   Community leads and meetup organizers
   </p>
 
