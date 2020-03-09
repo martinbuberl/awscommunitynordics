@@ -3,7 +3,6 @@ layout: default
 title:  "AWS Community Nordics - COVID-19 statement"
 navigation: "covid-statement"
 permalink: /covid-statement/
-image: "og-reinventrecaptour2019.png"
 ---
 
 <div class="jumbotron communityday">
@@ -28,6 +27,7 @@ image: "og-reinventrecaptour2019.png"
   <ol>
 
   <li>If you have a fever of feel sick; or have anyone in your immediate family who has a fever, do not attend a meetup</li>
+  <li>If you have traveled; or are a resident of the identified high-risk areas, do not attend a meetup</li>
   <li>Wash your hands regularly and avoid touching your face</li>
   <li>If you need to cough, use your sleeve or napkin</li>
   <li>Do not greet other people with handshakes</li>
@@ -57,6 +57,16 @@ image: "og-reinventrecaptour2019.png"
 
   <p class="mt-5"></p>
 
-
+  <h2 class="mt-5">External links</h2>
+  <p class="mt-5">
+  Below is a list of links to official, government information about the outbreak and impact in the Nordics:
+  <ul>
+  <li>THL (Finnish institute of health and welfare) - Finnish https://thl.fi/fi/web/infektiotaudit-ja-rokotukset/ajankohtaista/ajankohtaista-koronaviruksesta-covid-19</li>
+  <li>THL (Finnish institute of health and welfare) - English https://thl.fi/en/web/infectious-diseases/what-s-new/coronavirus-covid-19-latest-updates</li>
+  <li>Folkhälsomyndigheten (Public health agency of Sweden) - Swedish https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/</li>
+  <li>Folkhälsomyndigheten (Public health agency of Sweden) - English https://www.folkhalsomyndigheten.se/the-public-health-agency-of-sweden/communicable-disease-control/covid-19/</li>
+  <li>Folkehelseinstituttet (Norwegian Institute of Public Health) - Norwegian https://www.fhi.no/sv/smittsomme-sykdommer/corona/</li>
+  <li>Folkehelseinstituttet (Norwegian Institute of Public Health) - English https://www.fhi.no/en/id/infectious-diseases/coronavirus/</li>
+  </ul>
 
 </div>
