@@ -1,8 +1,8 @@
 ---
 layout: default
-title:  "AWS re:Invent Community Recap Tour Nordics 2019"
-navigation: "reinventrecaptour2019"
-permalink: /reinventrecaptour2019/
+title:  "AWS Community Nordics - COVID-19 statement"
+navigation: "covid-statement"
+permalink: /covid-statement/
 image: "og-reinventrecaptour2019.png"
 ---
 
