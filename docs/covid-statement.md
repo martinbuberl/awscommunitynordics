@@ -61,12 +61,12 @@ permalink: /covid-statement/
   <p class="mt-5">
   Below is a list of links to official, government information about the outbreak and impact in the Nordics:
   <ul>
-  <li>THL (Finnish institute of health and welfare) - Finnish <a href="https://thl.fi/fi/web/infektiotaudit-ja-rokotukset/ajankohtaista/ajankohtaista-koronaviruksesta-covid-19">link</a></li>
-  <li>THL (Finnish institute of health and welfare) - English <a href="https://thl.fi/en/web/infectious-diseases/what-s-new/coronavirus-covid-19-latest-updates">link</a><</li>
-  <li>Folkhälsomyndigheten (Public health agency of Sweden) - Swedish <a href="https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/">link</a><</li>
-  <li>Folkhälsomyndigheten (Public health agency of Sweden) - English <a href="https://www.folkhalsomyndigheten.se/the-public-health-agency-of-sweden/communicable-disease-control/covid-19/">link</a><</li>
-  <li>Folkehelseinstituttet (Norwegian Institute of Public Health) - Norwegian <a href="https://www.fhi.no/sv/smittsomme-sykdommer/corona/">link</a><</li>
-  <li>Folkehelseinstituttet (Norwegian Institute of Public Health) - English <a href="https://www.fhi.no/en/id/infectious-diseases/coronavirus/">link</a><</li>
+  <li><a href="https://thl.fi/fi/web/infektiotaudit-ja-rokotukset/ajankohtaista/ajankohtaista-koronaviruksesta-covid-19">THL (Finnish institute of health and welfare) - Finnish</a></li>
+  <li><a href="https://thl.fi/en/web/infectious-diseases/what-s-new/coronavirus-covid-19-latest-updates">THL (Finnish institute of health and welfare) - English</a></li>
+  <li><a href="https://www.folkhalsomyndigheten.se/smittskydd-beredskap/utbrott/aktuella-utbrott/covid-19/">Folkhälsomyndigheten (Public health agency of Sweden) - Swedish</a></li>
+  <li><a href="https://www.folkhalsomyndigheten.se/the-public-health-agency-of-sweden/communicable-disease-control/covid-19/">Folkhälsomyndigheten (Public health agency of Sweden) - English</a></li>
+  <li><a href="https://www.fhi.no/sv/smittsomme-sykdommer/corona/">Folkehelseinstituttet (Norwegian Institute of Public Health) - Norwegian</a></li>
+  <li><a href="https://www.fhi.no/en/id/infectious-diseases/coronavirus/">Folkehelseinstituttet (Norwegian Institute of Public Health) - English</a></li>
   </ul>
   </p>
 
