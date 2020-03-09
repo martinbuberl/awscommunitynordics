@@ -13,7 +13,7 @@ image: "og-reinventrecaptour2019.png"
 </div>
 
 <div class="container">
-  <h1 class="mt-5">AWS Community Nordics - Statement about COVID-19 outbreak</h2>
+  <h1 class="mt-5">AWS Community Nordics - Statement about COVID-19 outbreak</h1>
   
   <h2 class="mt-5">General</h2>
 
