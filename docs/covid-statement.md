@@ -5,11 +5,6 @@ navigation: "covid-statement"
 permalink: /covid-statement/
 ---
 
-<div class="jumbotron communityday">
-  <div class="container text-center">
-    <h2><img src="/content/img/og-default.jpg" id="og-default" /></h2>
-  </div>
-</div>
 
 <div class="container">
   <h1 class="mt-5">AWS Community Nordics - Statement about COVID-19 outbreak</h1>
