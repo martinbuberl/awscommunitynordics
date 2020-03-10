@@ -22,7 +22,7 @@ permalink: /covid-statement/
   <ol>
 
   <li>If you have a fever of feel sick; or have anyone in your immediate family who has a fever, do not attend a meetup</li>
-  <li>If you have traveled to the identified high-risk areas; or are a resident of the identified high-risk areas, do not attend a meetup</li>
+  <li>If you have within last two weeks traveled to the identified high-risk areas; or are a resident of the identified high-risk areas, do not attend a meetup</li>
   <li>Wash your hands regularly and avoid touching your face</li>
   <li>If you need to cough, use your sleeve or napkin</li>
   <li>Do not greet other people with handshakes</li>
