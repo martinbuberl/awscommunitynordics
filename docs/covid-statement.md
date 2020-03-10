@@ -22,7 +22,7 @@ permalink: /covid-statement/
   <ol>
 
   <li>If you have a fever of feel sick; or have anyone in your immediate family who has a fever, do not attend a meetup</li>
-  <li>If you have traveled; or are a resident of the identified high-risk areas, do not attend a meetup</li>
+  <li>If you have traveled to the identified high-risk areas; or are a resident of the identified high-risk areas, do not attend a meetup</li>
   <li>Wash your hands regularly and avoid touching your face</li>
   <li>If you need to cough, use your sleeve or napkin</li>
   <li>Do not greet other people with handshakes</li>
@@ -42,7 +42,7 @@ permalink: /covid-statement/
   <li>Each meetup holds full autonomy either to have or cancel a meetup at their own discretion</li>
   <li>Each sponsor and/or venue has full autonomy not to sponsor an event during an outbreak. In case of sponsor or venue cancellation, either a new sponsor or venue is secured or an event is canceled.</li>
   </ul>
-  Thank you for your understanding.
+  <b>Thank you for your understanding.</b>
   </p>
   <p class="mt-5">
   On behalf of AWS Community Nordics, <br>
