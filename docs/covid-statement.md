@@ -35,7 +35,7 @@ permalink: /covid-statement/
   <h2 class="mt-5">Cancellations</h2>
 
   <p class="mt-5">
-  As a general rule, we are not currently canceling any events as per current instructions from health authorities in the Nordics.
+  As a general rule, we are not currently canceling any events as per current instructions from health authorities in the Nordics. (There are currently no planned Meetups in Norway, and we will not plan any new meetings due to the current situation)
  
   In any case, the following exceptions are in effect:
   <ul>
