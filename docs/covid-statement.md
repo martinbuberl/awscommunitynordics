@@ -36,13 +36,14 @@ permalink: /covid-statement/
 
   <p class="mt-5">
   As a general rule, meetups in March and April are currently postponed or cancelled.
+  <br><br>
   
-  <b>Finland</b>Meetups in March and April are postponed as per agreement with the sponsors and AWS postponement of DevDays Helsinki. May meetup is currently still planned, but the situation will be updated, if needed.
-
-  <b>Sweden</b>There are currently no planned Meetups, and we will not plan any new meetings due to the current situation
-
-  <b>Norway</b>There are currently no planned Meetups, and we will not plan any new meetings due to the current situation
- 
+  <b>Finland</b> Meetups in March and April are postponed as per agreement with the sponsors and AWS postponement of DevDays Helsinki. May meetup is currently still planned, but the situation will be updated, if needed.
+  <br><br>
+  <b>Sweden</b> There are currently no planned Meetups, and we will not plan any new meetings due to the current situation
+  <br><br>
+  <b>Norway</b> There are currently no planned Meetups, and we will not plan any new meetings due to the current situation
+  <br><br>
   For any possible meetups in the future the following rules are in effect:
   <ul>
   <li>Each meetup holds full autonomy either to have or cancel a meetup at their own discretion</li>
