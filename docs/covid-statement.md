@@ -13,7 +13,7 @@ permalink: /covid-statement/
 
   <p class="mt-5">AWS Community Nordics is a community that organizes public events, so we feel that it is in order to make a statement concerning meetup events and other public community gatherings.</p>
 
-  <p class="mt-5">This document was last updated on <b>March 9th, 2020</b></p>
+  <p class="mt-5">This document was last updated on <b>March 16th, 2020</b></p>
 
   <h2 class="mt-5">General conduct</h2>
 
@@ -35,9 +35,15 @@ permalink: /covid-statement/
   <h2 class="mt-5">Cancellations</h2>
 
   <p class="mt-5">
-  As a general rule, we are not currently canceling any events as per current instructions from health authorities in the Nordics. (There are currently no planned Meetups in Norway, and we will not plan any new meetings due to the current situation)
+  As a general rule, meetups in March and April are currently postponed or cancelled.
+  
+  <b>Finland</b>Meetups in March and April are postponed as per agreement with the sponsors and AWS postponement of DevDays Helsinki. May meetup is currently still planned, but the situation will be updated, if needed.
+
+  <b>Sweden</b>There are currently no planned Meetups, and we will not plan any new meetings due to the current situation
+
+  <b>Norway</b>There are currently no planned Meetups, and we will not plan any new meetings due to the current situation
  
-  In any case, the following exceptions are in effect:
+  For any possible meetups in the future the following rules are in effect:
   <ul>
   <li>Each meetup holds full autonomy either to have or cancel a meetup at their own discretion</li>
   <li>Each sponsor and/or venue has full autonomy not to sponsor an event during an outbreak. In case of sponsor or venue cancellation, either a new sponsor or venue is secured or an event is canceled.</li>
