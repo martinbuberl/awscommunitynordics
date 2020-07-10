@@ -19,7 +19,7 @@ permalink: /usergroups/
     <div class="col-sm-4">
       <h2>Egypt 🇪🇬</h2>
       <ul>
-        <li><a href="https://www.meetup.com/awsegyptmeetup/">Cairo</a></li>
+        <li><a href="https://www.facebook.com/groups/aws.egypt.club">Cairo</a></li>
       </ul>
     </div>
     <div class="col-sm-4">
