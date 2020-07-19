@@ -16,7 +16,8 @@
   <link rel="icon" type="image/png" href="/content/img/favicon.png" />
   <link rel="stylesheet" href="/assets/bootstrap-4.1.3/css/bootstrap.min.css" />
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous" />
-  <link rel="stylesheet" href="/content/default.css" />
+  <link rel="stylesheet" href="/assets/css/default.css" />
+  <link rel="stylesheet" href="/assets/css/xsIcon.css" />
 
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
   {% if page.description %}<meta property="og:description" content="{{ page.description }}" />{% endif %}
@@ -25,44 +26,18 @@
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
   {% if page.description %}<meta name="twitter:description" content="{{ page.description }}" />{% endif %}
-  <meta name="twitter:site" content="@AWSBeirut" />
-  <meta name="twitter:creator" content="@AWSBeirut" />
+  <meta name="twitter:site" content="@AWSomeMENA" />
+  <meta name="twitter:creator" content="@AWSomeMENA" />
   <meta name="twitter:image" content="{{ site.url }}/content/img/{% if page.image %}{{ page.image }}{% else %}og-default.jpg{% endif %}">
 
   <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
 </head>
 <body>
 
-  <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
-    <div class="container">
-      <a class="navbar-brand" href="/">AWS MENA Community</a>
-      <div class="d-flex ml-auto"><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#globalNavbar" aria-controls="globalNavbar" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button></div>
-      <div class="collapse navbar-collapse" id="globalNavbar">
-        <ul class="navbar-nav mr-auto order-1">
-          <li class="nav-item{% if page.navigation == "usergroups" %} active{% endif %}">
-            <a class="nav-link" href="/usergroups">
-              User Groups{% if page.navigation == "usergroups" %} <span class="sr-only">(current)</span>{% endif %}
-            </a>
-          </li>
-          <li class="nav-item{% if page.navigation == "community-day-2020" %} active{% endif %}">
-            <a class="nav-link" href="/community-day-2020">
-              Community Day{% if page.navigation == "communityday" %} <span class="sr-only">(current)</span>{% endif %}
-            </a>
-          </li>
-        </ul>
-        <ul class="navbar-nav order-2">
-          <li class="nav-item slack">
-            <a class="nav-link" href="https://discord.gg/YgkNk3H" target="_blank">
-              <i class="fab fa-discord"></i>
-            </a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </nav>
+  {% include header.html %}
 
   <main role="main">
-{{ content }}
+    {{ content }}
     <footer class="container">
       <p class="float-right"><a href="#">Back to top</a></p>
       <p><a href="https://aws.amazon.com/codesofconduct/">AWS Community Codes of Conduct</a> | <a href="https://github.com/aws-mena-community">Built with ♥️ by Arabs</a></p>
@@ -74,9 +49,11 @@
     <button type="button" class="btn btn btn-secondary btn-sm acceptcookies" aria-label="Close">Ok</button>
   </div>
 
-  <script src="/assets/jquery-3.3.1/jquery.slim.min.js"></script>
+  <script src="/assets/jquery-3.3.1/jquery.js"></script>
   <script src="/assets/popper-1.14.4/popper.min.js"></script>
   <script src="/assets/bootstrap-4.1.3/js/bootstrap.min.js"></script>
   <script src="/assets/cookiealert.js"></script>
+  <script src="/assets/jquery.jCounter.js"></script>
+  <script src="/assets/js/main.js"></script>
 </body>
 </html>
