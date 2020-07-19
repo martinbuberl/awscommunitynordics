@@ -36,7 +36,6 @@ jQuery(function ($) {
     });
 
     // | 28th & 29th of August 2020
-    //  on middle east and north africa
     new Typed('#typed', {
         stringsElement: '#typed-strings',
         typeSpeed: 100,

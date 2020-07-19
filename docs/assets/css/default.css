@@ -55,10 +55,15 @@ html {
 .banner-main h1 {
     font-size: 4rem;
     font-weight: 800;
+    margin-bottom: 1.5rem;
+}
+
+.banner-main h2 {
+    margin-bottom: 1.5rem;
 }
 
 .banner-main .carousel-inner {
-    padding-top: 2rem;
+    padding-top: 6.5rem;
 }
 
 #carousel-index {
@@ -643,7 +648,6 @@ img.communityday-sponsor-small {
 
 .ts-speaker .speaker-img {
     width: 255px;
-    height: 255px;
     position: relative;
     border-radius: 50%;
     -webkit-border-radius: 50%;
@@ -1229,4 +1233,33 @@ img.communityday-sponsor-small {
 .carousel-caption {
     left: 10%;
     right: 10%;
+}
+
+.info-list {
+    list-style: none;
+}
+
+.info-list li {
+    position: relative;
+    display: inline-block;
+    font-size: 18px;
+    line-height: 26px;
+    color: #ffffff;
+    font-weight: 400;
+    margin: 0 10px;
+    text-transform: uppercase;
+}
+
+.info-list li .icon {
+    color: #e47911;
+    margin-right: 10px;
+    float: left;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.ts-supporters .speaker-img {
+    border-radius: 10%;
+    -webkit-border-radius: 10%;
+    -ms-border-radius: 10%;
 }
