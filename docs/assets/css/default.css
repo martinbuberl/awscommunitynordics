@@ -455,7 +455,7 @@ img.communityday-sponsor-small {
      ts speaker
 ===========================*/
 .ts-speakers {
-    padding-top: 120px;
+    padding-top: 6rem;
     padding-bottom: 40px;
     position: relative;
     overflow: hidden;
@@ -751,6 +751,7 @@ img.communityday-sponsor-small {
       intro area
 ===========================*/
 .ts-intro {
+    padding-bottom: 6rem;
 
 }
 
@@ -919,4 +920,80 @@ img.communityday-sponsor-small {
 .col-about {
     margin-top: auto;
     margin-bottom: auto;
+}
+
+/* Facts
+================================================== */
+
+.facts-area {
+    color: #ffffff;
+    background-color: #1c1c24;
+    background-image: url(../../content/img/aws_summit.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 50% 50%;
+    padding: 100px 0;
+}
+.facts-area.bg-color{
+    background: #1c1c24;
+    padding: 60px 0 40px;
+}
+
+.facts .intro-title {
+    color: #fff;
+    margin-top: 0;
+}
+.facts .btn-dark {
+    margin-top: 15px;
+}
+.fact-text {
+    padding-top: 10px;
+}
+
+.facts-wrapper .ts-facts {
+    color: #fff;
+    text-align: center;
+}
+.ts-facts .ts-facts-icon {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 25px;
+}
+.ts-facts .ts-facts-icon i {
+    font-size: 28px;
+    color: white;
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    border-radius: 100%;
+}
+
+.color-1 {
+    background: #00a3ee;
+}
+
+.color-2 {
+    background: #ffcf4a;
+}
+
+.color-3 {
+    background: #00c1c1;
+}
+
+.color-4 {
+    background: #ff6386;
+}
+
+.ts-facts .ts-facts-content {
+    display: inline-block;
+}
+.ts-facts .ts-facts-content .ts-facts-num {
+    color: #fff;
+    font-size: 48px;
+    margin: 0;
+}
+.ts-facts .ts-facts-content .ts-facts-title {
+    font-size: 16px;
+    color: #fff;
 }
