@@ -8,5 +8,6 @@ permalink: /
 {% include facts.html %}
 {% include speakers.html %}
 {% include schedule.html %}
-{% include user-groups.html %}
+{% include supporters.html %}
+{% include team.html %}
 

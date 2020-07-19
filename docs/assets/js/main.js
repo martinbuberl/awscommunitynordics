@@ -27,4 +27,22 @@ jQuery(function ($) {
         }
     });
 
+
+    /**-------------------------------------------------
+     * Canvas
+     *----------------------------------------------------**/
+    particlesJS.load('particles-js', 'assets/particlesJsConfig.json', function() {
+        console.log('callback - particles.js config loaded');
+    });
+
+    // | 28th & 29th of August 2020
+    //  on middle east and north africa
+    new Typed('#typed', {
+        stringsElement: '#typed-strings',
+        typeSpeed: 100,
+        backSpeed: 100,
+        backDelay: 900,
+        startDelay: 20,
+        loop: true,
+    });
 });
