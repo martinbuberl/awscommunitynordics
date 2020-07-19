@@ -1,4 +1,4 @@
-body > main {
+.banner-main {
     padding-top: 6.5rem;
 }
 
@@ -34,7 +34,6 @@ footer {
     padding: 0 !important;
 }
 
-/* Index */
 
 #carousel-index {
     margin-bottom: 4rem;

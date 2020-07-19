@@ -18,6 +18,8 @@
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous" />
   <link rel="stylesheet" href="/assets/css/default.css" />
   <link rel="stylesheet" href="/assets/css/xsIcon.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Wruczek/Bootstrap-Cookie-Alert@gh-pages/cookiealert.css">
+
 
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
   {% if page.description %}<meta property="og:description" content="{{ page.description }}" />{% endif %}
@@ -35,17 +37,11 @@
 <body>
 
   {% include header.html %}
-
-  <main role="main">
-    {{ content }}
-    <footer class="container">
-      <p class="float-right"><a href="#">Back to top</a></p>
-      <p><a href="https://aws.amazon.com/codesofconduct/">AWS Community Codes of Conduct</a> | <a href="https://github.com/aws-mena-community">Built with ♥️ by Arabs</a></p>
-    </footer>
-  </main>
+  {{ content }}
+  {% include footer.html %}
 
   <div class="alert alert-secondary text-center cookiealert" role="alert">
-    We use cookies to improve your website experience
+    🍪 We use cookies to ensure you get the best experience on our website.
     <button type="button" class="btn btn btn-secondary btn-sm acceptcookies" aria-label="Close">Ok</button>
   </div>
 
