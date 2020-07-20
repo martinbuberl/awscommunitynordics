@@ -31,11 +31,8 @@ jQuery(function ($) {
     /**-------------------------------------------------
      * Canvas
      *----------------------------------------------------**/
-    particlesJS.load('particles-js', 'assets/particlesJsConfig.json', function() {
-        console.log('callback - particles.js config loaded');
-    });
+    particlesJS.load('particles-js', 'assets/particlesJsConfig.json', function() {});
 
-    // | 28th & 29th of August 2020
     new Typed('#typed', {
         stringsElement: '#typed-strings',
         typeSpeed: 100,
