@@ -9,5 +9,4 @@ permalink: /
 {% include speakers.html %}
 {% include schedule.html %}
 {% include supporters.html %}
-{% include team.html %}
 
