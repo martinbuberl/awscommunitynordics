@@ -635,6 +635,7 @@ img.communityday-sponsor-small {
 ===========================*/
 .ts-speakers {
     padding-top: 6rem;
+    padding-bottom: 8rem;
     position: relative;
     overflow: hidden;
     background-image: url("/content/img/speaker_bg.png");
@@ -1276,7 +1277,7 @@ img.communityday-sponsor-small {
     background-size: cover;
     background-position: center center;
     position: relative;
-    padding: 7rem;
+    padding: 3rem;
     background-image: url(../../content/img/aws_summit.jpg);
 }
 
@@ -1293,7 +1294,6 @@ img.communityday-sponsor-small {
 .ts-book-seat .book-seat-content {
     position: relative;
     z-index: 1;
-    margin-bottom: 6rem;
 }
 
 .ts-book-seat .book-seat-content .section-title {
@@ -1379,7 +1379,7 @@ img.communityday-sponsor-small {
  ==================================*/
 .ts-footer {
     background: #1a1831;
-    padding: 250px 0 50px; }
+    padding: 2rem 0 50px; }
 
 .ts-footer-social ul {
     padding: 0; }
@@ -1473,4 +1473,9 @@ img.communityday-sponsor-small {
 
 #supporters .container p {
     color: #e47911;
+}
+
+.supporters-logo img{
+    width: 100px;
+    height: 100px;
 }
