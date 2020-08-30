@@ -1239,7 +1239,7 @@ img.communityday-sponsor-small {
     position: relative;
     width: 100%;
     overflow: hidden;
-    padding-top: 20px;
+    padding-top: 10px;
 }
 
 .info-list {
@@ -1263,6 +1263,14 @@ img.communityday-sponsor-small {
     float: left;
     font-size: 18px;
     line-height: 26px;
+}
+
+.ts-supporters {
+    padding-top: 6rem;
+    padding-bottom: 8rem;
+    position: relative;
+    overflow: hidden;
+    background-image: url("/content/img/speaker_bg.png");
 }
 
 .ts-supporters .speaker-img {
