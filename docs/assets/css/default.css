@@ -47,11 +47,6 @@ html {
     padding: 0 !important;
 }
 
-/* Banner */
-.banner-main {
-    padding-top: 6.5rem;
-}
-
 .banner-main h1 {
     font-size: 4rem;
     font-weight: 800;
@@ -316,7 +311,6 @@ img.communityday-sponsor-small {
 }
 
 .header.header-transparent {
-    position: absolute;
     width: 100%;
     left: 0;
     top: 0;
@@ -932,7 +926,8 @@ img.communityday-sponsor-small {
       intro area
 ===========================*/
 .ts-intro {
-    padding-bottom: 6rem;
+    padding-bottom: 4rem;
+    padding-top: 4rem;
 
 }
 
@@ -1235,9 +1230,17 @@ img.communityday-sponsor-small {
     text-decoration: none;
 }
 
-.carousel-caption {
-    left: 10%;
-    right: 10%;
+.caption {
+    color: white;
+}
+
+.main-banner-item {
+    display: block;
+    margin-bottom: 15px;
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    padding-top: 20px;
 }
 
 .info-list {
