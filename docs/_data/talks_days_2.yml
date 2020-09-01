@@ -11,7 +11,7 @@
   image: ouadieLahdioui.jpg      
 - speaker: Farouq Moussa
   language: Arabic
-  title: DevOps
+  title: Docker in Production Using AWS
   time: 11:10 AM - 11:40 AM
   image: farouq.jpg
   custom-css-class: bg  
@@ -30,7 +30,7 @@
   language: 
   title: Break 1
   time: 12:55 PM - 01:15 PM
-  image: 
+  image: coffee-avatar.png
 - speaker: Fayssal Saoudi
   language: English
   title: TBD
@@ -57,7 +57,7 @@
   language: 
   title: Break 2
   time: 03:35 PM - 03:50 PM
-  image: 
+  image: coffee-avatar.png
   custom-css-class: bg    
 - speaker: Joe Scholz
   language: English
@@ -85,7 +85,7 @@
   language: 
   title: Break 3
   time: 06:10 PM - 06:30 PM
-  image: 
+  image: coffee-avatar.png
 - speaker: Mahmoud Saada
   language: English
   title: GitOps on AWS Codifying multi-cloud operations
