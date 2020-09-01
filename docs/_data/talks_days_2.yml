@@ -1,77 +1,94 @@
-- speaker: Alex Casalboni
-  language: English
-  title: Keynote
-  time: 10:30 - 11:00
-  image: alex-casalboni.jpg
-- speaker: Ahmad Gouda 
-  language: Arabic
-  title: Keynote
-  time: 11:20 - 11:35
-  image: ahmedGouda.jpg
-  custom-css-class: bg
-- speaker: Fatema Al Mannaei
-  language: English
-  title: CI/CD in Action
-  time: 11:20 - 12:35
-  image: 
 - speaker: Ahmed Raafat
   language: Arabic
   title: AI/ML on AWS
-  time: 12:45 - 13:20
+  time: 10:00 - 10:30 AM
   image: ahmedRaafat.jpg
   custom-css-class: bg
-- speaker: Nabil Ben Nasrallah
-  language: French
-  title: FinOps on AWS Cloud
-  time: 13:30 - 14:05
-  image: nabilBenNasrallah.jpg    
-- speaker: Diaa Radwan
-  language: Arabic
-  title: Database Migration
-  time: 14:15 - 14:50
-  image: DiaaRadwan.jpg
-  custom-css-class: bg
-- speaker: Ahmed Samir
-  language: Arabic
-  title: Development Track
-  time: 15:00 - 15:35
-  image: ahmedSamir.jpg
-- speaker: Ahmed Metwally
-  language: Arabic
-  title: Lambda .. Think serverless
-  time: 15:45 - 16:20
-  image: AhmedMetwally.jpg
-  custom-css-class: bg
-- speaker: Walid Shaari
-  language: Arabic
-  title: السوحبة الهجينة الحرة, تمكين التطبيقات الحديثة في كل مكان
-  time: 16:30 - 17:05
-  image: walidShaari.jpg
 - speaker:  Ouadie Lahdioui
   language: French
   title: Build your first voice app with Alexa
-  time: 17:15 - 17:50
+  time: 110:35 AM - 11:05 AM
   image: ouadieLahdioui.jpg      
-  custom-css-class: bg
 - speaker: Farouq Moussa
   language: Arabic
   title: DevOps
-  time: 18:00 - 18:35
+  time: 11:10 AM - 11:40 AM
   image: farouq.jpg
+  custom-css-class: bg  
 - speaker: Bassel Al Anan
   language: English
   title: From Cloudformation to Marketplace
-  time: 11:20 - 11:35
+  time: 11:45 AM - 12:15 PM
   image: bassel.jpg      
-  custom-css-class: bg
-- speaker: Anas Khattar
-  language: English
-  title: Building Your MVP on AWS
-  time: 11:20 - 11:35
-  image: anasKhatar.jpg       
 - speaker: Fahd Mannaa
   language: English
   title: Lambda, API & S3 for Fleet Scale Servers
-  time: 11:20 - 11:35
+  time: 12:20 PM - 12:50 PM 
   image: Fahd.jpg     
   custom-css-class: bg
+- speaker: 
+  language: 
+  title: Break 1
+  time: 12:55 PM - 01:15 PM
+  image: 
+- speaker: Fayssal Saoudi
+  language: English
+  title: TBD
+  time: 01:15 PM - 01:45 PM
+  image: default-avatar.png
+  custom-css-class: bg
+- speaker: Ghassan Matni
+  language: English
+  title: Security Shared Model
+  time: 01:50 PM - 02:20 PM
+  image: default-avatar.png  
+- speaker: Sherif Talaat
+  language: English
+  title: TBD
+  time: 02:25 PM - 02:55 PM
+  image: default-avatar.png   
+  custom-css-class: bg
+- speaker: Mohammed Buallay
+  language: English
+  title: AI Systems end to end on AWS
+  time: 03:00 PM - 03:30 PM
+  image: default-avatar.png
+- speaker: 
+  language: 
+  title: Break 2
+  time: 03:35 PM - 03:50 PM
+  image: 
+  custom-css-class: bg    
+- speaker: Joe Scholz
+  language: English
+  title: At the Crossroads of Agile and Automation
+  time: 03:50 PM - 04:20 PM
+  image: default-avatar.png    
+- speaker: Gunnar Grosch
+  language: English
+  title: Continuous verification for serverless applications
+  time: 04:25 PM - 04:55 PM
+  image: default-avatar.png
+  custom-css-class: bg
+- speaker: Nicolas El Khoury
+  language: English
+  title: Designing a Scalable and Highly Available Infrastructure for Microservices on AWS
+  time: 05:00 PM - 05:30 PM
+  image: default-avatar.png
+- speaker: Moataz Nabil
+  language: English
+  title: Getting started with AWS Device Farm and Selenium WebDriver
+  time: 05:35 PM - 06:05 PM
+  image: default-avatar.png   
+  custom-css-class: bg
+- speaker: 
+  language: 
+  title: Break 3
+  time: 06:10 PM - 06:30 PM
+  image: 
+- speaker: Mahmoud Saada
+  language: English
+  title: GitOps on AWS Codifying multi-cloud operations
+  time: 06:30 PM - 07:00 PM
+  image: default-avatar.png    
+  custom-css-class: bg  
