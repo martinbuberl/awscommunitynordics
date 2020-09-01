@@ -56,7 +56,9 @@
                     <h3 class="schedule-slot-speaker-name">{{talk.language}}</h3>
                     <h4 class="schedule-slot-title">{{talk.title}}</h4>
                     <p class="schedule-slot-desc">
-                    By {{talk.speaker}}
+                      {% if talk.speaker %}
+                        By {{talk.speaker}}
+                      {% endif %}
                     </p>
                   </div><!--Info content end -->
                 </div><!-- Slot info end -->
@@ -90,7 +92,9 @@
                     <h3 class="schedule-slot-speaker-name">{{talk.language}}</h3>
                     <h4 class="schedule-slot-title">{{talk.title}}</h4>
                     <p class="schedule-slot-desc">
-                    By {{talk.speaker}}
+                      {% if talk.speaker %}
+                        By {{talk.speaker}}
+                      {% endif %}
                     </p>
                   </div><!--Info content end -->
                 </div><!-- Slot info end -->

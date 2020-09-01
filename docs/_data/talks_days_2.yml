@@ -26,9 +26,7 @@
   time: 12:20 PM - 12:50 PM 
   image: Fahd.jpg     
   custom-css-class: bg
-- speaker: 
-  language: 
-  title: Break 1
+- title: Break 1
   time: 12:55 PM - 01:15 PM
   image: coffee-avatar.png
 - speaker: Fayssal Saoudi
@@ -53,9 +51,7 @@
   title: AI Systems end to end on AWS
   time: 03:00 PM - 03:30 PM
   image: default-avatar.png
-- speaker: 
-  language: 
-  title: Break 2
+- title: Break 2
   time: 03:35 PM - 03:50 PM
   image: coffee-avatar.png
   custom-css-class: bg    
@@ -81,9 +77,7 @@
   time: 05:35 PM - 06:05 PM
   image: default-avatar.png   
   custom-css-class: bg
-- speaker: 
-  language: 
-  title: Break 3
+- title: Break 3
   time: 06:10 PM - 06:30 PM
   image: coffee-avatar.png
 - speaker: Mahmoud Saada
