@@ -1,5 +1,8 @@
 jQuery(function ($) {
 
+    $("#schedule-day-1").show();
+    $("#schedule-day-2").hide();
+
     /* ----------------------------------------------------------- */
     /*  Event counter
     /* -----------------------------------------------------------*/
@@ -41,4 +44,19 @@ jQuery(function ($) {
         startDelay: 20,
         loop: true,
     });
+
+    /**-------------------------------------------------
+     * Event Schedule buttons
+     *----------------------------------------------------**/
+
+    $("#schedule-day-1-btn").click(function() {
+        $("#schedule-day-1").show();
+        $("#schedule-day-2").hide();
+    });
+
+    $("#schedule-day-2-btn").click(function() {
+        $("#schedule-day-2").show();
+        $("#schedule-day-1").hide();
+    });
+
 });
