@@ -1489,3 +1489,13 @@ img.communityday-sponsor-small {
     width: 100px;
     height: 100px;
 }
+
+#team {
+    padding-top: 6rem;
+}
+
+#team .team-member {
+    visibility: visible; 
+    animation-duration: 1.5s; 
+    animation-delay: 400ms;
+}
