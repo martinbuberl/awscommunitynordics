@@ -42,7 +42,7 @@
   image: default-avatar.png  
 - speaker: Sherif Talaat
   language: English
-  title: Bring you own Identity Provider: Microsoft AD on AWS
+  title: "Bring you own Identity Provider: Microsoft AD on AWS"
   time: 02:25 PM - 02:55 PM
   image: default-avatar.png   
   custom-css-class: bg
