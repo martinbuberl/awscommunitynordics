@@ -1,61 +1,61 @@
 
 - speaker: Alex Casalboni
   language: English
-  title: Keynote
-  time: 02:00 - 02:15 PM
+  title: Keynote 1
+  time: 11:00 - 11:15 am
   image: alex-casalboni.jpg
-- speaker: Ahmad Gouda 
+- speaker: Ahmad Gouda
   language: Arabic
-  title: Keynote
-  time: 02:20 - 02:35 PM
+  title: Keynote 2
+  time: 11:20 - 11:35 am
   image: ahmedGouda.jpg
   custom-css-class: bg
 - speaker: Fatema Al Mannaei
   language: English
   title: CI/CD in Action
-  time: 02:40 - 03-10 PM
+  time: 11:40 - 12-10 pm 
   image: default-avatar.png
 - speaker: Anas Khattar
   language: English
   title: Building Your MVP on AWS
-  time: 03:15 - 03:45 PM
+  time: 12:15 - 12:45 pm 
   image: anasKhatar.jpg
   custom-css-class: bg
 - speaker: Nabil Ben Nasrallah
   language: French
   title: FinOps on AWS Cloud
-  time: 03:50 - 04:20 PM
+  time: 12:50 - 01:20 pm 
   image: nabilBenNasrallah.jpg       
 - speaker: Diaa Radwan
   language: Arabic
   title: Database Migration
-  time: 04:25 - 04:55
+  time: 01:25 - 01:55
   image: DiaaRadwan.jpg
   custom-css-class: bg   
 - speaker: Ahmed Samir
   language: Arabic
   title: .Net On AWS
-  time: 05:00 - 05:30
+  time: 02:00 - 02:30
   image: ahmedSamir.jpg    
 - speaker: Ahmed Metwally
   language: Arabic
   title: Lambda .. Think serverless
-  time: 05:35 - 06:05 PM
+  time: 02:35 - 03:05 pm 
   image: AhmedMetwally.jpg
   custom-css-class: bg    
 - speaker: Walid Shaari
   language: Arabic
   title: الحوسبة الهجينة الحرة, تمكين التطبيقات الحديثة في كل مكان
-  time: 06:10 - 06:40 PM
+  time: 03:10 - 03:40 pm 
   image: walidShaari.jpg
 - speaker: Ahmed AbuGharbia
   language: English
   title: Security Elevated
-  time: 06:45 - 07:15 PM
+  time: 03:45 - 04:15 pm 
   image: default-avatar.png
   custom-css-class: bg
 - speaker: Ali El Kontar
   language: English
   title: Serverless SaaS
-  time: 07:20 - 07:50 PM
+  time: 04:20 - 04:50 pm 
   image: default-avatar.png

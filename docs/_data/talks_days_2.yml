@@ -1,88 +1,88 @@
 - speaker: Ahmed Raafat
   language: Arabic
   title: AI/ML on AWS
-  time: 10:00 - 10:30 AM
+  time: 07:00 - 07:30 am  
   image: ahmedRaafat.jpg
   custom-css-class: bg
 - speaker:  Ouadie Lahdioui
   language: French
   title: Build your first voice app with Alexa
-  time: 110:35 AM - 11:05 AM
+  time: 07:35 - 08:05 am 
   image: ouadieLahdioui.jpg      
 - speaker: Faroua Moussa
   language: Arabic
   title: DevOps on AWS, Getting Started
-  time: 11:10 AM - 11:40 AM
+  time: 08:10 - 08:40 am 
   image: farouq.jpg
   custom-css-class: bg  
 - speaker: Bassel Al Anan
   language: English
   title: From Cloudformation to Marketplace
-  time: 11:45 AM - 12:15 PM
+  time: 08:45 - 09:15 am 
   image: bassel.jpg      
 - speaker: Fahd Mannaa
   language: English
-  title: Lambda, API & S3 for Fleet Scale Servers
-  time: 12:20 PM - 12:50 PM 
+  title: LAM UTCbda, API & S3 for Fleet Scale Servers
+  time: 09:20 - 09:50 am  
   image: Fahd.jpg     
   custom-css-class: bg
 - title: Break 1
-  time: 12:55 PM - 01:15 PM
+  time: 09:55 - 10:15 pm 
   image: coffee-avatar.png
 - speaker: Fayssal Saoudi
   language: English
   title: TBD
-  time: 01:15 PM - 01:45 PM
+  time: 10:15 - 10:45 am 
   image: default-avatar.png
   custom-css-class: bg
 - speaker: Ghassan Matni
   language: English
   title: Security Shared Model
-  time: 01:50 PM - 02:20 PM
+  time: 10:50 - 11:20 am 
   image: default-avatar.png  
 - speaker: Sherif Talaat
   language: English
   title: "Bring you own Identity Provider: Microsoft AD on AWS"
-  time: 02:25 PM - 02:55 PM
+  time: 11:25 - 11:55 am 
   image: default-avatar.png   
   custom-css-class: bg
-- speaker: Mohammed Buallay
+- speaker: MohAM UTCmed Buallay
   language: English
   title: AI Systems end to end on AWS
-  time: 03:00 PM - 03:30 PM
+  time: 12:00 - 12:30 pm 
   image: default-avatar.png
 - title: Break 2
-  time: 03:35 PM - 03:50 PM
+  time: 12:35 - 12:50 pm 
   image: coffee-avatar.png
   custom-css-class: bg    
 - speaker: Joe Scholz
   language: English
   title: At the Crossroads of Agile and Automation
-  time: 03:50 PM - 04:20 PM
+  time: 12:50 - 01:20 pm 
   image: default-avatar.png    
 - speaker: Gunnar Grosch
   language: English
   title: Continuous verification for serverless applications
-  time: 04:25 PM - 04:55 PM
+  time: 01:25 - 01:55 pm 
   image: default-avatar.png
   custom-css-class: bg
 - speaker: Nicolas El Khoury
   language: English
   title: Designing a Scalable and Highly Available Infrastructure for Microservices on AWS
-  time: 05:00 PM - 05:30 PM
+  time: 02:00 - 02:30 pm 
   image: default-avatar.png
 - speaker: Moataz Nabil
   language: English
   title: Getting started with AWS Device Farm and Selenium WebDriver
-  time: 05:35 PM - 06:05 PM
+  time: 02:35 - 03:05 pm 
   image: default-avatar.png   
   custom-css-class: bg
 - title: Break 3
-  time: 06:10 PM - 06:30 PM
+  time: 03:10 - 03:30 pm 
   image: coffee-avatar.png
 - speaker: Mahmoud Saada
   language: English
   title: GitOps on AWS Codifying multi-cloud operations
-  time: 06:30 PM - 07:00 PM
+  time: 03:30 - 04:00 pm 
   image: default-avatar.png    
   custom-css-class: bg  
