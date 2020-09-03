@@ -628,8 +628,8 @@ img.communityday-sponsor-small {
      ts speaker
 ===========================*/
 .ts-speakers {
-    padding-top: 6rem;
     position: relative;
+    padding-top: 1rem;
     overflow: hidden;
     background-image: url("/content/img/speaker_bg.png");
 }
@@ -926,8 +926,7 @@ img.communityday-sponsor-small {
 ===========================*/
 .ts-intro {
     padding-bottom: 4rem;
-    padding-top: 4rem;
-
+    padding-top: 5rem;
 }
 
 .intro-line {

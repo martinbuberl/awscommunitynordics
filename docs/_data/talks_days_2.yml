@@ -50,7 +50,7 @@
   language: English
   title: AI Systems end to end on AWS
   time: 12:00 - 12:30 pm 
-  image: default-avatar.png
+  image: MohammedBuallay.jpg
 - title: Break 2
   time: 12:35 - 12:50 pm 
   image: coffee-avatar.png
@@ -64,7 +64,7 @@
   language: English
   title: Continuous verification for serverless applications
   time: 01:25 - 01:55 pm 
-  image: default-avatar.png
+  image: GunnarGrosch.png
   custom-css-class: bg
 - speaker: Nicolas El Khoury
   language: English

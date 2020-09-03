@@ -1,0 +1,46 @@
+<!-- Speakers start -->
+<section id="speakers" class="ts-speakers">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto">
+        <h2 class="section-title white text-center">
+          <span>Thanks to all</span>
+          Awesome Speakers
+          <br/>
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="71px" height="11px"> <path fill-rule="evenodd" d="M59.669,10.710 L49.164,3.306 L39.428,10.681 L29.714,3.322 L20.006,10.682 L10.295,3.322 L1.185,10.228 L-0.010,8.578 L10.295,0.765 L20.006,8.125 L29.714,0.765 L39.428,8.125 L49.122,0.781 L59.680,8.223 L69.858,1.192 L70.982,2.895 L59.669,10.710 Z"></path></svg>
+        </h2>
+      </div><!-- col end-->
+    </div><!-- row end-->
+
+    <div class="row">
+
+      {% for speaker in site.data.speakers %}
+      <div class="col-lg-3 col-md-6 wow fadeInUp animated" data-wow-duration="1.5s" data-wow-delay="400ms" style="visibility: visible; animation-duration: 1.5s; animation-delay: 400ms;">
+        <div class="ts-speaker white-text">
+          <div class="speaker-img">
+            <img class="img-fluid" src="/content/img/speakers/{{speaker.image}}">
+          </div>
+          <div class="ts-speaker-info">
+            <h3 class="ts-title" >{{speaker.name}}</h3>
+            <p>
+              {{speaker.role}} 
+              {% if speaker.company %}
+                @{{speaker.company}}
+              {% endif %}
+              <br>
+              <b>
+                {% if speaker.socialMediaAlias %}
+                  <a href="{{speaker.socialMediaLink}}" target="_blank">@{{speaker.socialMediaAlias}}</a>
+                {% endif %}
+              </b>
+            </p>
+          </div>
+        </div>
+      </div>            
+      {% endfor %}
+
+    </div>
+
+  </div>
+
+</section>
