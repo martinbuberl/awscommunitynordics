@@ -18,8 +18,8 @@
   image: ahmedGouda.jpg
 - name: Diaa Radwan
   socialMediaLink: https://twitter.com/diaaradwan
-  socialMediaAlias: Database Migration
-  role: EMEA Database Specialist Solution Architect
+  socialMediaAlias: diaaradwan
+  role: EMEA Database Specialist
   company: AWS
   image: DiaaRadwan.jpg
 - name: Gunnar Grosch
@@ -43,9 +43,9 @@
   role: Foundation Member at FinOps
   image: nabilBenNasrallah.jpg       
 - name: Ahmed Samir
-  socialMediaLink: Arabic
-  socialMediaAlias: .Net On AWS
-  role: 02:00 - 02:30
+  socialMediaLink: https://www.linkedin.com/in/aseldesouky/
+  socialMediaAlias: aseldesouky
+  role: Solutions Architect & Communities Builder
   image: ahmedSamir.jpg    
 - name: Ahmed Metwally
   socialMediaLink: https://www.linkedin.com/in/metwally/
@@ -128,4 +128,4 @@
   socialMediaLink: 
   socialMediaAlias: 
   role: 
-  image: default-avatar.png    
+  image: default-avatar.png
