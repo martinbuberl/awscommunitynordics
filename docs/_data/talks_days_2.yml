@@ -46,7 +46,7 @@
   time: 11:25 - 11:55 am 
   image: default-avatar.png   
   custom-css-class: bg
-- speaker: MohAM UTCmed Buallay
+- speaker: Mohammed Buallay
   language: English
   title: AI Systems end to end on AWS
   time: 12:00 - 12:30 pm 
@@ -84,5 +84,29 @@
   language: English
   title: GitOps on AWS Codifying multi-cloud operations
   time: 03:30 - 04:00 pm 
+  image: default-avatar.png    
+  custom-css-class: bg  
+- speaker: Ahmed Shendy
+  language: English
+  title: How to select the right EBS
+  time: 04:05 - 04:35 pm 
+  image: default-avatar.png    
+  custom-css-class: bg    
+- speaker: Renaldi Gondosubroto
+  language: English
+  title: "Small Leap for Developer, Giant Leap for Security - Why DevSecOps is More Important than Ever and How It's Done"
+  time: 04:40 - 05:10 pm 
+  image: default-avatar.png    
+  custom-css-class: bg    
+- speaker: Mohammed Yahya
+  language: English
+  title: Terraform CICD Best Practices using AWS Developer Tools
+  time: 05:15 - 05:45 pm 
+  image: default-avatar.png    
+  custom-css-class: bg    
+- speaker: TBA
+  language: English
+  title: Closing ceremony
+  time: 05:45 - 06:00 pm 
   image: default-avatar.png    
   custom-css-class: bg  
