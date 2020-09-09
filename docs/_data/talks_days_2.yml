@@ -33,7 +33,7 @@
   language: English
   title: TBD
   time: 10:15 - 10:45 am 
-  image: default-avatar.png
+  image: FayssalSAOUDI.jpg
   custom-css-class: bg
 - speaker: Ghassan Matni
   language: English
@@ -44,7 +44,7 @@
   language: English
   title: "Bring you own Identity Provider: Microsoft AD on AWS"
   time: 11:25 - 11:55 am 
-  image: default-avatar.png   
+  image: SherifTalaat.jpg   
   custom-css-class: bg
 - speaker: Mohammed Buallay
   language: English
@@ -59,7 +59,7 @@
   language: English
   title: At the Crossroads of Agile and Automation
   time: 12:50 - 01:20 pm 
-  image: default-avatar.png    
+  image: JoseScholz.jpg   
 - speaker: Gunnar Grosch
   language: English
   title: Continuous verification for serverless applications
@@ -84,19 +84,19 @@
   language: English
   title: GitOps on AWS Codifying multi-cloud operations
   time: 03:30 - 04:00 pm 
-  image: default-avatar.png    
+  image: mahmoudsaada.jpg
   custom-css-class: bg  
 - speaker: Ahmed Shendy
-  language: English
+  language: Arabic
   title: How to select the right EBS
   time: 04:05 - 04:35 pm 
-  image: default-avatar.png    
+  image: AhmedShendi.jpg
   custom-css-class: bg    
 - speaker: Renaldi Gondosubroto
   language: English
   title: "Small Leap for Developer, Giant Leap for Security - Why DevSecOps is More Important than Ever and How It's Done"
   time: 04:40 - 05:10 pm 
-  image: default-avatar.png    
+  image: RenaldiGondosubroto.png
   custom-css-class: bg    
 - speaker: Mohammed Yahya
   language: English

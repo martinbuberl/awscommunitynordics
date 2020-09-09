@@ -61,12 +61,12 @@
   socialMediaLink: https://www.linkedin.com/in/ahmadabugharbieh/
   socialMediaAlias: ahmadabugharbieh
   role: Security professional
-  image: default-avatar.png
+  image: AhmedAbuGharbia.jpg
 - name: Ali El Kontar
-  socialMediaLink: 
-  socialMediaAlias: 
-  role: 
-  image: default-avatar.png  
+  socialMediaLink: https://www.linkedin.com/in/akontar/
+  socialMediaAlias: akontar
+  role: Founder & CEO at Zero & One
+  image: AliElKontar.jpg
 - name:  Ouadie Lahdioui
   socialMediaLink: https://twitter.com/lahdiouiouadie
   socialMediaAlias: lahdiouiouadie
@@ -89,20 +89,20 @@
   role: AWS Architect
   image: Fahd.jpg     
 - name: Fayssal Saoudi
-  socialMediaLink: 
-  socialMediaAlias: 
+  socialMediaLink: https://www.linkedin.com/in/fsaoudi/
+  socialMediaAlias: fsaoudi
   role: 
-  image: default-avatar.png
+  image: FayssalSAOUDI.jpg
 - name: Ghassan Matni
   socialMediaLink: 
   socialMediaAlias: 
   role: 
   image: default-avatar.png   
 - name: Sherif Talaat
-  socialMediaLink: 
-  socialMediaAlias: 
-  role: 
-  image: default-avatar.png   
+  socialMediaLink: https://www.linkedin.com/in/sheriftalaat/
+  socialMediaAlias: sheriftalaat
+  role: Solutions Architect at Amazon Web Services 
+  image: SherifTalaat.jpg 
 - name: Mohmed Buallay
   socialMediaLink: https://www.linkedin.com/in/mohammed-buallay-691b23152/
   socialMediaAlias: mohammed-buallay-691b23152
@@ -110,22 +110,32 @@
   company: Tamkeen
   image: MohammedBuallay.jpg
 - name: Joe Scholz
-  socialMediaLink: 
-  socialMediaAlias: 
-  role: 
-  image: default-avatar.png    
+  socialMediaLink: https://www.linkedin.com/in/agilejoe/
+  socialMediaAlias: agilejoe
+  role: Agile Delivery Lead
+  image: JoseScholz.jpg
 - name: Nicolas El Khoury
   socialMediaLink: https://nicolaselkhoury.com
   socialMediaAlias: nicolas-el-khoury
   role: Cloud Solutions Architect
   image: Nicolas El Khoury.jpg
 - name: Moataz Nabil
-  socialMediaLink: 
-  socialMediaAlias: 
-  role: 
-  image: default-avatar.png   
+  socialMediaLink: https://www.linkedin.com/in/moataz-nabil/
+  socialMediaAlias: moataz-nabil
+  role: Senior Test Automation Engineer
+  image: Moataz_Nabil.png 
 - name: Mahmoud Saada
   socialMediaLink: 
   socialMediaAlias: 
   role: 
-  image: default-avatar.png
+  image: mahmoudsaada.jpg
+- name: Ahmed Shendy
+  socialMediaLink: https://www.linkedin.com/in/ahmed-shendy/
+  socialMediaAlias: ahmed-shendy
+  role: Senior DevOps Engineer
+  image: AhmedShendi.jpg  
+- name: Renaldi Gondosubroto
+  socialMediaLink: https://www.linkedin.com/in/renaldigondosubroto/
+  socialMediaAlias: renaldigondosubroto
+  role: Founder and Project Leader of GReS Studio
+  image: RenaldiGondosubroto.png
