@@ -54,8 +54,8 @@
   time: 03:45 - 04:15 pm 
   image: AhmedAbuGharbia.jpg
   custom-css-class: bg
-- speaker: Ali El Kontar
-  language: English
-  title: Serverless SaaS
+- speaker:  Ouadie Lahdioui
+  language: French
+  title: Build your first voice app with Alexa
   time: 04:20 - 04:50 pm 
-  image: AliElKontar.jpg
+  image: ouadieLahdioui.jpg      

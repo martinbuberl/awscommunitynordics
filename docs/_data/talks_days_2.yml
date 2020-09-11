@@ -3,12 +3,12 @@
   title: AI/ML on AWS
   time: 07:00 - 07:30 am  
   image: ahmedRaafat.jpg
-  custom-css-class: bg
-- speaker:  Ouadie Lahdioui
-  language: French
-  title: Build your first voice app with Alexa
+  custom-css-class: bg   
+- speaker: Ali El Kontar
+  language: English
+  title: Serverless SaaS
   time: 07:35 - 08:05 am 
-  image: ouadieLahdioui.jpg      
+  image: AliElKontar.jpg  
 - speaker: Faroua Moussa
   language: Arabic
   title: DevOps on AWS, Getting Started
