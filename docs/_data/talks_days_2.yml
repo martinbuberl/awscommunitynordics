@@ -22,7 +22,7 @@
   image: bassel.jpg      
 - speaker: Fahd Mannaa
   language: English
-  title: Lambda, API & S3 for Fleet Scale Servers
+  title: AWS WAF Auto protect against crawlers and bots
   time: 09:20 - 09:50 am  
   image: Fahd.jpg     
   custom-css-class: bg
