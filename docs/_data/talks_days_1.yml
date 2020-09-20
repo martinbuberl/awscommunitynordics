@@ -10,17 +10,16 @@
   time: 11:20 - 11:35 am
   image: ahmedGouda.jpg
   custom-css-class: bg
+- speaker: Matt Foley
+  language: English
+  title: Making the Cloud EPYC AMD-based instances in AWS
+  time: 11:40 - 12-10 pm 
+  image: matt.jpg
 - speaker: Fatema Al Mannaei
   language: English
   title: CI/CD in Action
-  time: 11:40 - 12-10 pm 
+  time: 12:15 - 12:45 pm
   image: fatema.jpg
-- speaker: Anas Khattar
-  language: English
-  title: Building Your MVP on AWS
-  time: 12:15 - 12:45 pm 
-  image: anasKhatar.jpg
-  custom-css-class: bg
 - speaker: Nabil Ben Nasrallah
   language: French
   title: FinOps on AWS Cloud
@@ -59,3 +58,9 @@
   title: Build your first voice app with Alexa
   time: 04:20 - 04:50 pm 
   image: ouadieLahdioui.jpg      
+- speaker: Anas Khattar
+  language: English
+  title: Building Your MVP on AWS
+  time: 04:55 - 04:25 pm 
+  image: anasKhatar.jpg
+  custom-css-class: bg  

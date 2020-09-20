@@ -22,6 +22,12 @@
   role: EMEA Database Specialist
   company: AWS
   image: DiaaRadwan.jpg
+- name: Matt Foley
+  socialMediaLink: https://www.linkedin.com/in/mattdfoley/
+  socialMediaAlias: mattdfoley
+  role: Director, EMEA Field Application Engineering
+  company: AMD
+  image: matt.jpg
 - name: Gunnar Grosch
   socialMediaLink: https://twitter.com/GunnarGrosch
   socialMediaAlias: GunnarGrosch
