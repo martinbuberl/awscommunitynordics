@@ -20,11 +20,11 @@
   title: CI/CD in Action
   time: 12:15 - 12:45 pm
   image: fatema.jpg
-- speaker: Nabil Ben Nasrallah
-  language: French
-  title: FinOps on AWS Cloud
+  - speaker: Nicolas El Khoury
+  language: English
+  title: Designing a Scalable and Highly Available Infrastructure for Microservices on AWS
   time: 12:50 - 01:20 pm 
-  image: nabilBenNasrallah.jpg       
+  image: NicolasElKhoury.jpg     
 - speaker: Diaa Radwan
   language: Arabic
   title: Database Migration
@@ -60,7 +60,7 @@
   image: ouadieLahdioui.jpg      
 - speaker: Anas Khattar
   language: English
-  title: Building Your MVP on AWS
+  title: Building Your MVP on AWS :)
   time: 04:55 - 05:25 pm 
   image: anasKhatar.jpg
   custom-css-class: bg  
