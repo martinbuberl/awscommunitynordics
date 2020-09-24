@@ -66,11 +66,11 @@
   time: 01:25 - 01:55 pm 
   image: GunnarGrosch.png
   custom-css-class: bg
-- speaker: Nicolas El Khoury
-  language: English
-  title: Designing a Scalable and Highly Available Infrastructure for Microservices on AWS
+  - speaker: Nabil Ben Nasrallah
+  language: French
+  title: FinOps on AWS Cloud
   time: 02:00 - 02:30 pm 
-  image: NicolasElKhoury.jpg
+  image: nabilBenNasrallah.jpg 
 - speaker: Moataz Nabil
   language: English
   title: Getting started with AWS Device Farm and Selenium WebDriver
