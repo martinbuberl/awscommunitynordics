@@ -20,7 +20,7 @@
   title: CI/CD in Action
   time: 12:15 - 12:45 pm
   image: fatema.jpg
-  - speaker: Nicolas El Khoury
+- speaker: Nicolas El Khoury
   language: English
   title: Designing a Scalable and Highly Available Infrastructure for Microservices on AWS
   time: 12:50 - 01:20 pm 
