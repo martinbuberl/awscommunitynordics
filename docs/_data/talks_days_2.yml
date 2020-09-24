@@ -66,7 +66,7 @@
   time: 01:25 - 01:55 pm 
   image: GunnarGrosch.png
   custom-css-class: bg
-  - speaker: Nabil Ben Nasrallah
+- speaker: Nabil Ben Nasrallah
   language: French
   title: FinOps on AWS Cloud
   time: 02:00 - 02:30 pm 
