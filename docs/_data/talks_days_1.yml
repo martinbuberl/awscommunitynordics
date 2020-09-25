@@ -42,22 +42,22 @@
   time: 02:35 - 03:05 pm 
   image: AhmedMetwally.jpg
   custom-css-class: bg    
-- speaker: Walid Shaari
-  language: Arabic
-  title: الحوسبة الهجينة الحرة, تمكين التطبيقات الحديثة في كل مكان
+- speaker:  Ouadie Lahdioui
+  language: French
+  title: Build your first voice app with Alexa
   time: 03:10 - 03:40 pm 
-  image: walidShaari.jpg
+  image: ouadieLahdioui.jpg  
 - speaker: Ahmed AbuGharbia
   language: English
   title: Security Elevated
   time: 03:45 - 04:15 pm 
   image: AhmedAbuGharbia.jpg
   custom-css-class: bg
-- speaker:  Ouadie Lahdioui
-  language: French
-  title: Build your first voice app with Alexa
+- speaker: Walid Shaari
+  language: Arabic
+  title: الحوسبة الهجينة الحرة, تمكين التطبيقات الحديثة في كل مكان
   time: 04:20 - 04:50 pm 
-  image: ouadieLahdioui.jpg      
+  image: walidShaari.jpg  
 - speaker: Anas Khattar
   language: English
   title: Building Your MVP on AWS :)
