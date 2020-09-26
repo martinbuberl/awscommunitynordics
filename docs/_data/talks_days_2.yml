@@ -29,11 +29,11 @@
 - title: Break 1
   time: 09:55 - 10:15 pm 
   image: coffee-avatar.png
-- speaker: Fayssal Saoudi
+- speaker: Mohammed Yahya
   language: English
-  title: Introduction to cloud computing and AWS
+  title: Terraform CICD Best Practices using AWS Developer Tools
   time: 10:15 - 10:45 am 
-  image: FayssalSAOUDI.jpg
+  image: mohammed-yahya.jpg 
   custom-css-class: bg
 - speaker: Ghassan Matni
   language: English
@@ -98,15 +98,9 @@
   time: 04:40 - 05:10 pm 
   image: RenaldiGondosubroto.png
   custom-css-class: bg    
-- speaker: Mohammed Yahya
-  language: English
-  title: Terraform CICD Best Practices using AWS Developer Tools
-  time: 05:15 - 05:45 pm 
-  image: mohammed-yahya.jpg    
-  custom-css-class: bg    
 - speaker: AWS Community MENA Organizers
   language: English
   title: Closing ceremony
-  time: 05:45 - 06:00 pm 
+  time: 05:15 - 05:30 pm 
   image: closing.png 
   custom-css-class: bg  
