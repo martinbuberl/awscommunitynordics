@@ -1,29 +1,31 @@
-# awscommunitynordics
+# awscommunitynordics.org
 
-This is the repository of the website [awscommunitynordics.org](https://awscommunitynordics.org/). It is hosted directly from the repository as a [GitHub Pages](https://pages.github.com/) website.
+This is the repository of the website [awscommunitynordics.org](https://awscommunitynordics.org/).
 
-## Local Setup
+It is hosted directly from this repository as a [GitHub Pages](https://pages.github.com/) website.
 
-To preview the website locally:
+## Prerequisites
 
-1. Install [Ruby and Bundler](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/) if you don't have them already.
+Install [Ruby and Bundler](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/) if you don't have them already.
 
-2. Install Jekyll and other [dependencies](https://pages.github.com/versions/) from the GitHub Pages gem:
+## Installation
 
-```sh
-$ bundle install
+This GitHub Pages site is [configured to be published from the `/docs` folder on the `master` branch](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages#publishing-your-github-pages-site-from-a-docs-folder-on-your-master-branch). Change directory to that folder `cd docs`.
+
+Install Jekyll and other [dependencies](https://pages.github.com/versions/) from the [GitHub Pages](docs/Gemfile) gem:
+
+```
+bundle install
 ```
 
-3. Run Jekyll using the following command in the `docs` directory:
+If your user account isn't allowed to install to the system RubyGems you can run `bundle install --path vendor/bundle` to install the gems locally.
 
-```sh
-$ bundle exec jekyll serve
+## Serve
+
+To preview the Jekyll site locally run:
+
 ```
-
-To preview the site with drafts, run jekyll serve with the `--drafts` switch:
-
-```sh
-$ bundle exec jekyll serve --drafts
+bundle exec jekyll serve
 ```
 
 Then, load [http://localhost:4000/](http://localhost:4000/) in your browser.
