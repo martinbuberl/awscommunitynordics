@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157544163"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-157544163');
+  </script>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+  <link rel="icon" type="image/png" href="/content/img/favicon.png" />
+  <link rel="stylesheet" href="/assets/bootstrap-4.1.3/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous" />
+  <link rel="stylesheet" href="/assets/css/default.css" />
+  <link rel="stylesheet" href="/assets/css/xsIcon.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Wruczek/Bootstrap-Cookie-Alert@gh-pages/cookiealert.css">
+
+
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  {% if page.description %}<meta property="og:description" content="{{ page.description }}" />{% endif %}
+  <meta property="og:image" content="{{ site.url }}/content/img/{% if page.image %}{{ page.image }}{% else %}aws-mena-community-day.png{% endif %}" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  {% if page.description %}<meta name="twitter:description" content="{{ page.description }}" />{% endif %}
+  <meta name="twitter:site" content="@AWSomeMENA" />
+  <meta name="twitter:creator" content="@AWSomeMENA" />
+  <meta name="twitter:image" content="{{ site.url }}/content/img/{% if page.image %}{{ page.image }}{% else %}og-default.jpg{% endif %}">
+
+  <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+</head>
+<body>
+
+  {% include header.html %}
+  {{ content }}
+  {% include footer.html %}
+
+  <div class="alert alert-secondary text-center cookiealert" role="alert">
+    🍪 We use cookies to ensure you get the best experience on our website.
+    <button type="button" class="btn btn btn-secondary btn-sm acceptcookies" aria-label="Close">Ok</button>
+  </div>
+
+  <script src="/assets/jquery-3.3.1/jquery.js"></script>
+  <script src="/assets/popper-1.14.4/popper.min.js"></script>
+  <script src="/assets/bootstrap-4.1.3/js/bootstrap.min.js"></script>
+  <script src="/assets/cookiealert.js"></script>
+  <script src="/assets/jquery.jCounter.js"></script>
+  <script src="/assets/js/particles.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
+  <script src="/assets/js/main.js"></script>
+</body>
+</html>
