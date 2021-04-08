@@ -1,0 +1,128 @@
+/* 
+	Section Background (bg.css)
+	
+	Table of Content
+	- general settings for section & subheader
+	- general background image for subheader
+	- background settings for page subheader
+	- background settings for section
+	- subheader for side navigation
+	- media query
+*/
+
+/* general  for subheader */
+#subheader{
+background:url(../images/background/subheader.jpg)top fixed;
+}
+
+/* background settings for page subheader */
+.page-projects #subheader{background-image:url(../images/background/subheader-1.jpg);}
+.page-projects-alt #subheader{background-image:url(../images/background/subheader-1b.jpg);}
+.page-services #subheader{background-image:url(../images/background/subheader-2.jpg);}
+.page-about #subheader{background-image:url(../images/background/subheader-3.jpg);}
+.page-blog #subheader{background-image:url(../images/background/subheader-4.jpg);}
+.page-shop #subheader{background-image:url(../images/background/subheader-5.jpg);}
+.page-contact #subheader{background-image:url(../images/background/subheader-6.jpg);}
+
+/* background settings for section */
+#info-address{background:url(../images/background/bg-3.jpg) top fixed;}
+#view-all-projects, #call-to-action{padding:60px 0 60px 0;}
+#section-about-us-2{background:#f8f8f8; height:100%;}
+#section-about-us-2 .image-container{background:url(../images/background/bg-side-1.jpg);}
+#section-about-us-3{background:#f5f5f5; height:100%;}
+#section-about-us-3 .image-container{background:url(../images/background/bg-side-2.jpg);}
+#section-about-us-4 .image-container{background:url(../images/background/bg-side-3.jpg);}
+#section-welcome-5{background:url(../images/background/bg-14.jpg) top fixed;}
+#section-blog {background:url(../images/background/bg-5.jpg) top fixed;}
+#section-coming-soon{ background:none; position:absolute; min-height:100%; width:100%;z-index:1;}
+#section-describe{background:#202020;}
+#section-download{background:url(../images/background/bg-9.jpg) top fixed;}
+#bg-coming-soon-page{background:url(../images/background/bg-6.jpg) top fixed; position:fixed; min-height:100%; width:100%;}
+#section-about-us-2{background:#18191b; height:100%;}
+.de_light #section-about-us-2{background:none;}
+#section-welcome{background:url(../images/background/bg-4.jpg) top fixed;}
+#section-welcome-2{background:url(../images/background/bg-6.jpg) top fixed;}
+#section-welcome-3{background:url(../images/background/bg-7.jpg) top fixed;}
+#section-welcome-4{background:url(../images/background/bg-10.jpg) top fixed;}
+#section-welcome-6{background:url(../images/background/bg-15.jpg) top fixed;}
+#section-welcome-7{background:url(../images/background/bg-19.jpg) fixed center;}
+#section-welcome-8{background:url(../images/background/bg-20.jpg) fixed center;}
+#section-welcome-9{background:url(../images/background/bg-21.jpg) top fixed;}
+#section-welcome-10{background:url(../images/background/bg-23.jpg) top fixed;}
+#section-welcome-11{background:url(../images/background/bg-25.jpg) top fixed;}
+#section-welcome-12{background:url(../images/background/bg-26.jpg) top fixed;}
+#section-welcome-13{background:url(../images/background/bg-29.jpg) top fixed;}
+#section-welcome-14{background:url(../images/background/bg-30.jpg) top fixed;}
+#section-why-choose-us{background:url(../images/background/bg-8.jpg) top fixed;}
+#section-why-choose-us-3{background:url(../images/background/bg-16.jpg) top fixed;}
+#section-portfolio{background:#222; width:101%; overflow:hidden;}
+.de_light #section-portfolio{background:#fff;}
+#section-skill-bar{ background:url(../images/background/bg-8.jpg) top fixed;}
+#section-testimonial{ background:url(../images/background/bg-3.jpg) top fixed;}
+#section-testimonial-2{ background:url(../images/background/bg-17.jpg) top fixed;}
+#section-steps{ background:url(../images/background/bg-2.jpg) top fixed;}
+#section-steps-2{ background:#f5f5f5;}
+#section-steps-3{ background:url(../images/background/bg-12.jpg) top fixed;}
+#section-steps-4{ background:url(../images/background/bg-32.jpg) top no-repeat;}
+#section-team{background:#111;}
+.de_light #section-team{background:#f5f5f5;}
+#hide-content{position:absolute; width:100%; min-height:100%; z-index:100;display:none; background:rgba(0,0,0,.8);}
+#section-fun-facts .image-container{background:url(../images/background/bg-side-4.jpg);}
+#section-fun-facts-2{background:url(../images/background/bg-13.jpg) center;}
+#section-fun-facts-3{background:url(../images/background/bg-18.jpg) top;}
+#section-side-1.side-bg .background-image{background:url(../images/background/bg-side-5.jpg);}
+#section-side-2.side-bg .background-image{background:url(../images/background/bg-side-6.jpg);}
+#section-custom-1{background:url(../images/background/bg-17.jpg) top fixed;}
+#section-custom-2{background:url(../images/background/bg-16.jpg) top fixed;}
+#section-cta-1{background:url(../images/background/bg-22.jpg) top fixed;}
+#section-profile-experiences{background:url(../images/background/bg-24.jpg) top fixed;}
+#section-hero-index-landing-product{background:url(../images/background/bg-27.jpg) top fixed;}
+#section-side-1-index-landing-product.side-bg .image-container{background:url(../images/background/bg-side-10.jpg) center;}
+#section-contact-landing-product{background:url(../images/background/bg-28.jpg) bottom no-repeat;}
+#section-before-after{background:url(../images/background/bg-31.jpg) top no-repeat;}
+#section-pattern-1{background:url(../images/background/pattern-1.jpg) 100% !important;}
+
+
+#side-01-about.side-bg .image-container{background:url(../images/background/bg-side-8.jpg) center;}
+#side-01-contact.side-bg .image-container{background:url(../images/background/bg-side-7.jpg) center;}
+#side-01-services.side-bg .image-container{background:url(../images/background/bg-side-9.jpg) center;}
+
+
+/* services section side background */
+#section-service-1.side-bg .background-image{background:url(../images/background/bg-service-1.jpg);}
+#section-service-2.side-bg .background-image{background:url(../images/background/bg-service-2.jpg);}
+#section-service-3.side-bg .background-image{background:url(../images/background/bg-service-3.jpg);}
+#section-service-4.side-bg .background-image{background:url(../images/background/bg-service-4.jpg);}
+#section-service-2,#section-service-4{background:#f2f2f2;}
+
+
+/* background settings for side navigation subheader */
+.de-navbar-left.de_light #subheader{background:url(../images/background/bg-subheader-sn.jpg)top fixed;}
+.de-navbar-left.de_light.page-projects #subheader{background-image:url(../images/background/subheader-1-sn.jpg);}
+.de-navbar-left.de_light.page-services #subheader{background-image:url(../images/background/subheader-2-sn.jpg);}
+.de-navbar-left.de_light.page-about #subheader{background-image:url(../images/background/subheader-3-sn.jpg);}
+.de-navbar-left.de_light.page-blog #subheader{background-image:url(../images/background/subheader-4-sn.jpg);}
+.de-navbar-left.de_light.page-shop #subheader{background-image:url(../images/background/subheader-5-sn.jpg);}
+.de-navbar-left.de_light.page-contact #subheader{background-image:url(../images/background/subheader-6-sn.jpg);}
+
+.bg-fit-height{
+	-webkit-background-size: auto 100% !important;
+	-moz-background-size: auto 100% !important;
+	-o-background-size: auto 100% !important;
+	background-size: auto 100% !important;
+	background-attachment:scroll !important;
+}
+
+/* media query */
+@media only screen and (max-width: 767px) {
+	section{
+	-webkit-background-size: auto 100% !important;
+	-moz-background-size: auto 100% !important;
+	-o-background-size: auto 100% !important;
+	background-size: auto 100% !important;
+	background-attachment:scroll !important;
+	background-position:top !important;
+	}
+}
+
+	
