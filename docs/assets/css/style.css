@@ -7501,3 +7501,16 @@ display:table;
 		display:none;
 	}
 	}
+
+	.logo-wrapper {
+ height:200px;
+ display:flex;
+ flex-direction:column;
+ justify-content:center;
+ text-align:center;
+ border:solid 1px #eee;
+}
+.logo-wrapper img {
+ max-height:100px;
+ max-width:100%;
+}
