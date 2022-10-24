@@ -1,0 +1,66 @@
+
+- speaker: Alex Casalboni
+  language: English
+  title: Keynote 1
+  time: 11:00 - 11:15 am
+  image: alex-casalboni.jpg
+- speaker: Ahmad Gouda
+  language: Arabic
+  title: Keynote 2
+  time: 11:20 - 11:35 am
+  image: ahmedGouda.jpg
+  custom-css-class: bg
+- speaker: Matt Foley
+  language: English
+  title: Making the Cloud EPYC AMD-based instances in AWS
+  time: 11:40 - 12-10 pm 
+  image: matt.jpg
+- speaker: Fatema Al Mannaei
+  language: English
+  title: CI/CD in Action
+  time: 12:15 - 12:45 pm
+  image: fatema.jpg
+- speaker: Nicolas El Khoury
+  language: English
+  title: Designing a Scalable and Highly Available Infrastructure for Microservices on AWS
+  time: 12:50 - 01:20 pm 
+  image: NicolasElKhoury.jpg     
+- speaker: Diaa Radwan
+  language: Arabic
+  title: Database Migration
+  time: 01:25 - 01:55
+  image: DiaaRadwan.jpg
+  custom-css-class: bg   
+- speaker: Ahmed Samir
+  language: Arabic
+  title: .Net On AWS
+  time: 02:00 - 02:30
+  image: ahmedSamir.jpg    
+- speaker: Ahmed Metwally
+  language: Arabic
+  title: Lambda .. Think serverless
+  time: 02:35 - 03:05 pm 
+  image: AhmedMetwally.jpg
+  custom-css-class: bg    
+- speaker:  Ouadie Lahdioui
+  language: French
+  title: Build your first voice app with Alexa
+  time: 03:10 - 03:40 pm 
+  image: ouadieLahdioui.jpg  
+- speaker: Ahmed AbuGharbia
+  language: English
+  title: Security Elevated
+  time: 03:45 - 04:15 pm 
+  image: AhmedAbuGharbia.jpg
+  custom-css-class: bg
+- speaker: Walid Shaari
+  language: Arabic
+  title: الحوسبة الهجينة الحرة, تمكين التطبيقات الحديثة في كل مكان
+  time: 04:20 - 04:50 pm 
+  image: walidShaari.jpg  
+- speaker: Anas Khattar
+  language: English
+  title: Building Your MVP on AWS :)
+  time: 04:55 - 05:25 pm 
+  image: anasKhatar.jpg
+  custom-css-class: bg  

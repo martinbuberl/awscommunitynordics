@@ -1,0 +1,106 @@
+- speaker: Ahmed Raafat
+  language: Arabic
+  title: AI/ML on AWS
+  time: 07:00 - 07:30 am  
+  image: ahmedRaafat.jpg
+  custom-css-class: bg   
+- speaker: Ali El Kontar
+  language: English
+  title: Serverless SaaS
+  time: 07:35 - 08:05 am 
+  image: AliElKontar.jpg  
+- speaker: Faroua Moussa
+  language: Arabic
+  title: DevOps on AWS, Getting Started
+  time: 08:10 - 08:40 am 
+  image: farouq.jpg
+  custom-css-class: bg  
+- speaker: Bassel Al Anan
+  language: English
+  title: From Cloudformation to Marketplace
+  time: 08:45 - 09:15 am 
+  image: bassel.jpg      
+- speaker: Fahd Mannaa
+  language: English
+  title: AWS WAF Auto protect against crawlers and bots
+  time: 09:20 - 09:50 am  
+  image: Fahd.jpg     
+  custom-css-class: bg
+- title: Break 1
+  time: 09:55 - 10:15 pm 
+  image: coffee-avatar.png
+- speaker: Mohammed Yahya
+  language: English
+  title: Terraform CICD Best Practices using AWS Developer Tools
+  time: 10:15 - 10:45 am 
+  image: mohammed-yahya.jpg 
+  custom-css-class: bg
+- speaker: Ghassan Matni
+  language: English
+  title: Security Shared Model
+  time: 10:50 - 11:20 am 
+  image: GhassanMetni.jpg  
+- speaker: Sherif Talaat
+  language: English
+  title: "Bring your own Identity Provider: Microsoft AD on AWS"
+  time: 11:25 - 11:55 am 
+  image: SherifTalaat.jpg   
+  custom-css-class: bg
+- speaker: Mohammed Buallay
+  language: English
+  title: AI Systems end to end on AWS
+  time: 12:00 - 12:30 pm 
+  image: MohammedBuallay.jpg
+- title: Break 2
+  time: 12:35 - 12:50 pm 
+  image: coffee-avatar.png
+  custom-css-class: bg    
+- speaker: Joe Scholz
+  language: English
+  title: At the Crossroads of Agile and Automation
+  time: 12:50 - 01:20 pm 
+  image: JoseScholz.jpg   
+- speaker: Gunnar Grosch
+  language: English
+  title: Continuous verification for serverless applications
+  time: 01:25 - 01:55 pm 
+  image: GunnarGrosch.png
+  custom-css-class: bg
+- speaker: Nabil Ben Nasrallah
+  language: French
+  title: FinOps on AWS Cloud
+  time: 02:00 - 02:30 pm 
+  image: nabilBenNasrallah.jpg 
+- speaker: Moataz Nabil
+  language: English
+  title: Getting started with AWS Device Farm and Selenium WebDriver
+  time: 02:35 - 03:05 pm 
+  image: Moataz_Nabil.png   
+  custom-css-class: bg
+- title: Break 3
+  time: 03:10 - 03:30 pm 
+  image: coffee-avatar.png
+- speaker: Mahmoud Saada
+  language: English
+  title: GitOps on AWS Codifying multi-cloud operations
+  time: 03:30 - 04:00 pm 
+  image: mahmoudsaada.jpg
+  custom-css-class: bg  
+- speaker: Ahmed Shendy
+  language: Arabic
+  title: How to select the right EBS
+  time: 04:05 - 04:35 pm 
+  image: AhmedShendi.jpg
+  custom-css-class: bg    
+- speaker: Renaldi Gondosubroto
+  language: English
+  title: "Small Leap for Developer, Giant Leap for Security - Why DevSecOps is More Important than Ever and How It's Done"
+  time: 04:40 - 05:10 pm 
+  image: RenaldiGondosubroto.png
+  custom-css-class: bg    
+- speaker: AWS Community MENA Organizers
+  language: English
+  title: Closing ceremony
+  time: 05:10 - 05:20 pm 
+  image: closing.png 
+  custom-css-class: bg  

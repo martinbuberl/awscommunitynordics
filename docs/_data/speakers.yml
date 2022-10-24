@@ -1,0 +1,147 @@
+- name: Alex Casalboni
+  socialMediaLink: https://twitter.com/alex_casalboni
+  socialMediaAlias: alex_casalboni
+  role: Developer Advocate
+  company: AWS
+  image: alex-casalboni.jpg
+- name: Ahmed M.Raafat
+  socialMediaLink: https://www.linkedin.com/in/ahmed-m-raafat-a6829417
+  socialMediaAlias: ahmed-m-raafat-a6829417
+  role: Solutions Architect
+  company: AWS  
+  image: ahmedRaafat.jpg
+- name: Ahmed Gouda
+  socialMediaLink: https://twitter.com/askgouda
+  socialMediaAlias: askgouda
+  role: Solutions Architect
+  company: AWS
+  image: ahmedGouda.jpg
+- name: Diaa Radwan
+  socialMediaLink: https://twitter.com/diaaradwan
+  socialMediaAlias: diaaradwan
+  role: EMEA Database Specialist
+  company: AWS
+  image: DiaaRadwan.jpg
+- name: Matt Foley
+  socialMediaLink: https://www.linkedin.com/in/mattdfoley/
+  socialMediaAlias: mattdfoley
+  role: Director, EMEA Field Application Engineering
+  company: AMD
+  image: matt.jpg
+- name: Gunnar Grosch
+  socialMediaLink: https://twitter.com/GunnarGrosch
+  socialMediaAlias: GunnarGrosch
+  role: AWS Serverless Hero
+  image: GunnarGrosch.png
+- name: Fatema Al Mannaei
+  socialMediaLink: https://www.linkedin.com/in/fatema-almannaei/
+  socialMediaAlias: fatema-almannaei
+  role: Cloud Applications Specialist
+  image: fatema.jpg
+- name: Anas Khattar
+  socialMediaLink: https://twitter.com/anaskhattar
+  socialMediaAlias: anaskhattar
+  role: Solution Architect
+  image: anasKhatar.jpg
+- name: Nabil Ben Nasrallah
+  socialMediaLink: https://www.linkedin.com/in/nabil-ben-nasrallah-b4570153/
+  socialMediaAlias: nabil-ben-nasrallah-b4570153
+  role: Foundation Member at FinOps
+  image: nabilBenNasrallah.jpg       
+- name: Ahmed Samir
+  socialMediaLink: https://www.linkedin.com/in/aseldesouky/
+  socialMediaAlias: aseldesouky
+  role: Solutions Architect & Communities Builder
+  image: ahmedSamir.jpg    
+- name: Ahmed Metwally
+  socialMediaLink: https://www.linkedin.com/in/metwally/
+  socialMediaAlias: metwally
+  role: Solution Architect
+  image: AhmedMetwally.jpg
+- name: Walid Shaari
+  socialMediaLink: https://www.linkedin.com/in/walidshaari/
+  socialMediaAlias: walidshaari
+  role: Cloud-Native Janitor
+  image: walidShaari.jpg
+- name: Ahmed AbuGharbia
+  socialMediaLink: https://www.linkedin.com/in/ahmadabugharbieh/
+  socialMediaAlias: ahmadabugharbieh
+  role: Security professional
+  image: AhmedAbuGharbia.jpg
+- name: Ali El Kontar
+  socialMediaLink: https://www.linkedin.com/in/akontar/
+  socialMediaAlias: akontar
+  role: Founder & CEO at Zero & One
+  image: AliElKontar.jpg
+- name:  Ouadie Lahdioui
+  socialMediaLink: https://twitter.com/lahdiouiouadie
+  socialMediaAlias: lahdiouiouadie
+  role: Solution Architect
+  image: ouadieLahdioui.jpg      
+- name: Faroua Moussa
+  socialMediaLink: https://www.linkedin.com/in/farouqmousa/
+  socialMediaAlias: farouqmousa
+  role: AWS Solutions Architect
+  image: farouq.jpg
+- name: Bassel Al Anan
+  socialMediaLink: https://www.linkedin.com/in/bassel-al-annan-a3a82365/
+  socialMediaAlias: bassel-al-annan-a3a82365
+  role: Lead DevOps Engineer
+  company: Zero & One
+  image: bassel.jpg      
+- name: Fahd Mannaa
+  socialMediaLink: https://www.linkedin.com/in/fahd-mannaa-6a431816/
+  socialMediaAlias: fahd-mannaa-6a431816
+  role: AWS Architect
+  image: Fahd.jpg     
+- name: Fayssal Saoudi
+  socialMediaLink: https://www.linkedin.com/in/fsaoudi/
+  socialMediaAlias: fsaoudi
+  role: 
+  image: FayssalSAOUDI.jpg
+- name: Ghassan Matni
+  socialMediaLink: https://www.linkedin.com/in/ghassan-metni-792b3187/
+  socialMediaAlias: ghassan-metni-792b3187
+  role: Cloud Expert at kloudr
+  image: GhassanMetni.jpg
+- name: Sherif Talaat
+  socialMediaLink: https://www.linkedin.com/in/sheriftalaat/
+  socialMediaAlias: sheriftalaat
+  role: Solutions Architect at Amazon Web Services 
+  image: SherifTalaat.jpg 
+- name: Mohmed Buallay
+  socialMediaLink: https://www.linkedin.com/in/mohammed-buallay-691b23152/
+  socialMediaAlias: mohammed-buallay-691b23152
+  role: Analyst
+  company: Tamkeen
+  image: MohammedBuallay.jpg
+- name: Joe Scholz
+  socialMediaLink: https://www.linkedin.com/in/agilejoe/
+  socialMediaAlias: agilejoe
+  role: Agile Delivery Lead
+  image: JoseScholz.jpg
+- name: Nicolas El Khoury
+  socialMediaLink: https://nicolaselkhoury.com
+  socialMediaAlias: nicolas-el-khoury
+  role: Cloud Solutions Architect
+  image: NicolasElKhoury.jpg
+- name: Moataz Nabil
+  socialMediaLink: https://www.linkedin.com/in/moataz-nabil/
+  socialMediaAlias: moataz-nabil
+  role: Senior Test Automation Engineer
+  image: Moataz_Nabil.png 
+- name: Mahmoud Saada
+  socialMediaLink: https://twitter.com/saadazzz
+  socialMediaAlias: saadazzz
+  role: Customer Reliability Engineer 
+  image: mahmoudsaada.jpg
+- name: Ahmed Shendy
+  socialMediaLink: https://www.linkedin.com/in/ahmed-shendy/
+  socialMediaAlias: ahmed-shendy
+  role: Senior DevOps Engineer
+  image: AhmedShendi.jpg  
+- name: Renaldi Gondosubroto
+  socialMediaLink: https://www.linkedin.com/in/renaldigondosubroto/
+  socialMediaAlias: renaldigondosubroto
+  role: Founder and Project Leader of GReS Studio
+  image: RenaldiGondosubroto.png
