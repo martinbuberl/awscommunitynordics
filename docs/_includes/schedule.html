@@ -37,76 +37,7 @@
       <!-- col end-->
     </div>
 
-    <div class="row" id="schedule-day-1">
-      <div class="col-md-12">
-
-        <div class="schedule-tab">
-
-          <div class="tab-content">
-            <div class="tab-pane animated fadeInRight active" id="tab_one">
-              
-              {% for talk in site.data.talks_days_1 %}
-              <div class="schedule-listing {{talk.custom-css-class}}">
-                <span class="schedule-slot-time">{{talk.time}} UTC</span>
-                <div class="schedule-slot-info">
-                  <a href="#">
-                    <img class="schedule-slot-speakers" src="content/img/speakers/{{talk.image}}" alt="">
-                  </a>
-                  <div class="schedule-slot-info-content">
-                    <h3 class="schedule-slot-speaker-name">{{talk.language}}</h3>
-                    <h4 class="schedule-slot-title">{{talk.title}}</h4>
-                    <p class="schedule-slot-desc">
-                      {% if talk.speaker %}
-                        By {{talk.speaker}}
-                      {% endif %}
-                    </p>
-                  </div><!--Info content end -->
-                </div><!-- Slot info end -->
-              </div><!-- Slot listing 2 end -->
-              {% endfor %}
-
-            </div><!-- Tab pane 1 end -->
-
-          </div><!-- tab content -->
-
-        </div><!-- Schedule tab end -->
-      </div><!-- Col end -->
-    </div>
-
-    <div class="row" id="schedule-day-2">
-      <div class="col-md-12">
-
-        <div class="schedule-tab">
-
-          <div class="tab-content">
-            <div class="tab-pane animated fadeInRight active" id="tab_one">
-              
-              {% for talk in site.data.talks_days_2 %}
-              <div class="schedule-listing {{talk.custom-css-class}}">
-                <span class="schedule-slot-time">{{talk.time}} UTC</span>
-                <div class="schedule-slot-info">
-                  <a href="#">
-                    <img class="schedule-slot-speakers" src="content/img/speakers/{{talk.image}}" alt="">
-                  </a>
-                  <div class="schedule-slot-info-content">
-                    <h3 class="schedule-slot-speaker-name">{{talk.language}}</h3>
-                    <h4 class="schedule-slot-title">{{talk.title}}</h4>
-                    <p class="schedule-slot-desc">
-                      {% if talk.speaker %}
-                        By {{talk.speaker}}
-                      {% endif %}
-                    </p>
-                  </div><!--Info content end -->
-                </div><!-- Slot info end -->
-              </div><!-- Slot listing 2 end -->
-              {% endfor %}
-
-            </div><!-- Tab pane 1 end -->
-
-          </div><!-- tab content -->
-        </div><!-- Schedule tab end -->
-      </div><!-- Col end -->
-    </div>
+  
 
   </div><!-- container end-->
 
