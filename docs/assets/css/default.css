@@ -984,7 +984,17 @@ img.communityday-sponsor-small {
     max-width: 100%;
     position: relative;
     overflow: hidden;
+    
 }
+
+/* media query for intro-video */
+@media (max-width: 767px) {
+    .intro-video {
+        margin-bottom: 30px;
+    }
+}
+
+
 .video-icon {
     text-align: center;
     color: #fff;
