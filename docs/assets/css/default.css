@@ -82,6 +82,13 @@ html {
 .carousel-item.communityday #communityday-logo {
     height: 60px;
 }
+
+.banner-main h1 {
+    font-size: 3rem;
+    font-weight: 800;
+    margin-bottom: 1.5rem;
+}
+
 }
 @media (min-width: 576px) {
 .carousel-item.communityday #communityday-logo {
@@ -182,6 +189,7 @@ img.communityday-sponsor-small {
     margin-right: 18px;
     padding: 35px 0;
     position: relative;
+    margin:5px;
 }
 
 .countdown .counter-item i {
