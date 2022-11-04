@@ -1270,6 +1270,7 @@ img.communityday-sponsor-small {
 
 .info-list {
     list-style: none;
+    display: -webkit-inline-flex;
 }
 
 .info-list li {
@@ -1527,6 +1528,19 @@ img.communityday-sponsor-small {
 }
 
 @media only screen and (min-width: 360px) and (max-width: 480px) {
+    .footer-pad {
+        padding-inline-start: 1px; 
+    }
+
+    .footer-menu ul li a {
+        color: white;
+        margin: 0 14px;
+        position: relative; }
+
+    .info-list {
+        list-style: none;
+        display: block !important;
+    }
     .ts-intro {
         padding-bottom: 1rem !important;
         padding-top: 5rem;
