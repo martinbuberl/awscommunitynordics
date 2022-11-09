@@ -1527,6 +1527,10 @@ img.communityday-sponsor-small {
     animation-delay: 400ms;
 }
 
+
+.footer-pad {
+    padding-inline-start: 1px; 
+}
 @media only screen and (min-width: 360px) and (max-width: 480px) {
     .footer-pad {
         padding-inline-start: 1px; 
