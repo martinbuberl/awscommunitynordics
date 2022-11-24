@@ -600,9 +600,10 @@ img.communityday-sponsor-small {
 .schedule-listing {
     padding: 25px 40px;
     border: 1px solid #ddd;
-    margin-bottom: 5px;
+    margin-bottom: 25px;
     position: relative;
     border-radius: 5px;
+    box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
 }
 .schedule-listing.bg {
     background: #f5f5f5;
@@ -613,7 +614,7 @@ img.communityday-sponsor-small {
     font-weight: 700;
 }
 .schedule-slot-info {
-    width: 80%;
+    width: 90%;
     display: inline-block;
 }
 .schedule-slot-speakers {
@@ -638,8 +639,14 @@ img.communityday-sponsor-small {
 }
 .schedule-slot-title {
     margin: 5px 0;
-    font-size: 20px;
+    font-size: 17px;
 }
+
+.schedule-slot-timings {
+    margin: 5px 0;
+    font-size: 14px;
+}
+
 
 /*==========================
      ts speaker
