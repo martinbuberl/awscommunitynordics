@@ -23,8 +23,7 @@
         <div class="ts-schedule-nav">
           <ul class="nav nav-tabs justify-content-center" role="tablist">
             <li class="nav-item">
-              <a class="" id="schedule-day-1-btn" title="10th December" 
-                aria-selected="false">
+              <a class="" id="schedule-day-1-btn" title="10th December" aria-selected="false">
                 <h3>10th December</h3>
                 <span>Saturday</span>
               </a>
@@ -36,6 +35,55 @@
       <!-- col end-->
     </div>
 
+    <div class="row" id="schedule-day-1">
+
+
+      <div class="col-lg-12 text-center">
+        <h4 class="schdule-col-title"  > Keynote </h4>
+      </div>
+
+
+      {% for talk in site.data.opening_keynote %}
+      <div class="col-md-12">
+        
+
+        <div class="schedule-tab">
+
+          <div class="tab-content">
+            <div class="tab-pane animated fadeInRight active" id="tab_one">
+              
+             
+              <div class="schedule-listing-key {{talk.custom-css-class}}">
+                <span class="schedule-slot-time-key">{{talk.time}} GST</span>
+                <div class="schedule-slot-info">
+                  <a href="#">
+                    <img class="schedule-slot-speakers" src="/content/img/speakers/{{talk.image}}" alt="">
+                  </a>
+                  <div class="schedule-slot-info-content">
+                    <!-- <h3 class="schedule-slot-speaker-name">{{talk.language}}</h3> -->
+                    <h4 class="schedule-slot-title ">{{talk.title}}</h4>
+                    <p class="schedule-slot-desc">
+                      {% if talk.speaker %}
+                        By {{talk.speaker}}
+                      {% endif %}
+                    </p>
+                  </div><!--Info content end -->
+                </div><!-- Slot info end -->
+              </div><!-- Slot listing 2 end -->
+            
+
+            </div><!-- Tab pane 1 end -->
+
+          </div><!-- tab content -->
+
+        </div><!-- Schedule tab end -->
+
+      </div>
+      {% endfor %}
+
+
+    </div>
+
 
     <div class="row" id="schedule-day-1">
       <div class="col-md-4">
@@ -44,7 +92,7 @@
         <div class="schedule-tab">
           <!-- <h4> Conference Room A </h4> -->
           <div class="text-center">
-            <h4> Conference Room A  </h4>
+            <h4 class="schdule-col-title" > Conference Room A </h4>
           </div>
           <div class="tab-content">
             <div class="tab-pane animated fadeInRight active" id="tab_one">
@@ -58,12 +106,12 @@
                   </a>
                   <div class="schedule-slot-info-content">
                     <!-- <h3 class="schedule-slot-speaker-name"> {{talk.time}} UTC </h3> -->
-                    <h3 class="schedule-slot-speaker-name">{{talk.language}}</h3>
+                    <!-- <h3 class="schedule-slot-speaker-name">{{talk.language}}</h3> -->
                     <h4 class="schedule-slot-timings"> {{talk.time}} GST </h4>
-                    <h4 class="schedule-slot-title">{{talk.title}}</h4>
+                    <h4 class="schedule-slot-title {{talk.font-css-class}}">{{talk.title}}</h4>
                     <p class="schedule-slot-desc">
                       {% if talk.speaker %}
-                     
+
                       By {{talk.speaker}}
                       {% endif %}
                     </p>
@@ -85,10 +133,10 @@
 
 
         <div class="schedule-tab">
-        
+
 
           <div class="text-center">
-            <h4> Conference Room B  </h4>
+            <h4 class="schdule-col-title" > Conference Room B </h4>
           </div>
 
           <div class="tab-content">
@@ -103,12 +151,12 @@
                   </a>
                   <div class="schedule-slot-info-content">
                     <!-- <h3 class="schedule-slot-speaker-name"> {{talk.time}} UTC </h3> -->
-                    <h3 class="schedule-slot-speaker-name">{{talk.language}}</h3>
+                    <!-- <h3 class="schedule-slot-speaker-name">{{talk.language}}</h3> -->
                     <h4 class="schedule-slot-timings"> {{talk.time}} GST </h4>
-                    <h4 class="schedule-slot-title">{{talk.title}}</h4>
+                    <h4 class="schedule-slot-title {{talk.font-css-class}}">{{talk.title}}</h4>
                     <p class="schedule-slot-desc">
                       {% if talk.speaker %}
-                     
+
                       By {{talk.speaker}}
                       {% endif %}
                     </p>
@@ -126,15 +174,15 @@
       </div>
 
 
-      
+
       <div class="col-md-4">
 
 
         <div class="schedule-tab">
           <div class="text-center">
-            <h4> Workshops </h4>
+            <h4 class="schdule-col-title" > Workshops </h4>
           </div>
-          
+
           <div class="tab-content">
             <div class="tab-pane animated fadeInRight active" id="tab_one">
 
@@ -147,12 +195,12 @@
                   </a>
                   <div class="schedule-slot-info-content">
                     <!-- <h3 class="schedule-slot-speaker-name"> {{talk.time}} UTC </h3> -->
-                    <h3 class="schedule-slot-speaker-name">{{talk.language}}</h3>
+                    <!-- <h3 class="schedule-slot-speaker-name">{{talk.language}}</h3> -->
                     <h4 class="schedule-slot-timings"> {{talk.time}} GST </h4>
-                    <h4 class="schedule-slot-title">{{talk.title}}</h4>
+                    <h4 class="schedule-slot-title {{talk.font-css-class}}">{{talk.title}}</h4>
                     <p class="schedule-slot-desc">
                       {% if talk.speaker %}
-                     
+
                       By {{talk.speaker}}
                       {% endif %}
                     </p>
@@ -168,8 +216,18 @@
 
         </div><!-- Schedule tab end -->
       </div>
-      
 
+
+    </div>
+
+
+    <div class="row" id="schedule-day-1">
+
+      <div class="col-lg-12 text-center">
+        <div class="schedule-listing bg">
+          <h4> Final Talk and  Thanking note 4:30 - 5:00 PM GST </h4>
+        </div>
+      </div>
     </div>
 
 

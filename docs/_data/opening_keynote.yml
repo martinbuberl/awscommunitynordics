@@ -1,0 +1,19 @@
+- speaker: Maria Encinar and Mohammed Fazlullah
+  language: English
+  title: Introduction & KeyNote
+  time: 10:00 - 10:35 am
+  image: default-avatar.png
+  custom-css-class: bg
+- speaker: TBD
+  language: English
+  title: Sponsor Talk
+  time: 10:35 - 11:05 am
+  image: default-avatar.png
+  custom-css-class: bg
+- speaker: Maria Encinar, Mohammed Fazlullah, Mark Birch
+  language: English
+  title: Panel Discussion
+  time: 10:35 - 11:05 am
+  image: default-avatar.png
+  custom-css-class: bg
+  
