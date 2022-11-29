@@ -4,11 +4,11 @@
   title: A startups journey through Aurora
   time: 12:00 - 12:45 pm
   image: default-avatar.png
-- speaker: Nicolas El Khoury
+- speaker: Anas Khattar
   language: English
-  title: Microservices Architecture and Devops Best Practices On AWS
+  title: Databases Of The Future
   time: 12:45 - 1:30 pm
-  image: default-avatar.png
+  image: anasKhatar.jpg
   custom-css-class: bg
 - speaker: Hussain Mansoor
   language: English
