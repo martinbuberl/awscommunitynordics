@@ -665,6 +665,11 @@ img.communityday-sponsor-small {
     font-weight: bold;
 }
 
+.wrkshpCard{
+    width: 21rem;
+    margin-bottom: 2rem;
+}
+
 .sm-fnt {
     font-size: 13px;
 }
@@ -1575,6 +1580,13 @@ img.communityday-sponsor-small {
     padding-inline-start: 1px; 
 }
 @media only screen and (min-width: 360px) and (max-width: 480px) {
+
+    .wrkshpCard{
+        width: auto !important;
+        margin-bottom: 2rem;
+    }
+
+
     .footer-pad {
         padding-inline-start: 1px; 
     }
