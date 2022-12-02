@@ -597,7 +597,20 @@ img.communityday-sponsor-small {
     color: #ee163a;
     text-align: center;
 }
+
+.schedule-listing-closing {
+    padding: 25px 40px;
+    border: 1px solid #ddd;
+    margin-bottom: 25px;
+    position: relative;
+    border-radius: 5px;
+    box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
+}
+
+
 .schedule-listing {
+
+    height: 220px;
     padding: 25px 40px;
     border: 1px solid #ddd;
     margin-bottom: 25px;
