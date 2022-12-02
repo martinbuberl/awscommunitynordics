@@ -1600,6 +1600,16 @@ img.communityday-sponsor-small {
 }
 @media only screen and (min-width: 360px) and (max-width: 480px) {
 
+    /* .schedule-slot-info {
+        width: 75%;
+        display: inline-block;
+    } */
+
+    .schedule-slot-time-key {
+        width: 35%;
+        float: left;
+        font-weight: 700;   
+    }
     .schedule-listing {
         height: auto !important;
         padding: 25px 40px;

@@ -4,22 +4,23 @@
   title: Amazon EC2 Instance Connect with SSM (Highly Available Bastion)
   time: 12:00 - 12:45 pm
   image: Aziz.jpeg
-  
+  linked-url: https://linkedin.com/in/azizzoaib786/
 - speaker: Adnan Mansuri
   language: English
   title: Organization wide landing zone and Cloud Security ServiTalkces
   time: 12:45 - 1:30 pm
   image: adnan_photo.jpg
   custom-css-class: bg
-  
+  linked-url: https://www.linkedin.com/in/adnanmansuri/
 - speaker: Khaled Farah
   language: English
   title: What the WAF- Scalable, Multi account, Automated Security using WAF
   time: 2:30 - 3:15 pm 
   image: khaled.png
-  
+  linked-url: https://www.linkedin.com/in/khaledfarah/
 - speaker: Mohammad Arshad
   language: English
   title: Building ML using AWS Sagemaker
   time: 3:15 - 4:00 pm
   image: mohammad_arshad.jpg
+  linked-url: https://www.linkedin.com/in/mdarshad/

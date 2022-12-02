@@ -128,7 +128,7 @@
                       {{talk.title}}
                     </h4>
                     <p class="schedule-slot-desc">
-                      {% if talk.speaker %} By {{talk.speaker}} {% endif %}
+                      {% if talk.speaker %} By    <a href="{{talk.linked-url}}" target="_blank">{{talk.speaker}}</a>       {% endif %}
                     </p>
                   </div>
                   <!--Info content end -->
@@ -173,7 +173,7 @@
                       {{talk.title}}
                     </h4>
                     <p class="schedule-slot-desc">
-                      {% if talk.speaker %} By {{talk.speaker}} {% endif %}
+                      {% if talk.speaker %} By  <a href="{{talk.linked-url}}" target="_blank">{{talk.speaker}}</a>   {% endif %}
                     </p>
                   </div>
                   <!--Info content end -->
