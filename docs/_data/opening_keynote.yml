@@ -2,18 +2,18 @@
   language: English
   title: Introduction & KeyNote
   time: 10:00 - 10:35 am
-  image: default-avatar.png
+  image: awsGrayLogo.jpg
   custom-css-class: bg
-- speaker: TBD
+- speaker: SUDO,CoreStack,ISOVALENT
   language: English
   title: Sponsor Talk
   time: 10:35 - 11:05 am
-  image: default-avatar.png
+  image: awsGrayLogo.jpg
   custom-css-class: bg
 - speaker: Maria Encinar, Mohammed Fazlullah, Mark Birch
   language: English
   title: Panel Discussion
   time: 10:35 - 11:05 am
-  image: default-avatar.png
+  image: awsGrayLogo.jpg
   custom-css-class: bg
   
