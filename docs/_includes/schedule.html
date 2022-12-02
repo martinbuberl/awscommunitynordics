@@ -2,28 +2,42 @@
 
 <section id="schedule" class="ts-schedule">
   <div class="container">
-
     <div class="row">
       <div class="col-lg-8 mx-auto">
         <h2 class="section-title white text-center">
           <span>DON'T MISS A TOPIC</span>
           Event Schedule
           <br />
-          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="71px" height="11px">
-            <path fill-rule="evenodd"
-              d="M59.669,10.710 L49.164,3.306 L39.428,10.681 L29.714,3.322 L20.006,10.682 L10.295,3.322 L1.185,10.228 L-0.010,8.578 L10.295,0.765 L20.006,8.125 L29.714,0.765 L39.428,8.125 L49.122,0.781 L59.680,8.223 L69.858,1.192 L70.982,2.895 L59.669,10.710 Z">
-            </path>
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink"
+            width="71px"
+            height="11px"
+          >
+            <path
+              fill-rule="evenodd"
+              d="M59.669,10.710 L49.164,3.306 L39.428,10.681 L29.714,3.322 L20.006,10.682 L10.295,3.322 L1.185,10.228 L-0.010,8.578 L10.295,0.765 L20.006,8.125 L29.714,0.765 L39.428,8.125 L49.122,0.781 L59.680,8.223 L69.858,1.192 L70.982,2.895 L59.669,10.710 Z"
+            ></path>
           </svg>
         </h2>
-      </div><!-- col end-->
+      </div>
+      <!-- col end-->
     </div>
+
+ 
+   
 
     <div class="row">
       <div class="col-lg-8 mx-auto">
         <div class="ts-schedule-nav">
           <ul class="nav nav-tabs justify-content-center" role="tablist">
             <li class="nav-item">
-              <a class="" id="schedule-day-1-btn" title="10th December" aria-selected="false">
+              <a
+                class=""
+                id="schedule-day-1-btn"
+                title="10th December"
+                aria-selected="false"
+              >
                 <h3>10th December</h3>
                 <span>Saturday</span>
               </a>
@@ -35,198 +49,193 @@
       <!-- col end-->
     </div>
 
-    <div class="row" id="schedule-day-1">
+
+    <div class="row">
+      <div class="col-lg-8 mx-auto text-center">
 
 
-      <div class="col-lg-12 text-center">
-        <h4 class="schdule-col-title"  > Keynote </h4>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9474.883434987956!2d55.16456131702478!3d25.11466539434834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6b1495a55be1%3A0x5b8e89f8023b5766!2sin5%20Tech!5e0!3m2!1sen!2sae!4v1669966619261!5m2!1sen!2sae" class="mapStyle" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div>
+    </div>
 
+    <div class="row" id="schedule-day-1">
+      <div class="col-lg-12 text-center">
+        <h4 class="schdule-col-title">Keynote</h4>
+      </div>
 
       {% for talk in site.data.opening_keynote %}
       <div class="col-md-12">
-        
-
         <div class="schedule-tab">
-
           <div class="tab-content">
             <div class="tab-pane animated fadeInRight active" id="tab_one">
-              
-             
               <div class="schedule-listing-key {{talk.custom-css-class}}">
                 <span class="schedule-slot-time-key">{{talk.time}} GST</span>
                 <div class="schedule-slot-info">
                   <a href="#">
-                    <img class="schedule-slot-speakers" src="/content/img/speakers/{{talk.image}}" alt="">
+                    <img
+                      class="schedule-slot-speakers"
+                      src="/content/img/speakers/{{talk.image}}"
+                      alt=""
+                    />
                   </a>
                   <div class="schedule-slot-info-content">
                     <!-- <h3 class="schedule-slot-speaker-name">{{talk.language}}</h3> -->
-                    <h4 class="schedule-slot-title ">{{talk.title}}</h4>
+                    <h4 class="schedule-slot-title">{{talk.title}}</h4>
                     <p class="schedule-slot-desc">
-                      {% if talk.speaker %}
-                        By {{talk.speaker}}
-                      {% endif %}
+                      {% if talk.speaker %} By {{talk.speaker}} {% endif %}
                     </p>
-                  </div><!--Info content end -->
-                </div><!-- Slot info end -->
-              </div><!-- Slot listing 2 end -->
-            
-
-            </div><!-- Tab pane 1 end -->
-
-          </div><!-- tab content -->
-
-        </div><!-- Schedule tab end -->
-
+                  </div>
+                  <!--Info content end -->
+                </div>
+                <!-- Slot info end -->
+              </div>
+              <!-- Slot listing 2 end -->
+            </div>
+            <!-- Tab pane 1 end -->
+          </div>
+          <!-- tab content -->
+        </div>
+        <!-- Schedule tab end -->
       </div>
       {% endfor %}
-
-
     </div>
-
 
     <div class="row" id="schedule-day-1">
       <div class="col-md-4">
-
-
         <div class="schedule-tab">
           <!-- <h4> Conference Room A </h4> -->
           <div class="text-center">
-            <h4 class="schdule-col-title" > Conference Room A </h4>
+            <h4 class="schdule-col-title">Conference Room A</h4>
           </div>
           <div class="tab-content">
             <div class="tab-pane animated fadeInRight active" id="tab_one">
-
               {% for talk in site.data.conference1 %}
               <div class="schedule-listing {{talk.custom-css-class}}">
                 <!-- <span class="schedule-slot-time">{{talk.time}} UTC</span> -->
                 <div class="schedule-slot-info">
                   <a href="#">
-                    <img class="schedule-slot-speakers" src="/content/img/speakers/{{talk.image}}" alt="">
+                    <img
+                      class="schedule-slot-speakers"
+                      src="/content/img/speakers/{{talk.image}}"
+                      alt=""
+                    />
                   </a>
                   <div class="schedule-slot-info-content">
                     <!-- <h3 class="schedule-slot-speaker-name"> {{talk.time}} UTC </h3> -->
                     <!-- <h3 class="schedule-slot-speaker-name">{{talk.language}}</h3> -->
-                    <h4 class="schedule-slot-timings"> {{talk.time}} GST </h4>
-                    <h4 class="schedule-slot-title {{talk.font-css-class}}">{{talk.title}}</h4>
+                    <h4 class="schedule-slot-timings">{{talk.time}} GST</h4>
+                    <h4 class="schedule-slot-title {{talk.font-css-class}}">
+                      {{talk.title}}
+                    </h4>
                     <p class="schedule-slot-desc">
-                      {% if talk.speaker %}
-
-                      By {{talk.speaker}}
-                      {% endif %}
+                      {% if talk.speaker %} By {{talk.speaker}} {% endif %}
                     </p>
                   </div>
                   <!--Info content end -->
-                </div><!-- Slot info end -->
-              </div><!-- Slot listing 2 end -->
+                </div>
+                <!-- Slot info end -->
+              </div>
+              <!-- Slot listing 2 end -->
               {% endfor %}
-
-            </div><!-- Tab pane 1 end -->
-
-          </div><!-- tab content -->
-
-        </div><!-- Schedule tab end -->
+            </div>
+            <!-- Tab pane 1 end -->
+          </div>
+          <!-- tab content -->
+        </div>
+        <!-- Schedule tab end -->
       </div>
       <!-- Col end -->
 
       <div class="col-md-4">
-
-
         <div class="schedule-tab">
-
-
           <div class="text-center">
-            <h4 class="schdule-col-title" > Conference Room B </h4>
+            <h4 class="schdule-col-title">Conference Room B</h4>
           </div>
 
           <div class="tab-content">
             <div class="tab-pane animated fadeInRight active" id="tab_one">
-
               {% for talk in site.data.conference2 %}
               <div class="schedule-listing {{talk.custom-css-class}}">
                 <!-- <span class="schedule-slot-time">{{talk.time}} UTC</span> -->
                 <div class="schedule-slot-info">
                   <a href="#">
-                    <img class="schedule-slot-speakers" src="/content/img/speakers/{{talk.image}}" alt="">
+                    <img
+                      class="schedule-slot-speakers"
+                      src="/content/img/speakers/{{talk.image}}"
+                      alt=""
+                    />
                   </a>
                   <div class="schedule-slot-info-content">
                     <!-- <h3 class="schedule-slot-speaker-name"> {{talk.time}} UTC </h3> -->
                     <!-- <h3 class="schedule-slot-speaker-name">{{talk.language}}</h3> -->
-                    <h4 class="schedule-slot-timings"> {{talk.time}} GST </h4>
-                    <h4 class="schedule-slot-title {{talk.font-css-class}}">{{talk.title}}</h4>
+                    <h4 class="schedule-slot-timings">{{talk.time}} GST</h4>
+                    <h4 class="schedule-slot-title {{talk.font-css-class}}">
+                      {{talk.title}}
+                    </h4>
                     <p class="schedule-slot-desc">
-                      {% if talk.speaker %}
-
-                      By {{talk.speaker}}
-                      {% endif %}
+                      {% if talk.speaker %} By {{talk.speaker}} {% endif %}
                     </p>
                   </div>
                   <!--Info content end -->
-                </div><!-- Slot info end -->
-              </div><!-- Slot listing 2 end -->
+                </div>
+                <!-- Slot info end -->
+              </div>
+              <!-- Slot listing 2 end -->
               {% endfor %}
-
-            </div><!-- Tab pane 1 end -->
-
-          </div><!-- tab content -->
-
-        </div><!-- Schedule tab end -->
+            </div>
+            <!-- Tab pane 1 end -->
+          </div>
+          <!-- tab content -->
+        </div>
+        <!-- Schedule tab end -->
       </div>
 
-
-
       <div class="col-md-4">
-
-
         <div class="schedule-tab">
           <div class="text-center">
-            <h4 class="schdule-col-title" > Workshops </h4>
+            <h4 class="schdule-col-title">Workshops</h4>
           </div>
 
           <div class="tab-content">
             <div class="tab-pane animated fadeInRight active" id="tab_one">
-
               {% for talk in site.data.workshops %}
 
               <div class="card {{talk.card-css-class}}">
-                <img src="/content/img/speakers/{{talk.image}}" class="card-img-top" alt="...">
+                <img
+                  src="/content/img/speakers/{{talk.image}}"
+                  class="card-img-top"
+                  alt="..."
+                />
                 <div class="card-body">
-                  <h5 class="card-title schedule-slot-title">{{talk.title}}  </h5>
-                  <p class="card-text ">  
-                    {% if talk.speaker %}
-                    By {{talk.speaker}}
-                    <br/> {{talk.time}} GST 
-                    {% endif %}</p>
+                  <h5 class="card-title schedule-slot-title">{{talk.title}}</h5>
+                  <p class="card-text">
+                    {% if talk.speaker %} By {{talk.speaker}}
+                    <br />
+                    {{talk.time}} GST {% endif %}
+                  </p>
                   <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
                 </div>
               </div>
 
               {% endfor %}
-
-            </div><!-- Tab pane 1 end -->
-
-          </div><!-- tab content -->
-
-        </div><!-- Schedule tab end -->
+            </div>
+            <!-- Tab pane 1 end -->
+          </div>
+          <!-- tab content -->
+        </div>
+        <!-- Schedule tab end -->
       </div>
-
-
     </div>
 
-
     <div class="row" id="schedule-day-1">
-
       <div class="col-lg-12 text-center">
         <div class="schedule-listing bg">
-          <h4> Final Talk and  Thanking note 4:30 - 5:00 PM GST </h4>
+          <h4>Final Talk and Thanking note 4:30 - 5:00 PM GST</h4>
         </div>
       </div>
     </div>
-
-
-  </div><!-- container end-->
-
+  </div>
+  <!-- container end-->
 </section>
-
 
 <!-- Schedule end -->

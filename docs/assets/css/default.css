@@ -1579,8 +1579,19 @@ img.communityday-sponsor-small {
 .footer-pad {
     padding-inline-start: 1px; 
 }
+
+.mapStyle {
+    width: 600px;
+    height: 400px;
+    margin-bottom: 10px;
+}
 @media only screen and (min-width: 360px) and (max-width: 480px) {
 
+    .mapStyle {
+        width: auto;
+        height: 400px;
+        margin-bottom: 10px;
+    }
     .wrkshpCard{
         width: auto !important;
         margin-bottom: 2rem;
