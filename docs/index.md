@@ -10,6 +10,7 @@ permalink: /
 
 {% include schedule.html %}
 {% include sponsors.html %}
+{% include team.html %}
 {% include supporters.html %}
  {% include footer.html %}
 

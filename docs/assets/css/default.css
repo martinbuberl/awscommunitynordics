@@ -597,7 +597,20 @@ img.communityday-sponsor-small {
     color: #ee163a;
     text-align: center;
 }
+
+.schedule-listing-closing {
+    padding: 25px 40px;
+    border: 1px solid #ddd;
+    margin-bottom: 25px;
+    position: relative;
+    border-radius: 5px;
+    box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
+}
+
+
 .schedule-listing {
+
+    height: 220px;
     padding: 25px 40px;
     border: 1px solid #ddd;
     margin-bottom: 25px;
@@ -1579,8 +1592,38 @@ img.communityday-sponsor-small {
 .footer-pad {
     padding-inline-start: 1px; 
 }
+
+.mapStyle {
+    width: 600px;
+    height: 400px;
+    margin-bottom: 10px;
+}
 @media only screen and (min-width: 360px) and (max-width: 480px) {
 
+    /* .schedule-slot-info {
+        width: 75%;
+        display: inline-block;
+    } */
+
+    .schedule-slot-time-key {
+        width: 35%;
+        float: left;
+        font-weight: 700;   
+    }
+    .schedule-listing {
+        height: auto !important;
+        padding: 25px 40px;
+        border: 1px solid #ddd;
+        margin-bottom: 25px;
+        position: relative;
+        border-radius: 5px;
+        box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
+    }
+    .mapStyle {
+        width: auto;
+        height: 400px;
+        margin-bottom: 10px;
+    }
     .wrkshpCard{
         width: auto !important;
         margin-bottom: 2rem;
