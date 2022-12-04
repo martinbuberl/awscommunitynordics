@@ -28,9 +28,9 @@
   time: 11:05 - 11:35 am
   image: awsGrayLogo.jpg
   custom-css-class: bg
-- speaker: Networking & Coffee
+- speaker:
   language: English
-  title: Break
+  title: Networking & Coffee Break
   time: 11:35 - 12:00 am
   image: awsGrayLogo.jpg
   custom-css-class: bg
