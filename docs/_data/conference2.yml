@@ -5,6 +5,7 @@
   time: 12:00 - 12:45 pm
   image: saad.jpeg
   linked-url: https://www.linkedin.com/in/zamansaad/
+  scheduled-on: first-half
 - speaker: Mitesh Patel
   language: English
   title: Serverless for a Worryless System
@@ -12,15 +13,18 @@
   image: mites.jpeg
   custom-css-class: bg
   linked-url: https://www.linkedin.com/in/mitesh-patel-4baaba40/
+  scheduled-on: first-half
 - speaker: Hussain Mansoor
   language: English
   title: Challenges of Enterprises for Cloud Migrations
   time: 2:30 - 3:15 pm 
   image: husyn.jpeg
   linked-url: https://www.linkedin.com/in/husyn/
+  scheduled-on: second-half
 - speaker: Arsalan Syed
   language: English
   title: Cloud Governance Framework (Attributes & Implementation) 
   time: 3:45 - 4:00 pm
   image: arlsan.jpeg
+  scheduled-on: second-half
 

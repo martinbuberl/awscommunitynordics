@@ -82,7 +82,15 @@
                     <!-- <h3 class="schedule-slot-speaker-name">{{talk.language}}</h3> -->
                     <h4 class="schedule-slot-title">{{talk.title}}</h4>
                     <p class="schedule-slot-desc">
-                      {% if talk.speaker %} By {{talk.speaker}} {% endif %}
+                      
+                      {% if talk.speaker %} 
+                      {% if talk.linked-url %} 
+                      By <a href="{{talk.linked-url}}" target="_blank">{{talk.speaker}}</a>
+                      {% endif %}
+                      {% if talk.linked-url == undefined %} 
+                      By {{talk.speaker}}
+                      {% endif %}
+                      {% endif %}
                     </p>
                   </div>
                   <!--Info content end -->
@@ -110,6 +118,9 @@
           <div class="tab-content">
             <div class="tab-pane animated fadeInRight active" id="tab_one">
               {% for talk in site.data.conference1 %}
+
+
+              {% if talk.scheduled-on == 'first-half' %} 
               <div class="schedule-listing {{talk.custom-css-class}}">
                 <!-- <span class="schedule-slot-time">{{talk.time}} UTC</span> -->
                 <div class="schedule-slot-info">
@@ -135,6 +146,9 @@
                 </div>
                 <!-- Slot info end -->
               </div>
+              {% endif %}
+
+
               <!-- Slot listing 2 end -->
               {% endfor %}
             </div>
@@ -155,6 +169,9 @@
           <div class="tab-content">
             <div class="tab-pane animated fadeInRight active" id="tab_one">
               {% for talk in site.data.conference2 %}
+
+                
+              {% if talk.scheduled-on == 'first-half' %} 
               <div class="schedule-listing {{talk.custom-css-class}}">
                 <!-- <span class="schedule-slot-time">{{talk.time}} UTC</span> -->
                 <div class="schedule-slot-info">
@@ -180,6 +197,8 @@
                 </div>
                 <!-- Slot info end -->
               </div>
+              {% endif %}
+
               <!-- Slot listing 2 end -->
               {% endfor %}
             </div>
@@ -199,7 +218,7 @@
           <div class="tab-content">
             <div class="tab-pane animated fadeInRight active" id="tab_one">
               {% for talk in site.data.workshops %}
-
+              {% if talk.scheduled-on == 'first-half' %} 
               <div class="card {{talk.card-css-class}}">
                 <img
                   src="/content/img/speakers/{{talk.image}}"
@@ -216,7 +235,7 @@
                   <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
                 </div>
               </div>
-
+              {% endif %}
               {% endfor %}
             </div>
             <!-- Tab pane 1 end -->
@@ -226,6 +245,164 @@
         <!-- Schedule tab end -->
       </div>
     </div>
+
+
+
+
+
+
+
+    <div class="row" id="schedule-day-1">
+      <div class="col-lg-12 text-center">
+        <div class="schedule-listing-closing bg">
+          <h4>Lunch Break 1:30 - 2:30 PM GST</h4>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="row" id="schedule-day-1">
+      <div class="col-md-4">
+        <div class="schedule-tab">
+          <!-- <h4> Conference Room A </h4> -->
+          <div class="text-center">
+            <h4 class="schdule-col-title">Conference Room A</h4>
+          </div>
+          <div class="tab-content">
+            <div class="tab-pane animated fadeInRight active" id="tab_one">
+              {% for talk in site.data.conference1 %}
+
+
+              {% if talk.scheduled-on == 'second-half' %} 
+              <div class="schedule-listing {{talk.custom-css-class}}">
+                <!-- <span class="schedule-slot-time">{{talk.time}} UTC</span> -->
+                <div class="schedule-slot-info">
+                  <a href="#">
+                    <img
+                      class="schedule-slot-speakers"
+                      src="/content/img/speakers/{{talk.image}}"
+                      alt=""
+                    />
+                  </a>
+                  <div class="schedule-slot-info-content">
+                    <!-- <h3 class="schedule-slot-speaker-name"> {{talk.time}} UTC </h3> -->
+                    <!-- <h3 class="schedule-slot-speaker-name">{{talk.language}}</h3> -->
+                    <h4 class="schedule-slot-timings">{{talk.time}} GST</h4>
+                    <h4 class="schedule-slot-title {{talk.font-css-class}}">
+                      {{talk.title}}
+                    </h4>
+                    <p class="schedule-slot-desc">
+                      {% if talk.speaker %} By    <a href="{{talk.linked-url}}" target="_blank">{{talk.speaker}}</a>       {% endif %}
+                    </p>
+                  </div>
+                  <!--Info content end -->
+                </div>
+                <!-- Slot info end -->
+              </div>
+              {% endif %}
+
+
+              <!-- Slot listing 2 end -->
+              {% endfor %}
+            </div>
+            <!-- Tab pane 1 end -->
+          </div>
+          <!-- tab content -->
+        </div>
+        <!-- Schedule tab end -->
+      </div>
+      <!-- Col end -->
+
+      <div class="col-md-4">
+        <div class="schedule-tab">
+          <div class="text-center">
+            <h4 class="schdule-col-title">Conference Room B</h4>
+          </div>
+
+          <div class="tab-content">
+            <div class="tab-pane animated fadeInRight active" id="tab_one">
+              {% for talk in site.data.conference2 %}
+
+                
+              {% if talk.scheduled-on == 'second-half' %} 
+              <div class="schedule-listing {{talk.custom-css-class}}">
+                <!-- <span class="schedule-slot-time">{{talk.time}} UTC</span> -->
+                <div class="schedule-slot-info">
+                  <a href="#">
+                    <img
+                      class="schedule-slot-speakers"
+                      src="/content/img/speakers/{{talk.image}}"
+                      alt=""
+                    />
+                  </a>
+                  <div class="schedule-slot-info-content">
+                    <!-- <h3 class="schedule-slot-speaker-name"> {{talk.time}} UTC </h3> -->
+                    <!-- <h3 class="schedule-slot-speaker-name">{{talk.language}}</h3> -->
+                    <h4 class="schedule-slot-timings">{{talk.time}} GST</h4>
+                    <h4 class="schedule-slot-title {{talk.font-css-class}}">
+                      {{talk.title}}
+                    </h4>
+                    <p class="schedule-slot-desc">
+                      {% if talk.speaker %} By  <a href="{{talk.linked-url}}" target="_blank">{{talk.speaker}}</a>   {% endif %}
+                    </p>
+                  </div>
+                  <!--Info content end -->
+                </div>
+                <!-- Slot info end -->
+              </div>
+              {% endif %}
+
+              <!-- Slot listing 2 end -->
+              {% endfor %}
+            </div>
+            <!-- Tab pane 1 end -->
+          </div>
+          <!-- tab content -->
+        </div>
+        <!-- Schedule tab end -->
+      </div>
+
+      <div class="col-md-4">
+        <div class="schedule-tab">
+          <div class="text-center">
+            <h4 class="schdule-col-title">Workshops</h4>
+          </div>
+
+          <div class="tab-content">
+            <div class="tab-pane animated fadeInRight active" id="tab_one">
+              {% for talk in site.data.workshops %}
+              {% if talk.scheduled-on == 'second-half' %} 
+              <div class="card {{talk.card-css-class}}">
+                <img
+                  src="/content/img/speakers/{{talk.image}}"
+                  class="card-img-top"
+                  alt="..."
+                />
+                <div class="card-body">
+                  <h5 class="card-title schedule-slot-title">{{talk.title}}</h5>
+                  <p class="card-text">
+                    {% if talk.speaker %} By {{talk.speaker}}
+                    <br />
+                    {{talk.time}} GST {% endif %}
+                  </p>
+                  <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
+                </div>
+              </div>
+              {% endif %}
+              {% endfor %}
+            </div>
+            <!-- Tab pane 1 end -->
+          </div>
+          <!-- tab content -->
+        </div>
+        <!-- Schedule tab end -->
+      </div>
+    </div>
+
+
+
+
+
 
     <div class="row" id="schedule-day-1">
       <div class="col-lg-12 text-center">

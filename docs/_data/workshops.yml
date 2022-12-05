@@ -5,6 +5,7 @@
   time: 12:00 - 1:30 pm
   image: security-testing.png
   card-css-class: wrkshpCard
+  scheduled-on: first-half
 - speaker: TBD
   language: English
   title: TBD
@@ -12,3 +13,4 @@
   image: awsGrayLogo.jpg
   custom-css-class: bg
   card-css-class: wrkshpCard
+  scheduled-on: second-half
