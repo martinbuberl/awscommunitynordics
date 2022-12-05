@@ -6,9 +6,9 @@
   image: security-testing.png
   card-css-class: wrkshpCard
   scheduled-on: first-half
-- speaker: TBD
+- speaker: Hameedullah Khan
   language: English
-  title: TBD
+  title: Demystifying IAM Policy Evaluation for identities and resource
   time: 2:30 - 4:00 pm
   image: awsGrayLogo.jpg
   custom-css-class: bg
