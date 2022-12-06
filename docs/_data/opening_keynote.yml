@@ -10,9 +10,9 @@
   time: 10:00 - 10:15 am
   image: awsGrayLogo.jpg
   custom-css-class: bg
-- speaker: Maria Encinar and Mohammed Fazlullah
+- speaker: Maria Encinar and Mohammed Fazalullah
   language: English
-  title: Introduction & KeyNote
+  title: Introduction & Keynote
   time: 10:15 - 10:35 am
   image: awsGrayLogo.jpg
   custom-css-class: bg
@@ -23,7 +23,7 @@
   image: awsGrayLogo.jpg
   custom-css-class: bg
   linked-url: https://www.linkedin.com/in/hameedullahkhan/
-- speaker: Maria Encinar, Mohammed Fazlullah, Mark Birch
+- speaker: Maria Encinar, Mohammed Fazalullah, Mark Birch
   language: English
   title: Panel Discussion
   time: 11:05 - 11:35 am
@@ -32,6 +32,6 @@
 - speaker:
   language: English
   title: Networking & Coffee Break
-  time: 11:35 - 12:00 am
+  time: 11:35 - 12:00 pm
   image: awsGrayLogo.jpg
   custom-css-class: bg
