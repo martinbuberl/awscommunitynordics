@@ -76,10 +76,10 @@ image: "og-communityday.png"
   <h2 class="mt-4">Contact &amp; Organizers</h2>
   <p>For sponsorship enquires, feedback or any general question, please send an email to <a href="mailto:info@awscommunitynordics.org">info@awscommunitynordics.org</a>.</p>
   <p class="mt-4">
-    <b>Gunnar Grosch</b> - Cloud Evangelist at Opsio <a href="https://twitter.com/gunnargrosch" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/gunnargrosch/" target="_blank"><i class="fab fa-linkedin"></i></a>
+    <b>Rolf Koski</b> - VP of Technology at Knowit <a href="https://twitter.com/therolle" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rolle/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
   <p>
-    <b>Lezgin Bakircioglu</b> - Innovation manager at Daniel Wellington <a href="https://twitter.com/lerra82" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a>
+    <b>Lezgin Bakircioglu</b> - CTO at Qred <a href="https://twitter.com/lerra82" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
   <p>
     Read about AWS Community Day Nordics 2019 in Copenhagen <a href="/communityday/2019/">here</a>
