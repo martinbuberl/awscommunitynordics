@@ -11,7 +11,7 @@ image: "og-communityday.png"
   <div class="container text-center">
     <h1><img src="/content/img/awscommunityday-nordics.png" id="communityday-logo" /></h1>
     <h2 class="display-5 mt-4">Helsinki | Thursday, 20 April 2023</h2>
-    <h2 class="display-5 mt-4"><button class="btn btn-lg btn-primary" type="button" disabled>Registration not opne</button></h2>
+    <h2 class="display-5 mt-4"><button class="btn btn-lg btn-primary" type="button" disabled>Registration not open</button></h2>
   </div>
 </div>
 
