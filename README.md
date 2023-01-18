@@ -10,6 +10,7 @@ Install [Ruby and Bundler](https://help.github.com/articles/setting-up-your-gith
 
 ## Installation
 
+### Install jekyll locally on your computer
 This GitHub Pages site is [configured to be published from the `/docs` folder on the `master` branch](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages#publishing-your-github-pages-site-from-a-docs-folder-on-your-master-branch). Change directory to that folder `cd docs`.
 
 Install Jekyll and other [dependencies](https://pages.github.com/versions/) from the [GitHub Pages](docs/Gemfile) gem:
@@ -28,4 +29,11 @@ To preview the Jekyll site locally run:
 bundle exec jekyll serve
 ```
 
+### Run jekyll via docker
+```
+docker run --rm   --volume="$PWD/docs:/srv/jekyll:Z" --name jekyll -p 127.0.0.1:4000:4000  -it jekyll/jekyll:$JEKYLL_VERSION  jekyll serve -H 0.0.0.0 --draft
+
+```
+
+### When jekyll is running
 Then, load [http://localhost:4000/](http://localhost:4000/) in your browser.
