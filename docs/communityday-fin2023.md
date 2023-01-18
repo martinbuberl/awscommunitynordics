@@ -33,7 +33,7 @@ image: "og-communityday.png"
   <a name="tickets"></a>
   <h2 class="mt-4">Tickets and registration</h2>
   <p>Tickets for AWS Community Day in Helsinki are free. That's right, free! Registration details will become available in February 2023.</p>
-  <h2 class="display-5 mt-4"><button class="btn btn-lg btn-primary" type="button" disabled>Event Ended</button></h2>
+  <h2 class="display-5 mt-4"><button class="btn btn-lg btn-primary" type="button" disabled>Registration not open</button></h2>
   <a name="agenda"></a>
   <h2 class="mt-4">Agenda</h2>
   <p class="mt-4">Agenda to be announced.
@@ -46,13 +46,7 @@ image: "og-communityday.png"
   <a name="sponsors"></a>
   <h2 class="mt-4">Sponsors</h2>
   <div class="row pt-5">
-    <div class="col text-center"><a href="https://aws.amazon.com/" target="_blank"><img src="/content/img/sponsor_aws.png" class="communityday-sponsor-large"></a></div>
-    <div class="col text-center"><a href="https://www.cybercom.com/" target="_blank"><img src="/content/img/sponsor_cybercom.png" class="communityday-sponsor-large"></a></div>
-    <div class="col text-center"><a href="https://www.spotinst.com/" target="_blank"><img src="/content/img/sponsor_spotinst.png" class="communityday-sponsor-large"></a></div>
-  </div>
-  <div class="row pt-5">
-    <div class="col text-center"><a href="https://www.danielwellington.com/" target="_blank"><img src="/content/img/dw_logo.png" class="communityday-sponsor-small"></a></div>
-    <div class="col text-center"><a href="https://www.opsio.se/" target="_blank"><img src="/content/img/opsio_logo.png" class="communityday-sponsor-small"></a></div>
+    <div class="col text-center"><a href="https://www.nordea.com/en" target="_blank"><img src="/content/img/nordea_logo.png" class="communityday-sponsor-large"></a></div>
     <div class="col text-center"><a href="https://www.knowit.se/" target="_blank"><img src="/content/img/knowit_logo.png" class="communityday-sponsor-small"></a></div>
   </div>
 
