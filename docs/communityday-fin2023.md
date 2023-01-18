@@ -2,8 +2,8 @@
 layout: default
 title:  "AWS Community Day Nordics in Stockholm 2020"
 description: "The AWS Community Day is a free full day event for AWS users organized by the Nordic AWS community. In 2020 the event is held in Stockholm."
-navigation: "communityday/2020"
-permalink: /communityday/2020/
+navigation: "communityday"
+permalink: /communityday/
 image: "og-communityday-2020.png"
 ---
 
