@@ -13,8 +13,8 @@ permalink: /
       <div class="container">
         <div class="carousel-caption text-center">
           <h1><img src="/content/img/awscommunityday-nordics.png" id="communityday-logo" /></h1>
-          <h2 class="mt-4">AWS Community Day 2020!</h2>
-          <p>The annual community-led event will be held in Stockholm Friday, 31 January 2020.</p>
+          <h2 class="mt-4">AWS Community Day 2023!</h2>
+          <p>The annual community-led event will be held in Helsinki Thursday, 20 April 2023.</p>
           <p class="mt-4"><a class="btn btn-lg btn-primary" href="/communityday/" role="button">Learn more</a></p>
         </div>
       </div>
