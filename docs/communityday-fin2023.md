@@ -46,7 +46,7 @@ image: "og-communityday.png"
   <a name="sponsors"></a>
   <h2 class="mt-4">Sponsors</h2>
   <div class="row pt-5">
-    <div class="col text-center"><a href="https://www.nordea.com/en" target="_blank"><img src="/content/img/nordea_logo.png" class="communityday-sponsor-large"></a></div>
+    <div class="col text-center"><a href="https://www.nordea.com/en" target="_blank"><img src="/content/img/nordea_logo.png" class="communityday-sponsor-small"></a></div>
     <div class="col text-center"><a href="https://www.knowit.eu/" target="_blank"><img src="/content/img/knowit_logo.png" class="communityday-sponsor-small"></a></div>
   </div>
 
