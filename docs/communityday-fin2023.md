@@ -48,9 +48,11 @@ image: "og-communityday.png"
   <div class="row pt-5">
     <div class="col text-center"><a href="https://www.nordea.com/en" target="_blank"><img src="/content/img/nordea_logo.png" class="communityday-sponsor-small"></a></div>
     <div class="col text-center"><a href="https://www.knowit.eu/" target="_blank"><img src="/content/img/knowit_logo.png" class="communityday-sponsor-small"></a></div>
-    <div class="col text-center"><a href="https://www.nitor.com/" target="_blank"><img src="/content/img/nitor_logo.png" class="communityday-sponsor-small"></a></div>
   </div>
-
+  <div class="row pt-5">
+    <div class="col text-center"><a href="https://www.nitor.com/" target="_blank"><img src="/content/img/nitor_logo.png" class="communityday-sponsor-small"></a></div>
+    <div class="col text-center"><a href="https://almamedia.dev/" target="_blank"><img src="/content/img/alma_code_logo.png" class="communityday-sponsor-small"></a></div>
+  </div>
   <h2 class="mt-4">Keep me updated</h2>
   <p>Stay up to date and receive email notifications when the final agenda is published.</p>
   <!-- Begin Mailchimp Signup Form -->
