@@ -55,26 +55,6 @@ image: "og-communityday.png"
     <div class="col text-center"><a href="https://almamedia.dev/" target="_blank"><img src="/content/img/alma_logo.png" class="communityday-sponsor-small"></a></div>
     <div class="col text-center"><a href="https://www.cloud2.fi/" target="_blank"><img src="/content/img/cloud2_logo.jpg" class="communityday-sponsor-small"></a></div>
   </div>
-  <h2 class="mt-4">Keep me updated</h2>
-  <p>Stay up to date and receive email notifications when the final agenda is published.</p>
-  <!-- Begin Mailchimp Signup Form -->
-  <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
-  <style type="text/css">
-  	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
-  	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
-  	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-  </style>
-  <div id="mc_embed_signup">
-  <form action="https://grosch.us20.list-manage.com/subscribe/post?u=1114ad406bda7841484f011cf&amp;id=96953829bc" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-      <div id="mc_embed_signup_scroll">
-  	
-  	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-      <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_1114ad406bda7841484f011cf_96953829bc" tabindex="-1" value=""></div>
-      <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-      </div>
-  </form>
-  </div>
   
   <!--End mc_embed_signup-->
   <a name="contact"></a>
