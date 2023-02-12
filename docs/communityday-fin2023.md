@@ -11,7 +11,7 @@ image: "og-communityday.png"
   <div class="container text-center">
     <h1><img src="/content/img/awscommunityday-nordics.png" id="communityday-logo" /></h1>
     <h2 class="display-5 mt-4">Helsinki | Thursday, 20 April 2023</h2>
-    <h2 class="display-5 mt-4"><button class="btn btn-lg btn-primary" type="button" disabled>Registration not open</button></h2>
+    <h2 class="display-5 mt-4"><a class="btn btn-lg btn-primary" href="https://www.eventbrite.com/e/aws-community-day-nordics-20th-of-april-2023-helsinki-tickets-536734576567" role="button" >Registration is open</a></h2>
   </div>
 </div>
 
@@ -39,7 +39,7 @@ image: "og-communityday.png"
   <a name="tickets"></a>
   <h2 class="mt-4">Tickets and registration</h2>
   <p>Tickets for AWS Community Day in Helsinki are free. That's right, free! Registration details will become available in February 2023.</p>
-  <h2 class="display-5 mt-4"><button class="btn btn-lg btn-primary" type="button" disabled>Registration not open</button></h2>
+  <h2 class="display-5 mt-4"><a class="btn btn-lg btn-primary" href="https://www.eventbrite.com/e/aws-community-day-nordics-20th-of-april-2023-helsinki-tickets-536734576567" role="button">Registration is open</a></h2>
   <a name="agenda"></a>
   <h2 class="mt-4">Agenda</h2>
   <p class="mt-4">Agenda to be announced.
