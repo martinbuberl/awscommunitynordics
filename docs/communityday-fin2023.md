@@ -75,8 +75,8 @@ image: "og-communityday.png"
   <h2 class="mt-4">Previous events</h2>
   <p>
     Previous AWS COmmunity Day Nordics events
-    <li> 2018 in Helsinki
-    <li> 2019 in <a href="/communityday/2019/">Copenhagen</a>
-    <li> 2020 in <a href="/communityday/2020/">Stockholm</a> 
+    <li> 2018 in Helsinki</li>
+    <li> 2019 in <a href="/communityday/2019/">Copenhagen</a></li>
+    <li> 2020 in <a href="/communityday/2020/">Stockholm</a> </li>
   </p>
 </div>
