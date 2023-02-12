@@ -77,6 +77,14 @@ image: "og-communityday.png"
   <p>
     <b>Antonio Lagrotteria</b> - Principal Architect at Nordea <a href="https://www.linkedin.com/in/lagrotteria/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
+  <h3>Supporting Organizers</h3>
+  <p>
+    <b>Anurag Kale</b><br>
+    <b>Anders Björnestad</b><br>
+    <b>Arne Solheim</b><br>
+    <b>Pekka Malmirae</b><br>
+    <b>Marcus Bladh</b>
+  </p>
   <a name="previous"></a>
   <h2 class="mt-4">Previous events</h2>
   <p>
