@@ -80,6 +80,7 @@ image: "og-communityday.png"
   <a name="contact"></a>
   <h2 class="mt-4">Contact &amp; Organizers</h2>
   <p>For sponsorship enquires, feedback or any general question, please send an email to <a href="mailto:info@awscommunitynordics.org">info@awscommunitynordics.org</a>.</p>
+  <h3>Main Organizers</h3>
   <p class="mt-4">
     <b>Rolf Koski</b> - VP of Technology at Knowit <a href="https://twitter.com/therolle" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rolle/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
@@ -87,6 +88,14 @@ image: "og-communityday.png"
     <b>Lezgin Bakircioglu</b> - CTO at Qred <a href="https://twitter.com/lerra82" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
   <p>
-    Read about AWS Community Day Nordics 2020 in Stockholm <a href="/communityday/2020/">here</a> and 2019 in Copenhagen <a href="/communityday/2019/">here</a>
+    <b>Antoni Lagrotteria</b> - Principal Architect at Nordea <a href="https://www.linkedin.com/in/lagrotteria/" target="_blank"><i class="fab fa-linkedin"></i></a>
+  </p>
+  <a name="previous"></a>
+  <h2 class="mt-4">Previous events</h2>
+  <p>
+    Previous AWS COmmunity Day Nordics events
+    <li> 2018 in Helsinki
+    <li> 2019 in <a href="/communityday/2019/">Copenhagen</a>
+    <li> 2020 in <a href="/communityday/2020/">Stockholm</a> 
   </p>
 </div>
