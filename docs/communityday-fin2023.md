@@ -69,7 +69,7 @@ image: "og-communityday.png"
     <b>Lezgin Bakircioglu</b> - CTO at Qred <a href="https://twitter.com/lerra82" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/lezgin-bakircioglu-2239b93/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
   <p>
-    <b>Antoni Lagrotteria</b> - Principal Architect at Nordea <a href="https://www.linkedin.com/in/lagrotteria/" target="_blank"><i class="fab fa-linkedin"></i></a>
+    <b>Antonio Lagrotteria</b> - Principal Architect at Nordea <a href="https://www.linkedin.com/in/lagrotteria/" target="_blank"><i class="fab fa-linkedin"></i></a>
   </p>
   <a name="previous"></a>
   <h2 class="mt-4">Previous events</h2>
