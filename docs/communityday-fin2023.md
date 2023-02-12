@@ -66,7 +66,8 @@ image: "og-communityday.png"
   <!--End mc_embed_signup-->
   <a name="contact"></a>
   <h2 class="mt-4">Contact &amp; Organizers</h2>
-  <p>For sponsorship enquires, feedback or any general question, please send an email to <a href="mailto:info@awscommunitynordics.org">info@awscommunitynordics.org</a>.</p>
+  <p>For sponsorship enquires, feedback or any general question, please reach out to any of the main organizers</a>.</p>
+  <!-- <p>For sponsorship enquires, feedback or any general question, please send an email to <a href="mailto:info@awscommunitynordics.org">info@awscommunitynordics.org</a>.</p> -->
   <h3>Main Organizers</h3>
   <p class="mt-4">
     <b>Rolf Koski</b> - VP of Technology at Knowit <a href="https://twitter.com/therolle" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.linkedin.com/in/rolle/" target="_blank"><i class="fab fa-linkedin"></i></a>
