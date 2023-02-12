@@ -52,7 +52,7 @@ image: "og-communityday.png"
   
   <a name="sponsors"></a>
   <h2 class="mt-4">Sponsors</h2>
-  <p>We want to thank our sponsors, who are making this event possible for everyone! Our sponsros this year are the following:</p>
+  <p>We want to thank our sponsors, who are making this event possible for everyone! Our sponsors this year are the following:</p>
   <div class="row pt-5">
     <div class="col text-center"><a href="https://www.nordea.com/en" target="_blank"><img src="/content/img/nordea_logo.png" class="communityday-sponsor-small"></a></div>
     <div class="col text-center"><a href="https://www.knowit.eu/" target="_blank"><img src="/content/img/knowit_logo.png" class="communityday-sponsor-small"></a></div>
@@ -88,7 +88,7 @@ image: "og-communityday.png"
   <a name="previous"></a>
   <h2 class="mt-4">Previous events</h2>
   <p>
-    Previous AWS COmmunity Day Nordics events
+    Previous AWS Community Day Nordics events
     <li> 2018 in Helsinki</li>
     <li> 2019 in <a href="/communityday/2019/">Copenhagen</a></li>
     <li> 2020 in <a href="/communityday/2020/">Stockholm</a> </li>
