@@ -36,7 +36,7 @@ image: "og-communityday.png"
   <h2 class="mt-4">Date &amp; Venue</h2>
   <p>This event is being held <b>Thursday, 20 April 2023</b> in <a href="https://www.google.com/maps/place/Nordea+Vallila+Campus/@60.1895728,24.9540622,17z/data=!3m1!4b1!4m6!3m5!1s0x46920981f73e37f9:0xb412ab79fbbd1bad!8m2!3d60.1895728!4d24.9540622!16s%2Fg%2F11fnwhjyqy?hl=en-US">Nordea Vallila Campus</a> (Aleksis Kiven katu 7, 00500 Helsinki). </p>
 
-   <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2249.807371516021!2d12.55742131592752!3d55.67494978053265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4652530b9cac3615%3A0x5b367ee651f5cfc3!2sScandic+Copenhagen!5e0!3m2!1sen!2sdk!4v1540406635175" width="100%" height="400" frameborder="0" style="border: 0;"></iframe></p>
+   <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1983.4658697382752!2d24.9518681523299!3d60.18957278187961!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46920981f73e37f9%3A0xb412ab79fbbd1bad!2sNordea%20Vallila%20Campus!5e0!3m2!1sfi!2sfi!4v1678196082672!5m2!1sfi!2sfi" width="100%" height="400" frameborder="0" style="border: 0;"></iframe></p>
 
   <a name="tickets"></a>
   <h2 class="mt-4">Tickets and registration</h2>
