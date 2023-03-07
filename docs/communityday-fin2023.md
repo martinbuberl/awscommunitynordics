@@ -40,7 +40,8 @@ image: "og-communityday.png"
 
   <a name="tickets"></a>
   <h2 class="mt-4">Tickets and registration</h2>
-  <p>Tickets for AWS Community Day in Helsinki are free. That's right, free! Registration details will become available in February 2023.</p>
+  <p>Tickets for AWS Community Day in Helsinki are free. That's right, free! </p>
+  <p>Event is currently sold out and we are humbled by the massive interest in our event. If you are interested in attending, sign up on the waitlist on the registration page from the link below. Some tickets always get cancelled, so you still might have a chance!</p>
   <h2 class="display-5 mt-4"><a class="btn btn-lg btn-primary" href="https://www.eventbrite.com/e/aws-community-day-nordics-20th-of-april-2023-helsinki-tickets-536734576567" role="button">Registration is open</a></h2>
   <a name="agenda"></a>
   <h2 class="mt-4">Agenda</h2>
