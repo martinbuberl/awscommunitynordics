@@ -19,6 +19,9 @@ image: "og-communityday.png"
 
   <div class="row pt-4">
     <div class="col text-center"><h5><a href="#agenda">Agenda</a></h5></div>
+    <div class="col text-center"><h5><a href="#equipment">Equipment</a></h5></div>
+    <div class="col text-center"><h5><a href="#deck">Slide decks</a></h5></div>
+    <div class="col text-center"><h5><a href="#recording">Recording</a></h5></div>
   </div>
 
   <p class="mt-4">The AWS Community Day Nordics is a free full day event for AWS users to come together to network, learn from each other and get inspired. The event is organized by the community - for the community.
@@ -29,5 +32,24 @@ image: "og-communityday.png"
   <a name="agenda"></a>
   <h2 class="mt-4">Agenda</h2>
   <p class="mt-4">Agenda to be announced.
+  </p>
+  <a name="equipment"></a>
+  <h2 class="mt-4">Equipment</h2>
+  <p class="mt-4">There will be professional grade AV equipment in place on all of the stages. The speaker station will support HDMI and usb-c connectivity for the video, but you are expected to bring your own laptop to run the slides you have.
+  </p>
+  <a name="deck"></a>
+  <h2 class="mt-4">Slide decks</h2>
+  <p class="mt-4">You are expected to use title slide of the AWS Community Day design reflecting the sponsors, title and date of the talk. This is important as these will be shown also in the recordings.
+  </p>
+  <p>
+  Also make sure that you have the rights to use any images or illustrations you intend to use on your decks
+  </p>
+  <a name="recording"></a>
+  <h2 class="mt-4">Recording</h2>
+  <p class="mt-4">Talks on the Main Stage and Side Stage will be recorded. It will be announced later if we can record Lightning talks.
+  </p>
+  <p>
+  If you wish not to be recorded / published, let the organizers know in advance.
+  </p>
 
 </div>
