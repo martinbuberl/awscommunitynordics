@@ -45,7 +45,7 @@ image: "og-communityday.png"
   <h2 class="display-5 mt-4"><a class="btn btn-lg btn-primary" href="https://www.eventbrite.com/e/aws-community-day-nordics-20th-of-april-2023-helsinki-tickets-536734576567" role="button">Registration is open</a></h2>
   <a name="agenda"></a>
   <h2 class="mt-4">Agenda</h2>
-  <p class="mt-4">Agenda to be announced.
+  <p class="mt-4">Agenda to be announced. The event hours are 9:00 - 17:00 with registration and coffee starting preliminarily at 8:00. Detailed times subject to change.
   
   </p>
   <a name="speakers"></a>
